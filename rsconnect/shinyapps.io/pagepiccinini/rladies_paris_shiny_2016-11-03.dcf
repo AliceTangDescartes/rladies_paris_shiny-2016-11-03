@@ -1,11 +1,10 @@
 name: rladies_paris_shiny_2016-11-03
-title:
 account: pagepiccinini
 server: shinyapps.io
 appId: 132472
-bundleId: 590627
+bundleId: 591197
 url: https://pagepiccinini.shinyapps.io/rladies_paris_shiny_2016-11-03/
-when: 1476871151.05954
+when: 1476909652.59735
 asMultiple: FALSE
 asStatic: FALSE
 ignoredFiles: data/data_plot.txt|data/data.txt|data/rcourse_lesson5_data_elections.txt|data/elections/rcourse_lesson5_data_1964.txt|data/elections/rcourse_lesson5_data_1972.txt|data/elections/rcourse_lesson5_data_1980.txt|data/elections/rcourse_lesson5_data_1984.txt|data/elections/rcourse_lesson5_data_1992.txt|data/elections/rcourse_lesson5_data_1996.txt|data/elections/rcourse_lesson5_data_2004.txt|data/elections/rcourse_lesson5_data_2012.txt|scripts/data_maker.R

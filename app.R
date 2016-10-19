@@ -24,20 +24,16 @@ data_result = inner_join(data, data_electoral)
 ui <- fluidPage(
   # Add space for year selector
   selectInput(inputId = "year", label = "Election Year",
-              #choices = c("1789", "1792", "1796", "1800", "1804", "1808", "1812", "1816", "1820", "1824", "1828",
-              #              "1832", "1836", "1840", "1844", "1848", "1852", "1856", "1860", "1864", "1868", "1872",
-              #              "1876", "1880", "1884", "1888", "1892", "1896", "1900", "1904", "1908", "1912", "1916",
-              #              "1920", "1924", "1928", "1932", "1936", "1940", "1944", "1948", "1952", "1956", "1960",
-              #              "1964", "1968", "1972", "1976", "1980", "1984", "1988", "1992", "1996", "2000", "2004",
-              #              "2008", "2012")
               choices = c(levels(data$year))),
   
+  # Add space for election summary sentence
+  textOutput("result_sent"),
+  
+  # Add space for election summary table
+  tableOutput("result_tab"),
+  
   # Add space for map 
-  plotOutput("map"),
-  
-  # Add space for election summary
-  verbatimTextOutput("result")
-  
+  plotOutput("map")
 )
 
 
@@ -56,7 +52,7 @@ server <- function(input, output) {
       theme(legend.position = "top", text = element_text(size = 40))
   })
   
-  output$result = renderPrint({
+  data_sum = reactive({
     data_result %>%
       filter(year == input$year) %>%
       group_by(party_winner) %>%
@@ -64,7 +60,17 @@ server <- function(input, output) {
       ungroup() %>%
       filter(!is.na(party_winner))
   })
-    
+  
+  output$result_sent = renderText({
+    paste("The winner of the election was the",
+          filter(data_sum(), total_votes == max(total_votes))$party_winner,
+          "party with", filter(data_sum(), total_votes == max(total_votes))$total_votes,
+          "votes.")
+  })
+  
+  output$result_tab = renderTable({
+    data_sum()
+  })
 
 }
 
