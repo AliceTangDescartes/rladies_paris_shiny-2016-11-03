@@ -1,0 +1,2908 @@
+"state"	"year"	"party_winner"
+"1"	"Alabama"	"1789"	NA
+"2"	"Alaska"	"1789"	NA
+"3"	"Arizona"	"1789"	NA
+"4"	"Arkansas"	"1789"	NA
+"5"	"California"	"1789"	NA
+"6"	"Colorado"	"1789"	NA
+"7"	"Connecticut"	"1789"	"GW"
+"8"	"Delaware"	"1789"	"GW"
+"9"	"D.C."	"1789"	NA
+"10"	"Florida"	"1789"	NA
+"11"	"Georgia"	"1789"	"GW"
+"12"	"Hawaii"	"1789"	NA
+"13"	"Idaho"	"1789"	NA
+"14"	"Illinois"	"1789"	NA
+"15"	"Indiana"	"1789"	NA
+"16"	"Iowa"	"1789"	NA
+"17"	"Kansas"	"1789"	NA
+"18"	"Kentucky"	"1789"	NA
+"19"	"Louisiana"	"1789"	NA
+"20"	"Maine"	"1789"	NA
+"21"	"Maryland"	"1789"	"GW"
+"22"	"Massachusetts"	"1789"	"GW"
+"23"	"Michigan"	"1789"	NA
+"24"	"Minnesota"	"1789"	NA
+"25"	"Mississippi"	"1789"	NA
+"26"	"Missouri"	"1789"	NA
+"27"	"Montana"	"1789"	NA
+"28"	"Nebraska"	"1789"	NA
+"29"	"Nevada"	"1789"	NA
+"30"	"New Hampshire"	"1789"	"GW"
+"31"	"New Jersey"	"1789"	"GW"
+"32"	"New Mexico"	"1789"	NA
+"33"	"New York"	"1789"	"GW"
+"34"	"North Carolina"	"1789"	NA
+"35"	"North Dakota"	"1789"	NA
+"36"	"Ohio"	"1789"	NA
+"37"	"Oklahoma"	"1789"	NA
+"38"	"Oregon"	"1789"	NA
+"39"	"Pennsylvania"	"1789"	"GW"
+"40"	"Rhode Island"	"1789"	NA
+"41"	"South Carolina"	"1789"	"GW"
+"42"	"South Dakota"	"1789"	NA
+"43"	"Tennessee"	"1789"	NA
+"44"	"Texas"	"1789"	NA
+"45"	"Utah"	"1789"	NA
+"46"	"Vermont"	"1789"	NA
+"47"	"Virginia"	"1789"	"GW"
+"48"	"Washington"	"1789"	NA
+"49"	"West Virginia"	"1789"	NA
+"50"	"Wisconsin"	"1789"	NA
+"51"	"Wyoming"	"1789"	NA
+"52"	"Alabama"	"1792"	NA
+"53"	"Alaska"	"1792"	NA
+"54"	"Arizona"	"1792"	NA
+"55"	"Arkansas"	"1792"	NA
+"56"	"California"	"1792"	NA
+"57"	"Colorado"	"1792"	NA
+"58"	"Connecticut"	"1792"	"GW"
+"59"	"Delaware"	"1792"	"GW"
+"60"	"D.C."	"1792"	NA
+"61"	"Florida"	"1792"	NA
+"62"	"Georgia"	"1792"	"GW"
+"63"	"Hawaii"	"1792"	NA
+"64"	"Idaho"	"1792"	NA
+"65"	"Illinois"	"1792"	NA
+"66"	"Indiana"	"1792"	NA
+"67"	"Iowa"	"1792"	NA
+"68"	"Kansas"	"1792"	NA
+"69"	"Kentucky"	"1792"	"GW"
+"70"	"Louisiana"	"1792"	NA
+"71"	"Maine"	"1792"	NA
+"72"	"Maryland"	"1792"	"GW"
+"73"	"Massachusetts"	"1792"	"GW"
+"74"	"Michigan"	"1792"	NA
+"75"	"Minnesota"	"1792"	NA
+"76"	"Mississippi"	"1792"	NA
+"77"	"Missouri"	"1792"	NA
+"78"	"Montana"	"1792"	NA
+"79"	"Nebraska"	"1792"	NA
+"80"	"Nevada"	"1792"	NA
+"81"	"New Hampshire"	"1792"	"GW"
+"82"	"New Jersey"	"1792"	"GW"
+"83"	"New Mexico"	"1792"	NA
+"84"	"New York"	"1792"	"GW"
+"85"	"North Carolina"	"1792"	"GW"
+"86"	"North Dakota"	"1792"	NA
+"87"	"Ohio"	"1792"	NA
+"88"	"Oklahoma"	"1792"	NA
+"89"	"Oregon"	"1792"	NA
+"90"	"Pennsylvania"	"1792"	"GW"
+"91"	"Rhode Island"	"1792"	"GW"
+"92"	"South Carolina"	"1792"	"GW"
+"93"	"South Dakota"	"1792"	NA
+"94"	"Tennessee"	"1792"	NA
+"95"	"Texas"	"1792"	NA
+"96"	"Utah"	"1792"	NA
+"97"	"Vermont"	"1792"	"GW"
+"98"	"Virginia"	"1792"	"GW"
+"99"	"Washington"	"1792"	NA
+"100"	"West Virginia"	"1792"	NA
+"101"	"Wisconsin"	"1792"	NA
+"102"	"Wyoming"	"1792"	NA
+"103"	"Alabama"	"1796"	NA
+"104"	"Alaska"	"1796"	NA
+"105"	"Arizona"	"1796"	NA
+"106"	"Arkansas"	"1796"	NA
+"107"	"California"	"1796"	NA
+"108"	"Colorado"	"1796"	NA
+"109"	"Connecticut"	"1796"	"F"
+"110"	"Delaware"	"1796"	"F"
+"111"	"D.C."	"1796"	NA
+"112"	"Florida"	"1796"	NA
+"113"	"Georgia"	"1796"	"DR"
+"114"	"Hawaii"	"1796"	NA
+"115"	"Idaho"	"1796"	NA
+"116"	"Illinois"	"1796"	NA
+"117"	"Indiana"	"1796"	NA
+"118"	"Iowa"	"1796"	NA
+"119"	"Kansas"	"1796"	NA
+"120"	"Kentucky"	"1796"	"DR"
+"121"	"Louisiana"	"1796"	NA
+"122"	"Maine"	"1796"	NA
+"123"	"Maryland"	"1796"	"F"
+"124"	"Massachusetts"	"1796"	"F"
+"125"	"Michigan"	"1796"	NA
+"126"	"Minnesota"	"1796"	NA
+"127"	"Mississippi"	"1796"	NA
+"128"	"Missouri"	"1796"	NA
+"129"	"Montana"	"1796"	NA
+"130"	"Nebraska"	"1796"	NA
+"131"	"Nevada"	"1796"	NA
+"132"	"New Hampshire"	"1796"	"F"
+"133"	"New Jersey"	"1796"	"F"
+"134"	"New Mexico"	"1796"	NA
+"135"	"New York"	"1796"	"F"
+"136"	"North Carolina"	"1796"	"DR"
+"137"	"North Dakota"	"1796"	NA
+"138"	"Ohio"	"1796"	NA
+"139"	"Oklahoma"	"1796"	NA
+"140"	"Oregon"	"1796"	NA
+"141"	"Pennsylvania"	"1796"	"DR"
+"142"	"Rhode Island"	"1796"	"F"
+"143"	"South Carolina"	"1796"	"DR"
+"144"	"South Dakota"	"1796"	NA
+"145"	"Tennessee"	"1796"	"DR"
+"146"	"Texas"	"1796"	NA
+"147"	"Utah"	"1796"	NA
+"148"	"Vermont"	"1796"	"F"
+"149"	"Virginia"	"1796"	"DR"
+"150"	"Washington"	"1796"	NA
+"151"	"West Virginia"	"1796"	NA
+"152"	"Wisconsin"	"1796"	NA
+"153"	"Wyoming"	"1796"	NA
+"154"	"Alabama"	"1800"	NA
+"155"	"Alaska"	"1800"	NA
+"156"	"Arizona"	"1800"	NA
+"157"	"Arkansas"	"1800"	NA
+"158"	"California"	"1800"	NA
+"159"	"Colorado"	"1800"	NA
+"160"	"Connecticut"	"1800"	"F"
+"161"	"Delaware"	"1800"	"F"
+"162"	"D.C."	"1800"	NA
+"163"	"Florida"	"1800"	NA
+"164"	"Georgia"	"1800"	"DR"
+"165"	"Hawaii"	"1800"	NA
+"166"	"Idaho"	"1800"	NA
+"167"	"Illinois"	"1800"	NA
+"168"	"Indiana"	"1800"	NA
+"169"	"Iowa"	"1800"	NA
+"170"	"Kansas"	"1800"	NA
+"171"	"Kentucky"	"1800"	"DR"
+"172"	"Louisiana"	"1800"	NA
+"173"	"Maine"	"1800"	NA
+"174"	"Maryland"	"1800"	"SP"
+"175"	"Massachusetts"	"1800"	"F"
+"176"	"Michigan"	"1800"	NA
+"177"	"Minnesota"	"1800"	NA
+"178"	"Mississippi"	"1800"	NA
+"179"	"Missouri"	"1800"	NA
+"180"	"Montana"	"1800"	NA
+"181"	"Nebraska"	"1800"	NA
+"182"	"Nevada"	"1800"	NA
+"183"	"New Hampshire"	"1800"	"F"
+"184"	"New Jersey"	"1800"	"F"
+"185"	"New Mexico"	"1800"	NA
+"186"	"New York"	"1800"	"DR"
+"187"	"North Carolina"	"1800"	"DR"
+"188"	"North Dakota"	"1800"	NA
+"189"	"Ohio"	"1800"	NA
+"190"	"Oklahoma"	"1800"	NA
+"191"	"Oregon"	"1800"	NA
+"192"	"Pennsylvania"	"1800"	"DR"
+"193"	"Rhode Island"	"1800"	"F"
+"194"	"South Carolina"	"1800"	"DR"
+"195"	"South Dakota"	"1800"	NA
+"196"	"Tennessee"	"1800"	"DR"
+"197"	"Texas"	"1800"	NA
+"198"	"Utah"	"1800"	NA
+"199"	"Vermont"	"1800"	"F"
+"200"	"Virginia"	"1800"	"DR"
+"201"	"Washington"	"1800"	NA
+"202"	"West Virginia"	"1800"	NA
+"203"	"Wisconsin"	"1800"	NA
+"204"	"Wyoming"	"1800"	NA
+"205"	"Alabama"	"1804"	NA
+"206"	"Alaska"	"1804"	NA
+"207"	"Arizona"	"1804"	NA
+"208"	"Arkansas"	"1804"	NA
+"209"	"California"	"1804"	NA
+"210"	"Colorado"	"1804"	NA
+"211"	"Connecticut"	"1804"	"F"
+"212"	"Delaware"	"1804"	"F"
+"213"	"D.C."	"1804"	NA
+"214"	"Florida"	"1804"	NA
+"215"	"Georgia"	"1804"	"DR"
+"216"	"Hawaii"	"1804"	NA
+"217"	"Idaho"	"1804"	NA
+"218"	"Illinois"	"1804"	NA
+"219"	"Indiana"	"1804"	NA
+"220"	"Iowa"	"1804"	NA
+"221"	"Kansas"	"1804"	NA
+"222"	"Kentucky"	"1804"	"DR"
+"223"	"Louisiana"	"1804"	NA
+"224"	"Maine"	"1804"	NA
+"225"	"Maryland"	"1804"	"DR"
+"226"	"Massachusetts"	"1804"	"DR"
+"227"	"Michigan"	"1804"	NA
+"228"	"Minnesota"	"1804"	NA
+"229"	"Mississippi"	"1804"	NA
+"230"	"Missouri"	"1804"	NA
+"231"	"Montana"	"1804"	NA
+"232"	"Nebraska"	"1804"	NA
+"233"	"Nevada"	"1804"	NA
+"234"	"New Hampshire"	"1804"	"DR"
+"235"	"New Jersey"	"1804"	"DR"
+"236"	"New Mexico"	"1804"	NA
+"237"	"New York"	"1804"	"DR"
+"238"	"North Carolina"	"1804"	"DR"
+"239"	"North Dakota"	"1804"	NA
+"240"	"Ohio"	"1804"	"DR"
+"241"	"Oklahoma"	"1804"	NA
+"242"	"Oregon"	"1804"	NA
+"243"	"Pennsylvania"	"1804"	"DR"
+"244"	"Rhode Island"	"1804"	"DR"
+"245"	"South Carolina"	"1804"	"DR"
+"246"	"South Dakota"	"1804"	NA
+"247"	"Tennessee"	"1804"	"DR"
+"248"	"Texas"	"1804"	NA
+"249"	"Utah"	"1804"	NA
+"250"	"Vermont"	"1804"	"DR"
+"251"	"Virginia"	"1804"	"DR"
+"252"	"Washington"	"1804"	NA
+"253"	"West Virginia"	"1804"	NA
+"254"	"Wisconsin"	"1804"	NA
+"255"	"Wyoming"	"1804"	NA
+"256"	"Alabama"	"1808"	NA
+"257"	"Alaska"	"1808"	NA
+"258"	"Arizona"	"1808"	NA
+"259"	"Arkansas"	"1808"	NA
+"260"	"California"	"1808"	NA
+"261"	"Colorado"	"1808"	NA
+"262"	"Connecticut"	"1808"	"F"
+"263"	"Delaware"	"1808"	"F"
+"264"	"D.C."	"1808"	NA
+"265"	"Florida"	"1808"	NA
+"266"	"Georgia"	"1808"	"DR"
+"267"	"Hawaii"	"1808"	NA
+"268"	"Idaho"	"1808"	NA
+"269"	"Illinois"	"1808"	NA
+"270"	"Indiana"	"1808"	NA
+"271"	"Iowa"	"1808"	NA
+"272"	"Kansas"	"1808"	NA
+"273"	"Kentucky"	"1808"	"DR"
+"274"	"Louisiana"	"1808"	NA
+"275"	"Maine"	"1808"	NA
+"276"	"Maryland"	"1808"	"DR"
+"277"	"Massachusetts"	"1808"	"F"
+"278"	"Michigan"	"1808"	NA
+"279"	"Minnesota"	"1808"	NA
+"280"	"Mississippi"	"1808"	NA
+"281"	"Missouri"	"1808"	NA
+"282"	"Montana"	"1808"	NA
+"283"	"Nebraska"	"1808"	NA
+"284"	"Nevada"	"1808"	NA
+"285"	"New Hampshire"	"1808"	"F"
+"286"	"New Jersey"	"1808"	"DR"
+"287"	"New Mexico"	"1808"	NA
+"288"	"New York"	"1808"	"DR"
+"289"	"North Carolina"	"1808"	"DR"
+"290"	"North Dakota"	"1808"	NA
+"291"	"Ohio"	"1808"	"DR"
+"292"	"Oklahoma"	"1808"	NA
+"293"	"Oregon"	"1808"	NA
+"294"	"Pennsylvania"	"1808"	"DR"
+"295"	"Rhode Island"	"1808"	"F"
+"296"	"South Carolina"	"1808"	"DR"
+"297"	"South Dakota"	"1808"	NA
+"298"	"Tennessee"	"1808"	"DR"
+"299"	"Texas"	"1808"	NA
+"300"	"Utah"	"1808"	NA
+"301"	"Vermont"	"1808"	"DR"
+"302"	"Virginia"	"1808"	"DR"
+"303"	"Washington"	"1808"	NA
+"304"	"West Virginia"	"1808"	NA
+"305"	"Wisconsin"	"1808"	NA
+"306"	"Wyoming"	"1808"	NA
+"307"	"Alabama"	"1812"	NA
+"308"	"Alaska"	"1812"	NA
+"309"	"Arizona"	"1812"	NA
+"310"	"Arkansas"	"1812"	NA
+"311"	"California"	"1812"	NA
+"312"	"Colorado"	"1812"	NA
+"313"	"Connecticut"	"1812"	"F"
+"314"	"Delaware"	"1812"	"F"
+"315"	"D.C."	"1812"	NA
+"316"	"Florida"	"1812"	NA
+"317"	"Georgia"	"1812"	"DR"
+"318"	"Hawaii"	"1812"	NA
+"319"	"Idaho"	"1812"	NA
+"320"	"Illinois"	"1812"	NA
+"321"	"Indiana"	"1812"	NA
+"322"	"Iowa"	"1812"	NA
+"323"	"Kansas"	"1812"	NA
+"324"	"Kentucky"	"1812"	"DR"
+"325"	"Louisiana"	"1812"	"DR"
+"326"	"Maine"	"1812"	NA
+"327"	"Maryland"	"1812"	"DR"
+"328"	"Massachusetts"	"1812"	"F"
+"329"	"Michigan"	"1812"	NA
+"330"	"Minnesota"	"1812"	NA
+"331"	"Mississippi"	"1812"	NA
+"332"	"Missouri"	"1812"	NA
+"333"	"Montana"	"1812"	NA
+"334"	"Nebraska"	"1812"	NA
+"335"	"Nevada"	"1812"	NA
+"336"	"New Hampshire"	"1812"	"F"
+"337"	"New Jersey"	"1812"	"F"
+"338"	"New Mexico"	"1812"	NA
+"339"	"New York"	"1812"	"F"
+"340"	"North Carolina"	"1812"	"DR"
+"341"	"North Dakota"	"1812"	NA
+"342"	"Ohio"	"1812"	"DR"
+"343"	"Oklahoma"	"1812"	NA
+"344"	"Oregon"	"1812"	NA
+"345"	"Pennsylvania"	"1812"	"DR"
+"346"	"Rhode Island"	"1812"	"F"
+"347"	"South Carolina"	"1812"	"DR"
+"348"	"South Dakota"	"1812"	NA
+"349"	"Tennessee"	"1812"	"DR"
+"350"	"Texas"	"1812"	NA
+"351"	"Utah"	"1812"	NA
+"352"	"Vermont"	"1812"	"DR"
+"353"	"Virginia"	"1812"	"DR"
+"354"	"Washington"	"1812"	NA
+"355"	"West Virginia"	"1812"	NA
+"356"	"Wisconsin"	"1812"	NA
+"357"	"Wyoming"	"1812"	NA
+"358"	"Alabama"	"1816"	NA
+"359"	"Alaska"	"1816"	NA
+"360"	"Arizona"	"1816"	NA
+"361"	"Arkansas"	"1816"	NA
+"362"	"California"	"1816"	NA
+"363"	"Colorado"	"1816"	NA
+"364"	"Connecticut"	"1816"	"F"
+"365"	"Delaware"	"1816"	"F"
+"366"	"D.C."	"1816"	NA
+"367"	"Florida"	"1816"	NA
+"368"	"Georgia"	"1816"	"DR"
+"369"	"Hawaii"	"1816"	NA
+"370"	"Idaho"	"1816"	NA
+"371"	"Illinois"	"1816"	NA
+"372"	"Indiana"	"1816"	"DR"
+"373"	"Iowa"	"1816"	NA
+"374"	"Kansas"	"1816"	NA
+"375"	"Kentucky"	"1816"	"DR"
+"376"	"Louisiana"	"1816"	"DR"
+"377"	"Maine"	"1816"	NA
+"378"	"Maryland"	"1816"	"DR"
+"379"	"Massachusetts"	"1816"	"F"
+"380"	"Michigan"	"1816"	NA
+"381"	"Minnesota"	"1816"	NA
+"382"	"Mississippi"	"1816"	NA
+"383"	"Missouri"	"1816"	NA
+"384"	"Montana"	"1816"	NA
+"385"	"Nebraska"	"1816"	NA
+"386"	"Nevada"	"1816"	NA
+"387"	"New Hampshire"	"1816"	"DR"
+"388"	"New Jersey"	"1816"	"DR"
+"389"	"New Mexico"	"1816"	NA
+"390"	"New York"	"1816"	"DR"
+"391"	"North Carolina"	"1816"	"DR"
+"392"	"North Dakota"	"1816"	NA
+"393"	"Ohio"	"1816"	"DR"
+"394"	"Oklahoma"	"1816"	NA
+"395"	"Oregon"	"1816"	NA
+"396"	"Pennsylvania"	"1816"	"DR"
+"397"	"Rhode Island"	"1816"	"DR"
+"398"	"South Carolina"	"1816"	"DR"
+"399"	"South Dakota"	"1816"	NA
+"400"	"Tennessee"	"1816"	"DR"
+"401"	"Texas"	"1816"	NA
+"402"	"Utah"	"1816"	NA
+"403"	"Vermont"	"1816"	"DR"
+"404"	"Virginia"	"1816"	"DR"
+"405"	"Washington"	"1816"	NA
+"406"	"West Virginia"	"1816"	NA
+"407"	"Wisconsin"	"1816"	NA
+"408"	"Wyoming"	"1816"	NA
+"409"	"Alabama"	"1820"	"DR"
+"410"	"Alaska"	"1820"	NA
+"411"	"Arizona"	"1820"	NA
+"412"	"Arkansas"	"1820"	NA
+"413"	"California"	"1820"	NA
+"414"	"Colorado"	"1820"	NA
+"415"	"Connecticut"	"1820"	"DR"
+"416"	"Delaware"	"1820"	"DR"
+"417"	"D.C."	"1820"	NA
+"418"	"Florida"	"1820"	NA
+"419"	"Georgia"	"1820"	"DR"
+"420"	"Hawaii"	"1820"	NA
+"421"	"Idaho"	"1820"	NA
+"422"	"Illinois"	"1820"	"DR"
+"423"	"Indiana"	"1820"	"DR"
+"424"	"Iowa"	"1820"	NA
+"425"	"Kansas"	"1820"	NA
+"426"	"Kentucky"	"1820"	"DR"
+"427"	"Louisiana"	"1820"	"DR"
+"428"	"Maine"	"1820"	"DR"
+"429"	"Maryland"	"1820"	"DR"
+"430"	"Massachusetts"	"1820"	"DR"
+"431"	"Michigan"	"1820"	NA
+"432"	"Minnesota"	"1820"	NA
+"433"	"Mississippi"	"1820"	"DR"
+"434"	"Missouri"	"1820"	"DR"
+"435"	"Montana"	"1820"	NA
+"436"	"Nebraska"	"1820"	NA
+"437"	"Nevada"	"1820"	NA
+"438"	"New Hampshire"	"1820"	"DR"
+"439"	"New Jersey"	"1820"	"DR"
+"440"	"New Mexico"	"1820"	NA
+"441"	"New York"	"1820"	"DR"
+"442"	"North Carolina"	"1820"	"DR"
+"443"	"North Dakota"	"1820"	NA
+"444"	"Ohio"	"1820"	"DR"
+"445"	"Oklahoma"	"1820"	NA
+"446"	"Oregon"	"1820"	NA
+"447"	"Pennsylvania"	"1820"	"DR"
+"448"	"Rhode Island"	"1820"	"DR"
+"449"	"South Carolina"	"1820"	"DR"
+"450"	"South Dakota"	"1820"	NA
+"451"	"Tennessee"	"1820"	"DR"
+"452"	"Texas"	"1820"	NA
+"453"	"Utah"	"1820"	NA
+"454"	"Vermont"	"1820"	"DR"
+"455"	"Virginia"	"1820"	"DR"
+"456"	"Washington"	"1820"	NA
+"457"	"West Virginia"	"1820"	NA
+"458"	"Wisconsin"	"1820"	NA
+"459"	"Wyoming"	"1820"	NA
+"460"	"Alabama"	"1824"	"Jackson"
+"461"	"Alaska"	"1824"	NA
+"462"	"Arizona"	"1824"	NA
+"463"	"Arkansas"	"1824"	NA
+"464"	"California"	"1824"	NA
+"465"	"Colorado"	"1824"	NA
+"466"	"Connecticut"	"1824"	"Adams"
+"467"	"Delaware"	"1824"	"Crawford"
+"468"	"D.C."	"1824"	NA
+"469"	"Florida"	"1824"	NA
+"470"	"Georgia"	"1824"	"Crawford"
+"471"	"Hawaii"	"1824"	NA
+"472"	"Idaho"	"1824"	NA
+"473"	"Illinois"	"1824"	"Jackson"
+"474"	"Indiana"	"1824"	"Jackson"
+"475"	"Iowa"	"1824"	NA
+"476"	"Kansas"	"1824"	NA
+"477"	"Kentucky"	"1824"	"Clay"
+"478"	"Louisiana"	"1824"	"Jackson"
+"479"	"Maine"	"1824"	"Adams"
+"480"	"Maryland"	"1824"	"Jackson"
+"481"	"Massachusetts"	"1824"	"Adams"
+"482"	"Michigan"	"1824"	NA
+"483"	"Minnesota"	"1824"	NA
+"484"	"Mississippi"	"1824"	"Jackson"
+"485"	"Missouri"	"1824"	"Jackson"
+"486"	"Montana"	"1824"	NA
+"487"	"Nebraska"	"1824"	NA
+"488"	"Nevada"	"1824"	NA
+"489"	"New Hampshire"	"1824"	"Adams"
+"490"	"New Jersey"	"1824"	"Jackson"
+"491"	"New Mexico"	"1824"	NA
+"492"	"New York"	"1824"	"Adams"
+"493"	"North Carolina"	"1824"	"Jackson"
+"494"	"North Dakota"	"1824"	NA
+"495"	"Ohio"	"1824"	"Clay"
+"496"	"Oklahoma"	"1824"	NA
+"497"	"Oregon"	"1824"	NA
+"498"	"Pennsylvania"	"1824"	"Jackson"
+"499"	"Rhode Island"	"1824"	"Adams"
+"500"	"South Carolina"	"1824"	"Jackson"
+"501"	"South Dakota"	"1824"	NA
+"502"	"Tennessee"	"1824"	"Jackson"
+"503"	"Texas"	"1824"	NA
+"504"	"Utah"	"1824"	NA
+"505"	"Vermont"	"1824"	"Adams"
+"506"	"Virginia"	"1824"	"Crawford"
+"507"	"Washington"	"1824"	NA
+"508"	"West Virginia"	"1824"	NA
+"509"	"Wisconsin"	"1824"	NA
+"510"	"Wyoming"	"1824"	NA
+"511"	"Alabama"	"1828"	"D"
+"512"	"Alaska"	"1828"	NA
+"513"	"Arizona"	"1828"	NA
+"514"	"Arkansas"	"1828"	NA
+"515"	"California"	"1828"	NA
+"516"	"Colorado"	"1828"	NA
+"517"	"Connecticut"	"1828"	"NR"
+"518"	"Delaware"	"1828"	"NR"
+"519"	"D.C."	"1828"	NA
+"520"	"Florida"	"1828"	NA
+"521"	"Georgia"	"1828"	"D"
+"522"	"Hawaii"	"1828"	NA
+"523"	"Idaho"	"1828"	NA
+"524"	"Illinois"	"1828"	"D"
+"525"	"Indiana"	"1828"	"D"
+"526"	"Iowa"	"1828"	NA
+"527"	"Kansas"	"1828"	NA
+"528"	"Kentucky"	"1828"	"D"
+"529"	"Louisiana"	"1828"	"D"
+"530"	"Maine"	"1828"	"NR"
+"531"	"Maryland"	"1828"	"NR"
+"532"	"Massachusetts"	"1828"	"NR"
+"533"	"Michigan"	"1828"	NA
+"534"	"Minnesota"	"1828"	NA
+"535"	"Mississippi"	"1828"	"D"
+"536"	"Missouri"	"1828"	"D"
+"537"	"Montana"	"1828"	NA
+"538"	"Nebraska"	"1828"	NA
+"539"	"Nevada"	"1828"	NA
+"540"	"New Hampshire"	"1828"	"NR"
+"541"	"New Jersey"	"1828"	"NR"
+"542"	"New Mexico"	"1828"	NA
+"543"	"New York"	"1828"	"D"
+"544"	"North Carolina"	"1828"	"D"
+"545"	"North Dakota"	"1828"	NA
+"546"	"Ohio"	"1828"	"D"
+"547"	"Oklahoma"	"1828"	NA
+"548"	"Oregon"	"1828"	NA
+"549"	"Pennsylvania"	"1828"	"D"
+"550"	"Rhode Island"	"1828"	"NR"
+"551"	"South Carolina"	"1828"	"D"
+"552"	"South Dakota"	"1828"	NA
+"553"	"Tennessee"	"1828"	"D"
+"554"	"Texas"	"1828"	NA
+"555"	"Utah"	"1828"	NA
+"556"	"Vermont"	"1828"	"NR"
+"557"	"Virginia"	"1828"	"D"
+"558"	"Washington"	"1828"	NA
+"559"	"West Virginia"	"1828"	NA
+"560"	"Wisconsin"	"1828"	NA
+"561"	"Wyoming"	"1828"	NA
+"562"	"Alabama"	"1832"	"D"
+"563"	"Alaska"	"1832"	NA
+"564"	"Arizona"	"1832"	NA
+"565"	"Arkansas"	"1832"	NA
+"566"	"California"	"1832"	NA
+"567"	"Colorado"	"1832"	NA
+"568"	"Connecticut"	"1832"	"NR"
+"569"	"Delaware"	"1832"	"NR"
+"570"	"D.C."	"1832"	NA
+"571"	"Florida"	"1832"	NA
+"572"	"Georgia"	"1832"	"D"
+"573"	"Hawaii"	"1832"	NA
+"574"	"Idaho"	"1832"	NA
+"575"	"Illinois"	"1832"	"D"
+"576"	"Indiana"	"1832"	"D"
+"577"	"Iowa"	"1832"	NA
+"578"	"Kansas"	"1832"	NA
+"579"	"Kentucky"	"1832"	"NR"
+"580"	"Louisiana"	"1832"	"D"
+"581"	"Maine"	"1832"	"D"
+"582"	"Maryland"	"1832"	"NR"
+"583"	"Massachusetts"	"1832"	"NR"
+"584"	"Michigan"	"1832"	NA
+"585"	"Minnesota"	"1832"	NA
+"586"	"Mississippi"	"1832"	"D"
+"587"	"Missouri"	"1832"	"D"
+"588"	"Montana"	"1832"	NA
+"589"	"Nebraska"	"1832"	NA
+"590"	"Nevada"	"1832"	NA
+"591"	"New Hampshire"	"1832"	"D"
+"592"	"New Jersey"	"1832"	"D"
+"593"	"New Mexico"	"1832"	NA
+"594"	"New York"	"1832"	"D"
+"595"	"North Carolina"	"1832"	"D"
+"596"	"North Dakota"	"1832"	NA
+"597"	"Ohio"	"1832"	"D"
+"598"	"Oklahoma"	"1832"	NA
+"599"	"Oregon"	"1832"	NA
+"600"	"Pennsylvania"	"1832"	"D"
+"601"	"Rhode Island"	"1832"	"NR"
+"602"	"South Carolina"	"1832"	"N"
+"603"	"South Dakota"	"1832"	NA
+"604"	"Tennessee"	"1832"	"D"
+"605"	"Texas"	"1832"	NA
+"606"	"Utah"	"1832"	NA
+"607"	"Vermont"	"1832"	"AM"
+"608"	"Virginia"	"1832"	"D"
+"609"	"Washington"	"1832"	NA
+"610"	"West Virginia"	"1832"	NA
+"611"	"Wisconsin"	"1832"	NA
+"612"	"Wyoming"	"1832"	NA
+"613"	"Alabama"	"1836"	"D"
+"614"	"Alaska"	"1836"	NA
+"615"	"Arizona"	"1836"	NA
+"616"	"Arkansas"	"1836"	"D"
+"617"	"California"	"1836"	NA
+"618"	"Colorado"	"1836"	NA
+"619"	"Connecticut"	"1836"	"D"
+"620"	"Delaware"	"1836"	"W"
+"621"	"D.C."	"1836"	NA
+"622"	"Florida"	"1836"	NA
+"623"	"Georgia"	"1836"	"W"
+"624"	"Hawaii"	"1836"	NA
+"625"	"Idaho"	"1836"	NA
+"626"	"Illinois"	"1836"	"D"
+"627"	"Indiana"	"1836"	"W"
+"628"	"Iowa"	"1836"	NA
+"629"	"Kansas"	"1836"	NA
+"630"	"Kentucky"	"1836"	"W"
+"631"	"Louisiana"	"1836"	"D"
+"632"	"Maine"	"1836"	"D"
+"633"	"Maryland"	"1836"	"W"
+"634"	"Massachusetts"	"1836"	"W"
+"635"	"Michigan"	"1836"	"D"
+"636"	"Minnesota"	"1836"	NA
+"637"	"Mississippi"	"1836"	"D"
+"638"	"Missouri"	"1836"	"D"
+"639"	"Montana"	"1836"	NA
+"640"	"Nebraska"	"1836"	NA
+"641"	"Nevada"	"1836"	NA
+"642"	"New Hampshire"	"1836"	"D"
+"643"	"New Jersey"	"1836"	"W"
+"644"	"New Mexico"	"1836"	NA
+"645"	"New York"	"1836"	"D"
+"646"	"North Carolina"	"1836"	"D"
+"647"	"North Dakota"	"1836"	NA
+"648"	"Ohio"	"1836"	"W"
+"649"	"Oklahoma"	"1836"	NA
+"650"	"Oregon"	"1836"	NA
+"651"	"Pennsylvania"	"1836"	"D"
+"652"	"Rhode Island"	"1836"	"D"
+"653"	"South Carolina"	"1836"	"W"
+"654"	"South Dakota"	"1836"	NA
+"655"	"Tennessee"	"1836"	"W"
+"656"	"Texas"	"1836"	NA
+"657"	"Utah"	"1836"	NA
+"658"	"Vermont"	"1836"	"W"
+"659"	"Virginia"	"1836"	"D"
+"660"	"Washington"	"1836"	NA
+"661"	"West Virginia"	"1836"	NA
+"662"	"Wisconsin"	"1836"	NA
+"663"	"Wyoming"	"1836"	NA
+"664"	"Alabama"	"1840"	"D"
+"665"	"Alaska"	"1840"	NA
+"666"	"Arizona"	"1840"	NA
+"667"	"Arkansas"	"1840"	"D"
+"668"	"California"	"1840"	NA
+"669"	"Colorado"	"1840"	NA
+"670"	"Connecticut"	"1840"	"W"
+"671"	"Delaware"	"1840"	"W"
+"672"	"D.C."	"1840"	NA
+"673"	"Florida"	"1840"	NA
+"674"	"Georgia"	"1840"	"W"
+"675"	"Hawaii"	"1840"	NA
+"676"	"Idaho"	"1840"	NA
+"677"	"Illinois"	"1840"	"D"
+"678"	"Indiana"	"1840"	"W"
+"679"	"Iowa"	"1840"	NA
+"680"	"Kansas"	"1840"	NA
+"681"	"Kentucky"	"1840"	"W"
+"682"	"Louisiana"	"1840"	"W"
+"683"	"Maine"	"1840"	"W"
+"684"	"Maryland"	"1840"	"W"
+"685"	"Massachusetts"	"1840"	"W"
+"686"	"Michigan"	"1840"	"W"
+"687"	"Minnesota"	"1840"	NA
+"688"	"Mississippi"	"1840"	"W"
+"689"	"Missouri"	"1840"	"D"
+"690"	"Montana"	"1840"	NA
+"691"	"Nebraska"	"1840"	NA
+"692"	"Nevada"	"1840"	NA
+"693"	"New Hampshire"	"1840"	"D"
+"694"	"New Jersey"	"1840"	"W"
+"695"	"New Mexico"	"1840"	NA
+"696"	"New York"	"1840"	"W"
+"697"	"North Carolina"	"1840"	"W"
+"698"	"North Dakota"	"1840"	NA
+"699"	"Ohio"	"1840"	"W"
+"700"	"Oklahoma"	"1840"	NA
+"701"	"Oregon"	"1840"	NA
+"702"	"Pennsylvania"	"1840"	"W"
+"703"	"Rhode Island"	"1840"	"W"
+"704"	"South Carolina"	"1840"	"D"
+"705"	"South Dakota"	"1840"	NA
+"706"	"Tennessee"	"1840"	"W"
+"707"	"Texas"	"1840"	NA
+"708"	"Utah"	"1840"	NA
+"709"	"Vermont"	"1840"	"W"
+"710"	"Virginia"	"1840"	"D"
+"711"	"Washington"	"1840"	NA
+"712"	"West Virginia"	"1840"	NA
+"713"	"Wisconsin"	"1840"	NA
+"714"	"Wyoming"	"1840"	NA
+"715"	"Alabama"	"1844"	"D"
+"716"	"Alaska"	"1844"	NA
+"717"	"Arizona"	"1844"	NA
+"718"	"Arkansas"	"1844"	"D"
+"719"	"California"	"1844"	NA
+"720"	"Colorado"	"1844"	NA
+"721"	"Connecticut"	"1844"	"W"
+"722"	"Delaware"	"1844"	"W"
+"723"	"D.C."	"1844"	NA
+"724"	"Florida"	"1844"	NA
+"725"	"Georgia"	"1844"	"D"
+"726"	"Hawaii"	"1844"	NA
+"727"	"Idaho"	"1844"	NA
+"728"	"Illinois"	"1844"	"D"
+"729"	"Indiana"	"1844"	"D"
+"730"	"Iowa"	"1844"	NA
+"731"	"Kansas"	"1844"	NA
+"732"	"Kentucky"	"1844"	"W"
+"733"	"Louisiana"	"1844"	"D"
+"734"	"Maine"	"1844"	"D"
+"735"	"Maryland"	"1844"	"W"
+"736"	"Massachusetts"	"1844"	"W"
+"737"	"Michigan"	"1844"	"D"
+"738"	"Minnesota"	"1844"	NA
+"739"	"Mississippi"	"1844"	"D"
+"740"	"Missouri"	"1844"	"D"
+"741"	"Montana"	"1844"	NA
+"742"	"Nebraska"	"1844"	NA
+"743"	"Nevada"	"1844"	NA
+"744"	"New Hampshire"	"1844"	"D"
+"745"	"New Jersey"	"1844"	"W"
+"746"	"New Mexico"	"1844"	NA
+"747"	"New York"	"1844"	"D"
+"748"	"North Carolina"	"1844"	"W"
+"749"	"North Dakota"	"1844"	NA
+"750"	"Ohio"	"1844"	"W"
+"751"	"Oklahoma"	"1844"	NA
+"752"	"Oregon"	"1844"	NA
+"753"	"Pennsylvania"	"1844"	"D"
+"754"	"Rhode Island"	"1844"	"W"
+"755"	"South Carolina"	"1844"	"D"
+"756"	"South Dakota"	"1844"	NA
+"757"	"Tennessee"	"1844"	"W"
+"758"	"Texas"	"1844"	NA
+"759"	"Utah"	"1844"	NA
+"760"	"Vermont"	"1844"	"W"
+"761"	"Virginia"	"1844"	"D"
+"762"	"Washington"	"1844"	NA
+"763"	"West Virginia"	"1844"	NA
+"764"	"Wisconsin"	"1844"	NA
+"765"	"Wyoming"	"1844"	NA
+"766"	"Alabama"	"1848"	"D"
+"767"	"Alaska"	"1848"	NA
+"768"	"Arizona"	"1848"	NA
+"769"	"Arkansas"	"1848"	"D"
+"770"	"California"	"1848"	NA
+"771"	"Colorado"	"1848"	NA
+"772"	"Connecticut"	"1848"	"W"
+"773"	"Delaware"	"1848"	"W"
+"774"	"D.C."	"1848"	NA
+"775"	"Florida"	"1848"	"W"
+"776"	"Georgia"	"1848"	"W"
+"777"	"Hawaii"	"1848"	NA
+"778"	"Idaho"	"1848"	NA
+"779"	"Illinois"	"1848"	"D"
+"780"	"Indiana"	"1848"	"D"
+"781"	"Iowa"	"1848"	"D"
+"782"	"Kansas"	"1848"	NA
+"783"	"Kentucky"	"1848"	"W"
+"784"	"Louisiana"	"1848"	"W"
+"785"	"Maine"	"1848"	"D"
+"786"	"Maryland"	"1848"	"W"
+"787"	"Massachusetts"	"1848"	"W"
+"788"	"Michigan"	"1848"	"D"
+"789"	"Minnesota"	"1848"	NA
+"790"	"Mississippi"	"1848"	"D"
+"791"	"Missouri"	"1848"	"D"
+"792"	"Montana"	"1848"	NA
+"793"	"Nebraska"	"1848"	NA
+"794"	"Nevada"	"1848"	NA
+"795"	"New Hampshire"	"1848"	"D"
+"796"	"New Jersey"	"1848"	"W"
+"797"	"New Mexico"	"1848"	NA
+"798"	"New York"	"1848"	"W"
+"799"	"North Carolina"	"1848"	"W"
+"800"	"North Dakota"	"1848"	NA
+"801"	"Ohio"	"1848"	"D"
+"802"	"Oklahoma"	"1848"	NA
+"803"	"Oregon"	"1848"	NA
+"804"	"Pennsylvania"	"1848"	"W"
+"805"	"Rhode Island"	"1848"	"W"
+"806"	"South Carolina"	"1848"	"D"
+"807"	"South Dakota"	"1848"	NA
+"808"	"Tennessee"	"1848"	"W"
+"809"	"Texas"	"1848"	"D"
+"810"	"Utah"	"1848"	NA
+"811"	"Vermont"	"1848"	"W"
+"812"	"Virginia"	"1848"	"D"
+"813"	"Washington"	"1848"	NA
+"814"	"West Virginia"	"1848"	NA
+"815"	"Wisconsin"	"1848"	"D"
+"816"	"Wyoming"	"1848"	NA
+"817"	"Alabama"	"1852"	"D"
+"818"	"Alaska"	"1852"	NA
+"819"	"Arizona"	"1852"	NA
+"820"	"Arkansas"	"1852"	"D"
+"821"	"California"	"1852"	"D"
+"822"	"Colorado"	"1852"	NA
+"823"	"Connecticut"	"1852"	"D"
+"824"	"Delaware"	"1852"	"D"
+"825"	"D.C."	"1852"	NA
+"826"	"Florida"	"1852"	"D"
+"827"	"Georgia"	"1852"	"D"
+"828"	"Hawaii"	"1852"	NA
+"829"	"Idaho"	"1852"	NA
+"830"	"Illinois"	"1852"	"D"
+"831"	"Indiana"	"1852"	"D"
+"832"	"Iowa"	"1852"	"D"
+"833"	"Kansas"	"1852"	NA
+"834"	"Kentucky"	"1852"	"W"
+"835"	"Louisiana"	"1852"	"D"
+"836"	"Maine"	"1852"	"D"
+"837"	"Maryland"	"1852"	"D"
+"838"	"Massachusetts"	"1852"	"W"
+"839"	"Michigan"	"1852"	"D"
+"840"	"Minnesota"	"1852"	NA
+"841"	"Mississippi"	"1852"	"D"
+"842"	"Missouri"	"1852"	"D"
+"843"	"Montana"	"1852"	NA
+"844"	"Nebraska"	"1852"	NA
+"845"	"Nevada"	"1852"	NA
+"846"	"New Hampshire"	"1852"	"D"
+"847"	"New Jersey"	"1852"	"D"
+"848"	"New Mexico"	"1852"	NA
+"849"	"New York"	"1852"	"D"
+"850"	"North Carolina"	"1852"	"D"
+"851"	"North Dakota"	"1852"	NA
+"852"	"Ohio"	"1852"	"D"
+"853"	"Oklahoma"	"1852"	NA
+"854"	"Oregon"	"1852"	NA
+"855"	"Pennsylvania"	"1852"	"D"
+"856"	"Rhode Island"	"1852"	"D"
+"857"	"South Carolina"	"1852"	"D"
+"858"	"South Dakota"	"1852"	NA
+"859"	"Tennessee"	"1852"	"W"
+"860"	"Texas"	"1852"	"D"
+"861"	"Utah"	"1852"	NA
+"862"	"Vermont"	"1852"	"W"
+"863"	"Virginia"	"1852"	"D"
+"864"	"Washington"	"1852"	NA
+"865"	"West Virginia"	"1852"	NA
+"866"	"Wisconsin"	"1852"	"D"
+"867"	"Wyoming"	"1852"	NA
+"868"	"Alabama"	"1856"	"D"
+"869"	"Alaska"	"1856"	NA
+"870"	"Arizona"	"1856"	NA
+"871"	"Arkansas"	"1856"	"D"
+"872"	"California"	"1856"	"D"
+"873"	"Colorado"	"1856"	NA
+"874"	"Connecticut"	"1856"	"R"
+"875"	"Delaware"	"1856"	"D"
+"876"	"D.C."	"1856"	NA
+"877"	"Florida"	"1856"	"D"
+"878"	"Georgia"	"1856"	"D"
+"879"	"Hawaii"	"1856"	NA
+"880"	"Idaho"	"1856"	NA
+"881"	"Illinois"	"1856"	"D"
+"882"	"Indiana"	"1856"	"D"
+"883"	"Iowa"	"1856"	"R"
+"884"	"Kansas"	"1856"	NA
+"885"	"Kentucky"	"1856"	"D"
+"886"	"Louisiana"	"1856"	"D"
+"887"	"Maine"	"1856"	"R"
+"888"	"Maryland"	"1856"	"KN"
+"889"	"Massachusetts"	"1856"	"R"
+"890"	"Michigan"	"1856"	"R"
+"891"	"Minnesota"	"1856"	NA
+"892"	"Mississippi"	"1856"	"D"
+"893"	"Missouri"	"1856"	"D"
+"894"	"Montana"	"1856"	NA
+"895"	"Nebraska"	"1856"	NA
+"896"	"Nevada"	"1856"	NA
+"897"	"New Hampshire"	"1856"	"R"
+"898"	"New Jersey"	"1856"	"D"
+"899"	"New Mexico"	"1856"	NA
+"900"	"New York"	"1856"	"R"
+"901"	"North Carolina"	"1856"	"D"
+"902"	"North Dakota"	"1856"	NA
+"903"	"Ohio"	"1856"	"R"
+"904"	"Oklahoma"	"1856"	NA
+"905"	"Oregon"	"1856"	NA
+"906"	"Pennsylvania"	"1856"	"D"
+"907"	"Rhode Island"	"1856"	"R"
+"908"	"South Carolina"	"1856"	"D"
+"909"	"South Dakota"	"1856"	NA
+"910"	"Tennessee"	"1856"	"D"
+"911"	"Texas"	"1856"	"D"
+"912"	"Utah"	"1856"	NA
+"913"	"Vermont"	"1856"	"R"
+"914"	"Virginia"	"1856"	"D"
+"915"	"Washington"	"1856"	NA
+"916"	"West Virginia"	"1856"	NA
+"917"	"Wisconsin"	"1856"	"R"
+"918"	"Wyoming"	"1856"	NA
+"919"	"Alabama"	"1860"	"SD"
+"920"	"Alaska"	"1860"	NA
+"921"	"Arizona"	"1860"	NA
+"922"	"Arkansas"	"1860"	"SD"
+"923"	"California"	"1860"	"R"
+"924"	"Colorado"	"1860"	NA
+"925"	"Connecticut"	"1860"	"R"
+"926"	"Delaware"	"1860"	"SD"
+"927"	"D.C."	"1860"	NA
+"928"	"Florida"	"1860"	"SD"
+"929"	"Georgia"	"1860"	"SD"
+"930"	"Hawaii"	"1860"	NA
+"931"	"Idaho"	"1860"	NA
+"932"	"Illinois"	"1860"	"R"
+"933"	"Indiana"	"1860"	"R"
+"934"	"Iowa"	"1860"	"R"
+"935"	"Kansas"	"1860"	NA
+"936"	"Kentucky"	"1860"	"CU"
+"937"	"Louisiana"	"1860"	"SD"
+"938"	"Maine"	"1860"	"R"
+"939"	"Maryland"	"1860"	"SD"
+"940"	"Massachusetts"	"1860"	"R"
+"941"	"Michigan"	"1860"	"R"
+"942"	"Minnesota"	"1860"	"R"
+"943"	"Mississippi"	"1860"	"SD"
+"944"	"Missouri"	"1860"	"ND"
+"945"	"Montana"	"1860"	NA
+"946"	"Nebraska"	"1860"	NA
+"947"	"Nevada"	"1860"	NA
+"948"	"New Hampshire"	"1860"	"R"
+"949"	"New Jersey"	"1860"	"R"
+"950"	"New Mexico"	"1860"	NA
+"951"	"New York"	"1860"	"R"
+"952"	"North Carolina"	"1860"	"SD"
+"953"	"North Dakota"	"1860"	NA
+"954"	"Ohio"	"1860"	"R"
+"955"	"Oklahoma"	"1860"	NA
+"956"	"Oregon"	"1860"	"R"
+"957"	"Pennsylvania"	"1860"	"R"
+"958"	"Rhode Island"	"1860"	"R"
+"959"	"South Carolina"	"1860"	"SD"
+"960"	"South Dakota"	"1860"	NA
+"961"	"Tennessee"	"1860"	"CU"
+"962"	"Texas"	"1860"	"SD"
+"963"	"Utah"	"1860"	NA
+"964"	"Vermont"	"1860"	"R"
+"965"	"Virginia"	"1860"	"CU"
+"966"	"Washington"	"1860"	NA
+"967"	"West Virginia"	"1860"	NA
+"968"	"Wisconsin"	"1860"	"R"
+"969"	"Wyoming"	"1860"	NA
+"970"	"Alabama"	"1864"	NA
+"971"	"Alaska"	"1864"	NA
+"972"	"Arizona"	"1864"	NA
+"973"	"Arkansas"	"1864"	NA
+"974"	"California"	"1864"	"R"
+"975"	"Colorado"	"1864"	NA
+"976"	"Connecticut"	"1864"	"R"
+"977"	"Delaware"	"1864"	"D"
+"978"	"D.C."	"1864"	NA
+"979"	"Florida"	"1864"	NA
+"980"	"Georgia"	"1864"	NA
+"981"	"Hawaii"	"1864"	NA
+"982"	"Idaho"	"1864"	NA
+"983"	"Illinois"	"1864"	"R"
+"984"	"Indiana"	"1864"	"R"
+"985"	"Iowa"	"1864"	"R"
+"986"	"Kansas"	"1864"	"R"
+"987"	"Kentucky"	"1864"	"D"
+"988"	"Louisiana"	"1864"	NA
+"989"	"Maine"	"1864"	"R"
+"990"	"Maryland"	"1864"	"R"
+"991"	"Massachusetts"	"1864"	"R"
+"992"	"Michigan"	"1864"	"R"
+"993"	"Minnesota"	"1864"	"R"
+"994"	"Mississippi"	"1864"	NA
+"995"	"Missouri"	"1864"	"R"
+"996"	"Montana"	"1864"	NA
+"997"	"Nebraska"	"1864"	NA
+"998"	"Nevada"	"1864"	"R"
+"999"	"New Hampshire"	"1864"	"R"
+"1000"	"New Jersey"	"1864"	"D"
+"1001"	"New Mexico"	"1864"	NA
+"1002"	"New York"	"1864"	"R"
+"1003"	"North Carolina"	"1864"	NA
+"1004"	"North Dakota"	"1864"	NA
+"1005"	"Ohio"	"1864"	"R"
+"1006"	"Oklahoma"	"1864"	NA
+"1007"	"Oregon"	"1864"	"R"
+"1008"	"Pennsylvania"	"1864"	"R"
+"1009"	"Rhode Island"	"1864"	"R"
+"1010"	"South Carolina"	"1864"	NA
+"1011"	"South Dakota"	"1864"	NA
+"1012"	"Tennessee"	"1864"	NA
+"1013"	"Texas"	"1864"	NA
+"1014"	"Utah"	"1864"	NA
+"1015"	"Vermont"	"1864"	"R"
+"1016"	"Virginia"	"1864"	NA
+"1017"	"Washington"	"1864"	NA
+"1018"	"West Virginia"	"1864"	"R"
+"1019"	"Wisconsin"	"1864"	"R"
+"1020"	"Wyoming"	"1864"	NA
+"1021"	"Alabama"	"1868"	"R"
+"1022"	"Alaska"	"1868"	NA
+"1023"	"Arizona"	"1868"	NA
+"1024"	"Arkansas"	"1868"	"R"
+"1025"	"California"	"1868"	"R"
+"1026"	"Colorado"	"1868"	NA
+"1027"	"Connecticut"	"1868"	"R"
+"1028"	"Delaware"	"1868"	"D"
+"1029"	"D.C."	"1868"	NA
+"1030"	"Florida"	"1868"	"R"
+"1031"	"Georgia"	"1868"	"D"
+"1032"	"Hawaii"	"1868"	NA
+"1033"	"Idaho"	"1868"	NA
+"1034"	"Illinois"	"1868"	"R"
+"1035"	"Indiana"	"1868"	"R"
+"1036"	"Iowa"	"1868"	"R"
+"1037"	"Kansas"	"1868"	"R"
+"1038"	"Kentucky"	"1868"	"D"
+"1039"	"Louisiana"	"1868"	"D"
+"1040"	"Maine"	"1868"	"R"
+"1041"	"Maryland"	"1868"	"D"
+"1042"	"Massachusetts"	"1868"	"R"
+"1043"	"Michigan"	"1868"	"R"
+"1044"	"Minnesota"	"1868"	"R"
+"1045"	"Mississippi"	"1868"	NA
+"1046"	"Missouri"	"1868"	"R"
+"1047"	"Montana"	"1868"	NA
+"1048"	"Nebraska"	"1868"	"R"
+"1049"	"Nevada"	"1868"	"R"
+"1050"	"New Hampshire"	"1868"	"R"
+"1051"	"New Jersey"	"1868"	"D"
+"1052"	"New Mexico"	"1868"	NA
+"1053"	"New York"	"1868"	"D"
+"1054"	"North Carolina"	"1868"	"R"
+"1055"	"North Dakota"	"1868"	NA
+"1056"	"Ohio"	"1868"	"R"
+"1057"	"Oklahoma"	"1868"	NA
+"1058"	"Oregon"	"1868"	"D"
+"1059"	"Pennsylvania"	"1868"	"R"
+"1060"	"Rhode Island"	"1868"	"R"
+"1061"	"South Carolina"	"1868"	"R"
+"1062"	"South Dakota"	"1868"	NA
+"1063"	"Tennessee"	"1868"	"R"
+"1064"	"Texas"	"1868"	NA
+"1065"	"Utah"	"1868"	NA
+"1066"	"Vermont"	"1868"	"R"
+"1067"	"Virginia"	"1868"	NA
+"1068"	"Washington"	"1868"	NA
+"1069"	"West Virginia"	"1868"	"R"
+"1070"	"Wisconsin"	"1868"	"R"
+"1071"	"Wyoming"	"1868"	NA
+"1072"	"Alabama"	"1872"	"R"
+"1073"	"Alaska"	"1872"	NA
+"1074"	"Arizona"	"1872"	NA
+"1075"	"Arkansas"	"1872"	"R"
+"1076"	"California"	"1872"	"R"
+"1077"	"Colorado"	"1872"	NA
+"1078"	"Connecticut"	"1872"	"R"
+"1079"	"Delaware"	"1872"	"R"
+"1080"	"D.C."	"1872"	NA
+"1081"	"Florida"	"1872"	"R"
+"1082"	"Georgia"	"1872"	"D"
+"1083"	"Hawaii"	"1872"	NA
+"1084"	"Idaho"	"1872"	NA
+"1085"	"Illinois"	"1872"	"R"
+"1086"	"Indiana"	"1872"	"R"
+"1087"	"Iowa"	"1872"	"R"
+"1088"	"Kansas"	"1872"	"R"
+"1089"	"Kentucky"	"1872"	"D"
+"1090"	"Louisiana"	"1872"	"R"
+"1091"	"Maine"	"1872"	"R"
+"1092"	"Maryland"	"1872"	"D"
+"1093"	"Massachusetts"	"1872"	"R"
+"1094"	"Michigan"	"1872"	"R"
+"1095"	"Minnesota"	"1872"	"R"
+"1096"	"Mississippi"	"1872"	"R"
+"1097"	"Missouri"	"1872"	"D"
+"1098"	"Montana"	"1872"	NA
+"1099"	"Nebraska"	"1872"	"R"
+"1100"	"Nevada"	"1872"	"R"
+"1101"	"New Hampshire"	"1872"	"R"
+"1102"	"New Jersey"	"1872"	"R"
+"1103"	"New Mexico"	"1872"	NA
+"1104"	"New York"	"1872"	"R"
+"1105"	"North Carolina"	"1872"	"R"
+"1106"	"North Dakota"	"1872"	NA
+"1107"	"Ohio"	"1872"	"R"
+"1108"	"Oklahoma"	"1872"	NA
+"1109"	"Oregon"	"1872"	"R"
+"1110"	"Pennsylvania"	"1872"	"R"
+"1111"	"Rhode Island"	"1872"	"R"
+"1112"	"South Carolina"	"1872"	"R"
+"1113"	"South Dakota"	"1872"	NA
+"1114"	"Tennessee"	"1872"	"D"
+"1115"	"Texas"	"1872"	"D"
+"1116"	"Utah"	"1872"	NA
+"1117"	"Vermont"	"1872"	"R"
+"1118"	"Virginia"	"1872"	"R"
+"1119"	"Washington"	"1872"	NA
+"1120"	"West Virginia"	"1872"	"R"
+"1121"	"Wisconsin"	"1872"	"R"
+"1122"	"Wyoming"	"1872"	NA
+"1123"	"Alabama"	"1876"	"D"
+"1124"	"Alaska"	"1876"	NA
+"1125"	"Arizona"	"1876"	NA
+"1126"	"Arkansas"	"1876"	"D"
+"1127"	"California"	"1876"	"R"
+"1128"	"Colorado"	"1876"	"R"
+"1129"	"Connecticut"	"1876"	"D"
+"1130"	"Delaware"	"1876"	"D"
+"1131"	"D.C."	"1876"	NA
+"1132"	"Florida"	"1876"	"R"
+"1133"	"Georgia"	"1876"	"D"
+"1134"	"Hawaii"	"1876"	NA
+"1135"	"Idaho"	"1876"	NA
+"1136"	"Illinois"	"1876"	"R"
+"1137"	"Indiana"	"1876"	"D"
+"1138"	"Iowa"	"1876"	"R"
+"1139"	"Kansas"	"1876"	"R"
+"1140"	"Kentucky"	"1876"	"D"
+"1141"	"Louisiana"	"1876"	"R"
+"1142"	"Maine"	"1876"	"R"
+"1143"	"Maryland"	"1876"	"D"
+"1144"	"Massachusetts"	"1876"	"R"
+"1145"	"Michigan"	"1876"	"R"
+"1146"	"Minnesota"	"1876"	"R"
+"1147"	"Mississippi"	"1876"	"D"
+"1148"	"Missouri"	"1876"	"D"
+"1149"	"Montana"	"1876"	NA
+"1150"	"Nebraska"	"1876"	"R"
+"1151"	"Nevada"	"1876"	"R"
+"1152"	"New Hampshire"	"1876"	"R"
+"1153"	"New Jersey"	"1876"	"D"
+"1154"	"New Mexico"	"1876"	NA
+"1155"	"New York"	"1876"	"D"
+"1156"	"North Carolina"	"1876"	"D"
+"1157"	"North Dakota"	"1876"	NA
+"1158"	"Ohio"	"1876"	"R"
+"1159"	"Oklahoma"	"1876"	NA
+"1160"	"Oregon"	"1876"	"R"
+"1161"	"Pennsylvania"	"1876"	"R"
+"1162"	"Rhode Island"	"1876"	"R"
+"1163"	"South Carolina"	"1876"	"R"
+"1164"	"South Dakota"	"1876"	NA
+"1165"	"Tennessee"	"1876"	"D"
+"1166"	"Texas"	"1876"	"D"
+"1167"	"Utah"	"1876"	NA
+"1168"	"Vermont"	"1876"	"R"
+"1169"	"Virginia"	"1876"	"D"
+"1170"	"Washington"	"1876"	NA
+"1171"	"West Virginia"	"1876"	"D"
+"1172"	"Wisconsin"	"1876"	"R"
+"1173"	"Wyoming"	"1876"	NA
+"1174"	"Alabama"	"1880"	"D"
+"1175"	"Alaska"	"1880"	NA
+"1176"	"Arizona"	"1880"	NA
+"1177"	"Arkansas"	"1880"	"D"
+"1178"	"California"	"1880"	"D"
+"1179"	"Colorado"	"1880"	"R"
+"1180"	"Connecticut"	"1880"	"R"
+"1181"	"Delaware"	"1880"	"D"
+"1182"	"D.C."	"1880"	NA
+"1183"	"Florida"	"1880"	"D"
+"1184"	"Georgia"	"1880"	"D"
+"1185"	"Hawaii"	"1880"	NA
+"1186"	"Idaho"	"1880"	NA
+"1187"	"Illinois"	"1880"	"R"
+"1188"	"Indiana"	"1880"	"R"
+"1189"	"Iowa"	"1880"	"R"
+"1190"	"Kansas"	"1880"	"R"
+"1191"	"Kentucky"	"1880"	"D"
+"1192"	"Louisiana"	"1880"	"D"
+"1193"	"Maine"	"1880"	"R"
+"1194"	"Maryland"	"1880"	"D"
+"1195"	"Massachusetts"	"1880"	"R"
+"1196"	"Michigan"	"1880"	"R"
+"1197"	"Minnesota"	"1880"	"R"
+"1198"	"Mississippi"	"1880"	"D"
+"1199"	"Missouri"	"1880"	"D"
+"1200"	"Montana"	"1880"	NA
+"1201"	"Nebraska"	"1880"	"R"
+"1202"	"Nevada"	"1880"	"D"
+"1203"	"New Hampshire"	"1880"	"R"
+"1204"	"New Jersey"	"1880"	"D"
+"1205"	"New Mexico"	"1880"	NA
+"1206"	"New York"	"1880"	"R"
+"1207"	"North Carolina"	"1880"	"D"
+"1208"	"North Dakota"	"1880"	NA
+"1209"	"Ohio"	"1880"	"R"
+"1210"	"Oklahoma"	"1880"	NA
+"1211"	"Oregon"	"1880"	"R"
+"1212"	"Pennsylvania"	"1880"	"R"
+"1213"	"Rhode Island"	"1880"	"R"
+"1214"	"South Carolina"	"1880"	"D"
+"1215"	"South Dakota"	"1880"	NA
+"1216"	"Tennessee"	"1880"	"D"
+"1217"	"Texas"	"1880"	"D"
+"1218"	"Utah"	"1880"	NA
+"1219"	"Vermont"	"1880"	"R"
+"1220"	"Virginia"	"1880"	"D"
+"1221"	"Washington"	"1880"	NA
+"1222"	"West Virginia"	"1880"	"D"
+"1223"	"Wisconsin"	"1880"	"R"
+"1224"	"Wyoming"	"1880"	NA
+"1225"	"Alabama"	"1884"	"D"
+"1226"	"Alaska"	"1884"	NA
+"1227"	"Arizona"	"1884"	NA
+"1228"	"Arkansas"	"1884"	"D"
+"1229"	"California"	"1884"	"R"
+"1230"	"Colorado"	"1884"	"R"
+"1231"	"Connecticut"	"1884"	"D"
+"1232"	"Delaware"	"1884"	"D"
+"1233"	"D.C."	"1884"	NA
+"1234"	"Florida"	"1884"	"D"
+"1235"	"Georgia"	"1884"	"D"
+"1236"	"Hawaii"	"1884"	NA
+"1237"	"Idaho"	"1884"	NA
+"1238"	"Illinois"	"1884"	"R"
+"1239"	"Indiana"	"1884"	"D"
+"1240"	"Iowa"	"1884"	"R"
+"1241"	"Kansas"	"1884"	"R"
+"1242"	"Kentucky"	"1884"	"D"
+"1243"	"Louisiana"	"1884"	"D"
+"1244"	"Maine"	"1884"	"R"
+"1245"	"Maryland"	"1884"	"D"
+"1246"	"Massachusetts"	"1884"	"R"
+"1247"	"Michigan"	"1884"	"R"
+"1248"	"Minnesota"	"1884"	"R"
+"1249"	"Mississippi"	"1884"	"D"
+"1250"	"Missouri"	"1884"	"D"
+"1251"	"Montana"	"1884"	NA
+"1252"	"Nebraska"	"1884"	"R"
+"1253"	"Nevada"	"1884"	"R"
+"1254"	"New Hampshire"	"1884"	"R"
+"1255"	"New Jersey"	"1884"	"D"
+"1256"	"New Mexico"	"1884"	NA
+"1257"	"New York"	"1884"	"D"
+"1258"	"North Carolina"	"1884"	"D"
+"1259"	"North Dakota"	"1884"	NA
+"1260"	"Ohio"	"1884"	"R"
+"1261"	"Oklahoma"	"1884"	NA
+"1262"	"Oregon"	"1884"	"R"
+"1263"	"Pennsylvania"	"1884"	"R"
+"1264"	"Rhode Island"	"1884"	"R"
+"1265"	"South Carolina"	"1884"	"D"
+"1266"	"South Dakota"	"1884"	NA
+"1267"	"Tennessee"	"1884"	"D"
+"1268"	"Texas"	"1884"	"D"
+"1269"	"Utah"	"1884"	NA
+"1270"	"Vermont"	"1884"	"R"
+"1271"	"Virginia"	"1884"	"D"
+"1272"	"Washington"	"1884"	NA
+"1273"	"West Virginia"	"1884"	"D"
+"1274"	"Wisconsin"	"1884"	"R"
+"1275"	"Wyoming"	"1884"	NA
+"1276"	"Alabama"	"1888"	"D"
+"1277"	"Alaska"	"1888"	NA
+"1278"	"Arizona"	"1888"	NA
+"1279"	"Arkansas"	"1888"	"D"
+"1280"	"California"	"1888"	"R"
+"1281"	"Colorado"	"1888"	"R"
+"1282"	"Connecticut"	"1888"	"D"
+"1283"	"Delaware"	"1888"	"D"
+"1284"	"D.C."	"1888"	NA
+"1285"	"Florida"	"1888"	"D"
+"1286"	"Georgia"	"1888"	"D"
+"1287"	"Hawaii"	"1888"	NA
+"1288"	"Idaho"	"1888"	NA
+"1289"	"Illinois"	"1888"	"R"
+"1290"	"Indiana"	"1888"	"R"
+"1291"	"Iowa"	"1888"	"R"
+"1292"	"Kansas"	"1888"	"R"
+"1293"	"Kentucky"	"1888"	"D"
+"1294"	"Louisiana"	"1888"	"D"
+"1295"	"Maine"	"1888"	"R"
+"1296"	"Maryland"	"1888"	"D"
+"1297"	"Massachusetts"	"1888"	"R"
+"1298"	"Michigan"	"1888"	"R"
+"1299"	"Minnesota"	"1888"	"R"
+"1300"	"Mississippi"	"1888"	"D"
+"1301"	"Missouri"	"1888"	"D"
+"1302"	"Montana"	"1888"	NA
+"1303"	"Nebraska"	"1888"	"R"
+"1304"	"Nevada"	"1888"	"R"
+"1305"	"New Hampshire"	"1888"	"R"
+"1306"	"New Jersey"	"1888"	"D"
+"1307"	"New Mexico"	"1888"	NA
+"1308"	"New York"	"1888"	"R"
+"1309"	"North Carolina"	"1888"	"D"
+"1310"	"North Dakota"	"1888"	NA
+"1311"	"Ohio"	"1888"	"R"
+"1312"	"Oklahoma"	"1888"	NA
+"1313"	"Oregon"	"1888"	"R"
+"1314"	"Pennsylvania"	"1888"	"R"
+"1315"	"Rhode Island"	"1888"	"R"
+"1316"	"South Carolina"	"1888"	"D"
+"1317"	"South Dakota"	"1888"	NA
+"1318"	"Tennessee"	"1888"	"D"
+"1319"	"Texas"	"1888"	"D"
+"1320"	"Utah"	"1888"	NA
+"1321"	"Vermont"	"1888"	"R"
+"1322"	"Virginia"	"1888"	"D"
+"1323"	"Washington"	"1888"	NA
+"1324"	"West Virginia"	"1888"	"D"
+"1325"	"Wisconsin"	"1888"	"R"
+"1326"	"Wyoming"	"1888"	NA
+"1327"	"Alabama"	"1892"	"D"
+"1328"	"Alaska"	"1892"	NA
+"1329"	"Arizona"	"1892"	NA
+"1330"	"Arkansas"	"1892"	"D"
+"1331"	"California"	"1892"	"D"
+"1332"	"Colorado"	"1892"	"PO"
+"1333"	"Connecticut"	"1892"	"D"
+"1334"	"Delaware"	"1892"	"D"
+"1335"	"D.C."	"1892"	NA
+"1336"	"Florida"	"1892"	"D"
+"1337"	"Georgia"	"1892"	"D"
+"1338"	"Hawaii"	"1892"	NA
+"1339"	"Idaho"	"1892"	"PO"
+"1340"	"Illinois"	"1892"	"D"
+"1341"	"Indiana"	"1892"	"D"
+"1342"	"Iowa"	"1892"	"R"
+"1343"	"Kansas"	"1892"	"PO"
+"1344"	"Kentucky"	"1892"	"D"
+"1345"	"Louisiana"	"1892"	"D"
+"1346"	"Maine"	"1892"	"R"
+"1347"	"Maryland"	"1892"	"D"
+"1348"	"Massachusetts"	"1892"	"R"
+"1349"	"Michigan"	"1892"	"R"
+"1350"	"Minnesota"	"1892"	"R"
+"1351"	"Mississippi"	"1892"	"D"
+"1352"	"Missouri"	"1892"	"D"
+"1353"	"Montana"	"1892"	"R"
+"1354"	"Nebraska"	"1892"	"R"
+"1355"	"Nevada"	"1892"	"PO"
+"1356"	"New Hampshire"	"1892"	"R"
+"1357"	"New Jersey"	"1892"	"D"
+"1358"	"New Mexico"	"1892"	NA
+"1359"	"New York"	"1892"	"D"
+"1360"	"North Carolina"	"1892"	"D"
+"1361"	"North Dakota"	"1892"	"SP"
+"1362"	"Ohio"	"1892"	"R"
+"1363"	"Oklahoma"	"1892"	NA
+"1364"	"Oregon"	"1892"	"R"
+"1365"	"Pennsylvania"	"1892"	"R"
+"1366"	"Rhode Island"	"1892"	"R"
+"1367"	"South Carolina"	"1892"	"D"
+"1368"	"South Dakota"	"1892"	"R"
+"1369"	"Tennessee"	"1892"	"D"
+"1370"	"Texas"	"1892"	"D"
+"1371"	"Utah"	"1892"	NA
+"1372"	"Vermont"	"1892"	"R"
+"1373"	"Virginia"	"1892"	"D"
+"1374"	"Washington"	"1892"	"R"
+"1375"	"West Virginia"	"1892"	"D"
+"1376"	"Wisconsin"	"1892"	"D"
+"1377"	"Wyoming"	"1892"	"R"
+"1378"	"Alabama"	"1896"	"D"
+"1379"	"Alaska"	"1896"	NA
+"1380"	"Arizona"	"1896"	NA
+"1381"	"Arkansas"	"1896"	"D"
+"1382"	"California"	"1896"	"R"
+"1383"	"Colorado"	"1896"	"D"
+"1384"	"Connecticut"	"1896"	"R"
+"1385"	"Delaware"	"1896"	"R"
+"1386"	"D.C."	"1896"	NA
+"1387"	"Florida"	"1896"	"D"
+"1388"	"Georgia"	"1896"	"D"
+"1389"	"Hawaii"	"1896"	NA
+"1390"	"Idaho"	"1896"	"D"
+"1391"	"Illinois"	"1896"	"R"
+"1392"	"Indiana"	"1896"	"R"
+"1393"	"Iowa"	"1896"	"R"
+"1394"	"Kansas"	"1896"	"D"
+"1395"	"Kentucky"	"1896"	"R"
+"1396"	"Louisiana"	"1896"	"D"
+"1397"	"Maine"	"1896"	"R"
+"1398"	"Maryland"	"1896"	"R"
+"1399"	"Massachusetts"	"1896"	"R"
+"1400"	"Michigan"	"1896"	"R"
+"1401"	"Minnesota"	"1896"	"R"
+"1402"	"Mississippi"	"1896"	"D"
+"1403"	"Missouri"	"1896"	"D"
+"1404"	"Montana"	"1896"	"D"
+"1405"	"Nebraska"	"1896"	"D"
+"1406"	"Nevada"	"1896"	"D"
+"1407"	"New Hampshire"	"1896"	"R"
+"1408"	"New Jersey"	"1896"	"R"
+"1409"	"New Mexico"	"1896"	NA
+"1410"	"New York"	"1896"	"R"
+"1411"	"North Carolina"	"1896"	"D"
+"1412"	"North Dakota"	"1896"	"R"
+"1413"	"Ohio"	"1896"	"R"
+"1414"	"Oklahoma"	"1896"	NA
+"1415"	"Oregon"	"1896"	"R"
+"1416"	"Pennsylvania"	"1896"	"R"
+"1417"	"Rhode Island"	"1896"	"R"
+"1418"	"South Carolina"	"1896"	"D"
+"1419"	"South Dakota"	"1896"	"D"
+"1420"	"Tennessee"	"1896"	"D"
+"1421"	"Texas"	"1896"	"D"
+"1422"	"Utah"	"1896"	"D"
+"1423"	"Vermont"	"1896"	"R"
+"1424"	"Virginia"	"1896"	"D"
+"1425"	"Washington"	"1896"	"D"
+"1426"	"West Virginia"	"1896"	"R"
+"1427"	"Wisconsin"	"1896"	"R"
+"1428"	"Wyoming"	"1896"	"D"
+"1429"	"Alabama"	"1900"	"D"
+"1430"	"Alaska"	"1900"	NA
+"1431"	"Arizona"	"1900"	NA
+"1432"	"Arkansas"	"1900"	"D"
+"1433"	"California"	"1900"	"R"
+"1434"	"Colorado"	"1900"	"D"
+"1435"	"Connecticut"	"1900"	"R"
+"1436"	"Delaware"	"1900"	"R"
+"1437"	"D.C."	"1900"	NA
+"1438"	"Florida"	"1900"	"D"
+"1439"	"Georgia"	"1900"	"D"
+"1440"	"Hawaii"	"1900"	NA
+"1441"	"Idaho"	"1900"	"D"
+"1442"	"Illinois"	"1900"	"R"
+"1443"	"Indiana"	"1900"	"R"
+"1444"	"Iowa"	"1900"	"R"
+"1445"	"Kansas"	"1900"	"R"
+"1446"	"Kentucky"	"1900"	"D"
+"1447"	"Louisiana"	"1900"	"D"
+"1448"	"Maine"	"1900"	"R"
+"1449"	"Maryland"	"1900"	"R"
+"1450"	"Massachusetts"	"1900"	"R"
+"1451"	"Michigan"	"1900"	"R"
+"1452"	"Minnesota"	"1900"	"R"
+"1453"	"Mississippi"	"1900"	"D"
+"1454"	"Missouri"	"1900"	"D"
+"1455"	"Montana"	"1900"	"D"
+"1456"	"Nebraska"	"1900"	"R"
+"1457"	"Nevada"	"1900"	"D"
+"1458"	"New Hampshire"	"1900"	"R"
+"1459"	"New Jersey"	"1900"	"R"
+"1460"	"New Mexico"	"1900"	NA
+"1461"	"New York"	"1900"	"R"
+"1462"	"North Carolina"	"1900"	"D"
+"1463"	"North Dakota"	"1900"	"R"
+"1464"	"Ohio"	"1900"	"R"
+"1465"	"Oklahoma"	"1900"	NA
+"1466"	"Oregon"	"1900"	"R"
+"1467"	"Pennsylvania"	"1900"	"R"
+"1468"	"Rhode Island"	"1900"	"R"
+"1469"	"South Carolina"	"1900"	"D"
+"1470"	"South Dakota"	"1900"	"R"
+"1471"	"Tennessee"	"1900"	"D"
+"1472"	"Texas"	"1900"	"D"
+"1473"	"Utah"	"1900"	"R"
+"1474"	"Vermont"	"1900"	"R"
+"1475"	"Virginia"	"1900"	"D"
+"1476"	"Washington"	"1900"	"R"
+"1477"	"West Virginia"	"1900"	"R"
+"1478"	"Wisconsin"	"1900"	"R"
+"1479"	"Wyoming"	"1900"	"R"
+"1480"	"Alabama"	"1904"	"D"
+"1481"	"Alaska"	"1904"	NA
+"1482"	"Arizona"	"1904"	NA
+"1483"	"Arkansas"	"1904"	"D"
+"1484"	"California"	"1904"	"R"
+"1485"	"Colorado"	"1904"	"R"
+"1486"	"Connecticut"	"1904"	"R"
+"1487"	"Delaware"	"1904"	"R"
+"1488"	"D.C."	"1904"	NA
+"1489"	"Florida"	"1904"	"D"
+"1490"	"Georgia"	"1904"	"D"
+"1491"	"Hawaii"	"1904"	NA
+"1492"	"Idaho"	"1904"	"R"
+"1493"	"Illinois"	"1904"	"R"
+"1494"	"Indiana"	"1904"	"R"
+"1495"	"Iowa"	"1904"	"R"
+"1496"	"Kansas"	"1904"	"R"
+"1497"	"Kentucky"	"1904"	"D"
+"1498"	"Louisiana"	"1904"	"D"
+"1499"	"Maine"	"1904"	"R"
+"1500"	"Maryland"	"1904"	"D"
+"1501"	"Massachusetts"	"1904"	"R"
+"1502"	"Michigan"	"1904"	"R"
+"1503"	"Minnesota"	"1904"	"R"
+"1504"	"Mississippi"	"1904"	"D"
+"1505"	"Missouri"	"1904"	"R"
+"1506"	"Montana"	"1904"	"R"
+"1507"	"Nebraska"	"1904"	"R"
+"1508"	"Nevada"	"1904"	"R"
+"1509"	"New Hampshire"	"1904"	"R"
+"1510"	"New Jersey"	"1904"	"R"
+"1511"	"New Mexico"	"1904"	NA
+"1512"	"New York"	"1904"	"R"
+"1513"	"North Carolina"	"1904"	"D"
+"1514"	"North Dakota"	"1904"	"R"
+"1515"	"Ohio"	"1904"	"R"
+"1516"	"Oklahoma"	"1904"	NA
+"1517"	"Oregon"	"1904"	"R"
+"1518"	"Pennsylvania"	"1904"	"R"
+"1519"	"Rhode Island"	"1904"	"R"
+"1520"	"South Carolina"	"1904"	"D"
+"1521"	"South Dakota"	"1904"	"R"
+"1522"	"Tennessee"	"1904"	"D"
+"1523"	"Texas"	"1904"	"D"
+"1524"	"Utah"	"1904"	"R"
+"1525"	"Vermont"	"1904"	"R"
+"1526"	"Virginia"	"1904"	"D"
+"1527"	"Washington"	"1904"	"R"
+"1528"	"West Virginia"	"1904"	"R"
+"1529"	"Wisconsin"	"1904"	"R"
+"1530"	"Wyoming"	"1904"	"R"
+"1531"	"Alabama"	"1908"	"D"
+"1532"	"Alaska"	"1908"	NA
+"1533"	"Arizona"	"1908"	NA
+"1534"	"Arkansas"	"1908"	"D"
+"1535"	"California"	"1908"	"R"
+"1536"	"Colorado"	"1908"	"D"
+"1537"	"Connecticut"	"1908"	"R"
+"1538"	"Delaware"	"1908"	"R"
+"1539"	"D.C."	"1908"	NA
+"1540"	"Florida"	"1908"	"D"
+"1541"	"Georgia"	"1908"	"D"
+"1542"	"Hawaii"	"1908"	NA
+"1543"	"Idaho"	"1908"	"R"
+"1544"	"Illinois"	"1908"	"R"
+"1545"	"Indiana"	"1908"	"R"
+"1546"	"Iowa"	"1908"	"R"
+"1547"	"Kansas"	"1908"	"R"
+"1548"	"Kentucky"	"1908"	"D"
+"1549"	"Louisiana"	"1908"	"D"
+"1550"	"Maine"	"1908"	"R"
+"1551"	"Maryland"	"1908"	"D"
+"1552"	"Massachusetts"	"1908"	"R"
+"1553"	"Michigan"	"1908"	"R"
+"1554"	"Minnesota"	"1908"	"R"
+"1555"	"Mississippi"	"1908"	"D"
+"1556"	"Missouri"	"1908"	"R"
+"1557"	"Montana"	"1908"	"R"
+"1558"	"Nebraska"	"1908"	"D"
+"1559"	"Nevada"	"1908"	"D"
+"1560"	"New Hampshire"	"1908"	"R"
+"1561"	"New Jersey"	"1908"	"R"
+"1562"	"New Mexico"	"1908"	NA
+"1563"	"New York"	"1908"	"R"
+"1564"	"North Carolina"	"1908"	"D"
+"1565"	"North Dakota"	"1908"	"R"
+"1566"	"Ohio"	"1908"	"R"
+"1567"	"Oklahoma"	"1908"	"D"
+"1568"	"Oregon"	"1908"	"R"
+"1569"	"Pennsylvania"	"1908"	"R"
+"1570"	"Rhode Island"	"1908"	"R"
+"1571"	"South Carolina"	"1908"	"D"
+"1572"	"South Dakota"	"1908"	"R"
+"1573"	"Tennessee"	"1908"	"D"
+"1574"	"Texas"	"1908"	"D"
+"1575"	"Utah"	"1908"	"R"
+"1576"	"Vermont"	"1908"	"R"
+"1577"	"Virginia"	"1908"	"D"
+"1578"	"Washington"	"1908"	"R"
+"1579"	"West Virginia"	"1908"	"R"
+"1580"	"Wisconsin"	"1908"	"R"
+"1581"	"Wyoming"	"1908"	"R"
+"1582"	"Alabama"	"1912"	"D"
+"1583"	"Alaska"	"1912"	NA
+"1584"	"Arizona"	"1912"	"D"
+"1585"	"Arkansas"	"1912"	"D"
+"1586"	"California"	"1912"	"PR"
+"1587"	"Colorado"	"1912"	"D"
+"1588"	"Connecticut"	"1912"	"D"
+"1589"	"Delaware"	"1912"	"D"
+"1590"	"D.C."	"1912"	NA
+"1591"	"Florida"	"1912"	"D"
+"1592"	"Georgia"	"1912"	"D"
+"1593"	"Hawaii"	"1912"	NA
+"1594"	"Idaho"	"1912"	"D"
+"1595"	"Illinois"	"1912"	"D"
+"1596"	"Indiana"	"1912"	"D"
+"1597"	"Iowa"	"1912"	"D"
+"1598"	"Kansas"	"1912"	"D"
+"1599"	"Kentucky"	"1912"	"D"
+"1600"	"Louisiana"	"1912"	"D"
+"1601"	"Maine"	"1912"	"D"
+"1602"	"Maryland"	"1912"	"D"
+"1603"	"Massachusetts"	"1912"	"D"
+"1604"	"Michigan"	"1912"	"PR"
+"1605"	"Minnesota"	"1912"	"PR"
+"1606"	"Mississippi"	"1912"	"D"
+"1607"	"Missouri"	"1912"	"D"
+"1608"	"Montana"	"1912"	"D"
+"1609"	"Nebraska"	"1912"	"D"
+"1610"	"Nevada"	"1912"	"D"
+"1611"	"New Hampshire"	"1912"	"D"
+"1612"	"New Jersey"	"1912"	"D"
+"1613"	"New Mexico"	"1912"	"D"
+"1614"	"New York"	"1912"	"D"
+"1615"	"North Carolina"	"1912"	"D"
+"1616"	"North Dakota"	"1912"	"D"
+"1617"	"Ohio"	"1912"	"D"
+"1618"	"Oklahoma"	"1912"	"D"
+"1619"	"Oregon"	"1912"	"D"
+"1620"	"Pennsylvania"	"1912"	"PR"
+"1621"	"Rhode Island"	"1912"	"D"
+"1622"	"South Carolina"	"1912"	"D"
+"1623"	"South Dakota"	"1912"	"PR"
+"1624"	"Tennessee"	"1912"	"D"
+"1625"	"Texas"	"1912"	"D"
+"1626"	"Utah"	"1912"	"R"
+"1627"	"Vermont"	"1912"	"R"
+"1628"	"Virginia"	"1912"	"D"
+"1629"	"Washington"	"1912"	"PR"
+"1630"	"West Virginia"	"1912"	"D"
+"1631"	"Wisconsin"	"1912"	"D"
+"1632"	"Wyoming"	"1912"	"D"
+"1633"	"Alabama"	"1916"	"D"
+"1634"	"Alaska"	"1916"	NA
+"1635"	"Arizona"	"1916"	"D"
+"1636"	"Arkansas"	"1916"	"D"
+"1637"	"California"	"1916"	"D"
+"1638"	"Colorado"	"1916"	"D"
+"1639"	"Connecticut"	"1916"	"R"
+"1640"	"Delaware"	"1916"	"R"
+"1641"	"D.C."	"1916"	NA
+"1642"	"Florida"	"1916"	"D"
+"1643"	"Georgia"	"1916"	"D"
+"1644"	"Hawaii"	"1916"	NA
+"1645"	"Idaho"	"1916"	"D"
+"1646"	"Illinois"	"1916"	"R"
+"1647"	"Indiana"	"1916"	"R"
+"1648"	"Iowa"	"1916"	"R"
+"1649"	"Kansas"	"1916"	"D"
+"1650"	"Kentucky"	"1916"	"D"
+"1651"	"Louisiana"	"1916"	"D"
+"1652"	"Maine"	"1916"	"R"
+"1653"	"Maryland"	"1916"	"D"
+"1654"	"Massachusetts"	"1916"	"R"
+"1655"	"Michigan"	"1916"	"R"
+"1656"	"Minnesota"	"1916"	"R"
+"1657"	"Mississippi"	"1916"	"D"
+"1658"	"Missouri"	"1916"	"D"
+"1659"	"Montana"	"1916"	"D"
+"1660"	"Nebraska"	"1916"	"D"
+"1661"	"Nevada"	"1916"	"D"
+"1662"	"New Hampshire"	"1916"	"D"
+"1663"	"New Jersey"	"1916"	"R"
+"1664"	"New Mexico"	"1916"	"D"
+"1665"	"New York"	"1916"	"R"
+"1666"	"North Carolina"	"1916"	"D"
+"1667"	"North Dakota"	"1916"	"D"
+"1668"	"Ohio"	"1916"	"D"
+"1669"	"Oklahoma"	"1916"	"D"
+"1670"	"Oregon"	"1916"	"R"
+"1671"	"Pennsylvania"	"1916"	"R"
+"1672"	"Rhode Island"	"1916"	"R"
+"1673"	"South Carolina"	"1916"	"D"
+"1674"	"South Dakota"	"1916"	"R"
+"1675"	"Tennessee"	"1916"	"D"
+"1676"	"Texas"	"1916"	"D"
+"1677"	"Utah"	"1916"	"D"
+"1678"	"Vermont"	"1916"	"R"
+"1679"	"Virginia"	"1916"	"D"
+"1680"	"Washington"	"1916"	"D"
+"1681"	"West Virginia"	"1916"	"R"
+"1682"	"Wisconsin"	"1916"	"R"
+"1683"	"Wyoming"	"1916"	"D"
+"1684"	"Alabama"	"1920"	"D"
+"1685"	"Alaska"	"1920"	NA
+"1686"	"Arizona"	"1920"	"R"
+"1687"	"Arkansas"	"1920"	"D"
+"1688"	"California"	"1920"	"R"
+"1689"	"Colorado"	"1920"	"R"
+"1690"	"Connecticut"	"1920"	"R"
+"1691"	"Delaware"	"1920"	"R"
+"1692"	"D.C."	"1920"	NA
+"1693"	"Florida"	"1920"	"D"
+"1694"	"Georgia"	"1920"	"D"
+"1695"	"Hawaii"	"1920"	NA
+"1696"	"Idaho"	"1920"	"R"
+"1697"	"Illinois"	"1920"	"R"
+"1698"	"Indiana"	"1920"	"R"
+"1699"	"Iowa"	"1920"	"R"
+"1700"	"Kansas"	"1920"	"R"
+"1701"	"Kentucky"	"1920"	"D"
+"1702"	"Louisiana"	"1920"	"D"
+"1703"	"Maine"	"1920"	"R"
+"1704"	"Maryland"	"1920"	"R"
+"1705"	"Massachusetts"	"1920"	"R"
+"1706"	"Michigan"	"1920"	"R"
+"1707"	"Minnesota"	"1920"	"R"
+"1708"	"Mississippi"	"1920"	"D"
+"1709"	"Missouri"	"1920"	"R"
+"1710"	"Montana"	"1920"	"R"
+"1711"	"Nebraska"	"1920"	"R"
+"1712"	"Nevada"	"1920"	"R"
+"1713"	"New Hampshire"	"1920"	"R"
+"1714"	"New Jersey"	"1920"	"R"
+"1715"	"New Mexico"	"1920"	"R"
+"1716"	"New York"	"1920"	"R"
+"1717"	"North Carolina"	"1920"	"D"
+"1718"	"North Dakota"	"1920"	"R"
+"1719"	"Ohio"	"1920"	"R"
+"1720"	"Oklahoma"	"1920"	"R"
+"1721"	"Oregon"	"1920"	"R"
+"1722"	"Pennsylvania"	"1920"	"R"
+"1723"	"Rhode Island"	"1920"	"R"
+"1724"	"South Carolina"	"1920"	"D"
+"1725"	"South Dakota"	"1920"	"R"
+"1726"	"Tennessee"	"1920"	"R"
+"1727"	"Texas"	"1920"	"D"
+"1728"	"Utah"	"1920"	"R"
+"1729"	"Vermont"	"1920"	"R"
+"1730"	"Virginia"	"1920"	"D"
+"1731"	"Washington"	"1920"	"R"
+"1732"	"West Virginia"	"1920"	"R"
+"1733"	"Wisconsin"	"1920"	"R"
+"1734"	"Wyoming"	"1920"	"R"
+"1735"	"Alabama"	"1924"	"D"
+"1736"	"Alaska"	"1924"	NA
+"1737"	"Arizona"	"1924"	"R"
+"1738"	"Arkansas"	"1924"	"D"
+"1739"	"California"	"1924"	"R"
+"1740"	"Colorado"	"1924"	"R"
+"1741"	"Connecticut"	"1924"	"R"
+"1742"	"Delaware"	"1924"	"R"
+"1743"	"D.C."	"1924"	NA
+"1744"	"Florida"	"1924"	"D"
+"1745"	"Georgia"	"1924"	"D"
+"1746"	"Hawaii"	"1924"	NA
+"1747"	"Idaho"	"1924"	"R"
+"1748"	"Illinois"	"1924"	"R"
+"1749"	"Indiana"	"1924"	"R"
+"1750"	"Iowa"	"1924"	"R"
+"1751"	"Kansas"	"1924"	"R"
+"1752"	"Kentucky"	"1924"	"R"
+"1753"	"Louisiana"	"1924"	"D"
+"1754"	"Maine"	"1924"	"R"
+"1755"	"Maryland"	"1924"	"R"
+"1756"	"Massachusetts"	"1924"	"R"
+"1757"	"Michigan"	"1924"	"R"
+"1758"	"Minnesota"	"1924"	"R"
+"1759"	"Mississippi"	"1924"	"D"
+"1760"	"Missouri"	"1924"	"R"
+"1761"	"Montana"	"1924"	"R"
+"1762"	"Nebraska"	"1924"	"R"
+"1763"	"Nevada"	"1924"	"R"
+"1764"	"New Hampshire"	"1924"	"R"
+"1765"	"New Jersey"	"1924"	"R"
+"1766"	"New Mexico"	"1924"	"R"
+"1767"	"New York"	"1924"	"R"
+"1768"	"North Carolina"	"1924"	"D"
+"1769"	"North Dakota"	"1924"	"R"
+"1770"	"Ohio"	"1924"	"R"
+"1771"	"Oklahoma"	"1924"	"D"
+"1772"	"Oregon"	"1924"	"R"
+"1773"	"Pennsylvania"	"1924"	"R"
+"1774"	"Rhode Island"	"1924"	"R"
+"1775"	"South Carolina"	"1924"	"D"
+"1776"	"South Dakota"	"1924"	"R"
+"1777"	"Tennessee"	"1924"	"D"
+"1778"	"Texas"	"1924"	"D"
+"1779"	"Utah"	"1924"	"R"
+"1780"	"Vermont"	"1924"	"R"
+"1781"	"Virginia"	"1924"	"D"
+"1782"	"Washington"	"1924"	"R"
+"1783"	"West Virginia"	"1924"	"R"
+"1784"	"Wisconsin"	"1924"	"PR"
+"1785"	"Wyoming"	"1924"	"R"
+"1786"	"Alabama"	"1928"	"D"
+"1787"	"Alaska"	"1928"	NA
+"1788"	"Arizona"	"1928"	"R"
+"1789"	"Arkansas"	"1928"	"D"
+"1790"	"California"	"1928"	"R"
+"1791"	"Colorado"	"1928"	"R"
+"1792"	"Connecticut"	"1928"	"R"
+"1793"	"Delaware"	"1928"	"R"
+"1794"	"D.C."	"1928"	NA
+"1795"	"Florida"	"1928"	"R"
+"1796"	"Georgia"	"1928"	"D"
+"1797"	"Hawaii"	"1928"	NA
+"1798"	"Idaho"	"1928"	"R"
+"1799"	"Illinois"	"1928"	"R"
+"1800"	"Indiana"	"1928"	"R"
+"1801"	"Iowa"	"1928"	"R"
+"1802"	"Kansas"	"1928"	"R"
+"1803"	"Kentucky"	"1928"	"R"
+"1804"	"Louisiana"	"1928"	"D"
+"1805"	"Maine"	"1928"	"R"
+"1806"	"Maryland"	"1928"	"R"
+"1807"	"Massachusetts"	"1928"	"D"
+"1808"	"Michigan"	"1928"	"R"
+"1809"	"Minnesota"	"1928"	"R"
+"1810"	"Mississippi"	"1928"	"D"
+"1811"	"Missouri"	"1928"	"R"
+"1812"	"Montana"	"1928"	"R"
+"1813"	"Nebraska"	"1928"	"R"
+"1814"	"Nevada"	"1928"	"R"
+"1815"	"New Hampshire"	"1928"	"R"
+"1816"	"New Jersey"	"1928"	"R"
+"1817"	"New Mexico"	"1928"	"R"
+"1818"	"New York"	"1928"	"R"
+"1819"	"North Carolina"	"1928"	"R"
+"1820"	"North Dakota"	"1928"	"R"
+"1821"	"Ohio"	"1928"	"R"
+"1822"	"Oklahoma"	"1928"	"R"
+"1823"	"Oregon"	"1928"	"R"
+"1824"	"Pennsylvania"	"1928"	"R"
+"1825"	"Rhode Island"	"1928"	"D"
+"1826"	"South Carolina"	"1928"	"D"
+"1827"	"South Dakota"	"1928"	"R"
+"1828"	"Tennessee"	"1928"	"R"
+"1829"	"Texas"	"1928"	"R"
+"1830"	"Utah"	"1928"	"R"
+"1831"	"Vermont"	"1928"	"R"
+"1832"	"Virginia"	"1928"	"R"
+"1833"	"Washington"	"1928"	"R"
+"1834"	"West Virginia"	"1928"	"R"
+"1835"	"Wisconsin"	"1928"	"R"
+"1836"	"Wyoming"	"1928"	"R"
+"1837"	"Alabama"	"1932"	"D"
+"1838"	"Alaska"	"1932"	NA
+"1839"	"Arizona"	"1932"	"D"
+"1840"	"Arkansas"	"1932"	"D"
+"1841"	"California"	"1932"	"D"
+"1842"	"Colorado"	"1932"	"D"
+"1843"	"Connecticut"	"1932"	"R"
+"1844"	"Delaware"	"1932"	"R"
+"1845"	"D.C."	"1932"	NA
+"1846"	"Florida"	"1932"	"D"
+"1847"	"Georgia"	"1932"	"D"
+"1848"	"Hawaii"	"1932"	NA
+"1849"	"Idaho"	"1932"	"D"
+"1850"	"Illinois"	"1932"	"D"
+"1851"	"Indiana"	"1932"	"D"
+"1852"	"Iowa"	"1932"	"D"
+"1853"	"Kansas"	"1932"	"D"
+"1854"	"Kentucky"	"1932"	"D"
+"1855"	"Louisiana"	"1932"	"D"
+"1856"	"Maine"	"1932"	"R"
+"1857"	"Maryland"	"1932"	"D"
+"1858"	"Massachusetts"	"1932"	"D"
+"1859"	"Michigan"	"1932"	"D"
+"1860"	"Minnesota"	"1932"	"D"
+"1861"	"Mississippi"	"1932"	"D"
+"1862"	"Missouri"	"1932"	"D"
+"1863"	"Montana"	"1932"	"D"
+"1864"	"Nebraska"	"1932"	"D"
+"1865"	"Nevada"	"1932"	"D"
+"1866"	"New Hampshire"	"1932"	"R"
+"1867"	"New Jersey"	"1932"	"D"
+"1868"	"New Mexico"	"1932"	"D"
+"1869"	"New York"	"1932"	"D"
+"1870"	"North Carolina"	"1932"	"D"
+"1871"	"North Dakota"	"1932"	"D"
+"1872"	"Ohio"	"1932"	"D"
+"1873"	"Oklahoma"	"1932"	"D"
+"1874"	"Oregon"	"1932"	"D"
+"1875"	"Pennsylvania"	"1932"	"R"
+"1876"	"Rhode Island"	"1932"	"D"
+"1877"	"South Carolina"	"1932"	"D"
+"1878"	"South Dakota"	"1932"	"D"
+"1879"	"Tennessee"	"1932"	"D"
+"1880"	"Texas"	"1932"	"D"
+"1881"	"Utah"	"1932"	"D"
+"1882"	"Vermont"	"1932"	"R"
+"1883"	"Virginia"	"1932"	"D"
+"1884"	"Washington"	"1932"	"D"
+"1885"	"West Virginia"	"1932"	"D"
+"1886"	"Wisconsin"	"1932"	"D"
+"1887"	"Wyoming"	"1932"	"D"
+"1888"	"Alabama"	"1936"	"D"
+"1889"	"Alaska"	"1936"	NA
+"1890"	"Arizona"	"1936"	"D"
+"1891"	"Arkansas"	"1936"	"D"
+"1892"	"California"	"1936"	"D"
+"1893"	"Colorado"	"1936"	"D"
+"1894"	"Connecticut"	"1936"	"D"
+"1895"	"Delaware"	"1936"	"D"
+"1896"	"D.C."	"1936"	NA
+"1897"	"Florida"	"1936"	"D"
+"1898"	"Georgia"	"1936"	"D"
+"1899"	"Hawaii"	"1936"	NA
+"1900"	"Idaho"	"1936"	"D"
+"1901"	"Illinois"	"1936"	"D"
+"1902"	"Indiana"	"1936"	"D"
+"1903"	"Iowa"	"1936"	"D"
+"1904"	"Kansas"	"1936"	"D"
+"1905"	"Kentucky"	"1936"	"D"
+"1906"	"Louisiana"	"1936"	"D"
+"1907"	"Maine"	"1936"	"R"
+"1908"	"Maryland"	"1936"	"D"
+"1909"	"Massachusetts"	"1936"	"D"
+"1910"	"Michigan"	"1936"	"D"
+"1911"	"Minnesota"	"1936"	"D"
+"1912"	"Mississippi"	"1936"	"D"
+"1913"	"Missouri"	"1936"	"D"
+"1914"	"Montana"	"1936"	"D"
+"1915"	"Nebraska"	"1936"	"D"
+"1916"	"Nevada"	"1936"	"D"
+"1917"	"New Hampshire"	"1936"	"D"
+"1918"	"New Jersey"	"1936"	"D"
+"1919"	"New Mexico"	"1936"	"D"
+"1920"	"New York"	"1936"	"D"
+"1921"	"North Carolina"	"1936"	"D"
+"1922"	"North Dakota"	"1936"	"D"
+"1923"	"Ohio"	"1936"	"D"
+"1924"	"Oklahoma"	"1936"	"D"
+"1925"	"Oregon"	"1936"	"D"
+"1926"	"Pennsylvania"	"1936"	"D"
+"1927"	"Rhode Island"	"1936"	"D"
+"1928"	"South Carolina"	"1936"	"D"
+"1929"	"South Dakota"	"1936"	"D"
+"1930"	"Tennessee"	"1936"	"D"
+"1931"	"Texas"	"1936"	"D"
+"1932"	"Utah"	"1936"	"D"
+"1933"	"Vermont"	"1936"	"R"
+"1934"	"Virginia"	"1936"	"D"
+"1935"	"Washington"	"1936"	"D"
+"1936"	"West Virginia"	"1936"	"D"
+"1937"	"Wisconsin"	"1936"	"D"
+"1938"	"Wyoming"	"1936"	"D"
+"1939"	"Alabama"	"1940"	"D"
+"1940"	"Alaska"	"1940"	NA
+"1941"	"Arizona"	"1940"	"D"
+"1942"	"Arkansas"	"1940"	"D"
+"1943"	"California"	"1940"	"D"
+"1944"	"Colorado"	"1940"	"R"
+"1945"	"Connecticut"	"1940"	"D"
+"1946"	"Delaware"	"1940"	"D"
+"1947"	"D.C."	"1940"	NA
+"1948"	"Florida"	"1940"	"D"
+"1949"	"Georgia"	"1940"	"D"
+"1950"	"Hawaii"	"1940"	NA
+"1951"	"Idaho"	"1940"	"D"
+"1952"	"Illinois"	"1940"	"D"
+"1953"	"Indiana"	"1940"	"R"
+"1954"	"Iowa"	"1940"	"R"
+"1955"	"Kansas"	"1940"	"R"
+"1956"	"Kentucky"	"1940"	"D"
+"1957"	"Louisiana"	"1940"	"D"
+"1958"	"Maine"	"1940"	"R"
+"1959"	"Maryland"	"1940"	"D"
+"1960"	"Massachusetts"	"1940"	"D"
+"1961"	"Michigan"	"1940"	"R"
+"1962"	"Minnesota"	"1940"	"D"
+"1963"	"Mississippi"	"1940"	"D"
+"1964"	"Missouri"	"1940"	"D"
+"1965"	"Montana"	"1940"	"D"
+"1966"	"Nebraska"	"1940"	"R"
+"1967"	"Nevada"	"1940"	"D"
+"1968"	"New Hampshire"	"1940"	"D"
+"1969"	"New Jersey"	"1940"	"D"
+"1970"	"New Mexico"	"1940"	"D"
+"1971"	"New York"	"1940"	"D"
+"1972"	"North Carolina"	"1940"	"D"
+"1973"	"North Dakota"	"1940"	"R"
+"1974"	"Ohio"	"1940"	"D"
+"1975"	"Oklahoma"	"1940"	"D"
+"1976"	"Oregon"	"1940"	"D"
+"1977"	"Pennsylvania"	"1940"	"D"
+"1978"	"Rhode Island"	"1940"	"D"
+"1979"	"South Carolina"	"1940"	"D"
+"1980"	"South Dakota"	"1940"	"R"
+"1981"	"Tennessee"	"1940"	"D"
+"1982"	"Texas"	"1940"	"D"
+"1983"	"Utah"	"1940"	"D"
+"1984"	"Vermont"	"1940"	"R"
+"1985"	"Virginia"	"1940"	"D"
+"1986"	"Washington"	"1940"	"D"
+"1987"	"West Virginia"	"1940"	"D"
+"1988"	"Wisconsin"	"1940"	"D"
+"1989"	"Wyoming"	"1940"	"D"
+"1990"	"Alabama"	"1944"	"D"
+"1991"	"Alaska"	"1944"	NA
+"1992"	"Arizona"	"1944"	"D"
+"1993"	"Arkansas"	"1944"	"D"
+"1994"	"California"	"1944"	"D"
+"1995"	"Colorado"	"1944"	"R"
+"1996"	"Connecticut"	"1944"	"D"
+"1997"	"Delaware"	"1944"	"D"
+"1998"	"D.C."	"1944"	NA
+"1999"	"Florida"	"1944"	"D"
+"2000"	"Georgia"	"1944"	"D"
+"2001"	"Hawaii"	"1944"	NA
+"2002"	"Idaho"	"1944"	"D"
+"2003"	"Illinois"	"1944"	"D"
+"2004"	"Indiana"	"1944"	"R"
+"2005"	"Iowa"	"1944"	"R"
+"2006"	"Kansas"	"1944"	"R"
+"2007"	"Kentucky"	"1944"	"D"
+"2008"	"Louisiana"	"1944"	"D"
+"2009"	"Maine"	"1944"	"R"
+"2010"	"Maryland"	"1944"	"D"
+"2011"	"Massachusetts"	"1944"	"D"
+"2012"	"Michigan"	"1944"	"D"
+"2013"	"Minnesota"	"1944"	"D"
+"2014"	"Mississippi"	"1944"	"D"
+"2015"	"Missouri"	"1944"	"D"
+"2016"	"Montana"	"1944"	"D"
+"2017"	"Nebraska"	"1944"	"R"
+"2018"	"Nevada"	"1944"	"D"
+"2019"	"New Hampshire"	"1944"	"D"
+"2020"	"New Jersey"	"1944"	"D"
+"2021"	"New Mexico"	"1944"	"D"
+"2022"	"New York"	"1944"	"D"
+"2023"	"North Carolina"	"1944"	"D"
+"2024"	"North Dakota"	"1944"	"R"
+"2025"	"Ohio"	"1944"	"R"
+"2026"	"Oklahoma"	"1944"	"D"
+"2027"	"Oregon"	"1944"	"D"
+"2028"	"Pennsylvania"	"1944"	"D"
+"2029"	"Rhode Island"	"1944"	"D"
+"2030"	"South Carolina"	"1944"	"D"
+"2031"	"South Dakota"	"1944"	"R"
+"2032"	"Tennessee"	"1944"	"D"
+"2033"	"Texas"	"1944"	"D"
+"2034"	"Utah"	"1944"	"D"
+"2035"	"Vermont"	"1944"	"R"
+"2036"	"Virginia"	"1944"	"D"
+"2037"	"Washington"	"1944"	"D"
+"2038"	"West Virginia"	"1944"	"D"
+"2039"	"Wisconsin"	"1944"	"R"
+"2040"	"Wyoming"	"1944"	"R"
+"2041"	"Alabama"	"1948"	"SR"
+"2042"	"Alaska"	"1948"	NA
+"2043"	"Arizona"	"1948"	"D"
+"2044"	"Arkansas"	"1948"	"D"
+"2045"	"California"	"1948"	"D"
+"2046"	"Colorado"	"1948"	"D"
+"2047"	"Connecticut"	"1948"	"R"
+"2048"	"Delaware"	"1948"	"R"
+"2049"	"D.C."	"1948"	NA
+"2050"	"Florida"	"1948"	"D"
+"2051"	"Georgia"	"1948"	"D"
+"2052"	"Hawaii"	"1948"	NA
+"2053"	"Idaho"	"1948"	"D"
+"2054"	"Illinois"	"1948"	"D"
+"2055"	"Indiana"	"1948"	"R"
+"2056"	"Iowa"	"1948"	"D"
+"2057"	"Kansas"	"1948"	"R"
+"2058"	"Kentucky"	"1948"	"D"
+"2059"	"Louisiana"	"1948"	"SR"
+"2060"	"Maine"	"1948"	"R"
+"2061"	"Maryland"	"1948"	"R"
+"2062"	"Massachusetts"	"1948"	"D"
+"2063"	"Michigan"	"1948"	"R"
+"2064"	"Minnesota"	"1948"	"D"
+"2065"	"Mississippi"	"1948"	"SR"
+"2066"	"Missouri"	"1948"	"D"
+"2067"	"Montana"	"1948"	"D"
+"2068"	"Nebraska"	"1948"	"R"
+"2069"	"Nevada"	"1948"	"D"
+"2070"	"New Hampshire"	"1948"	"R"
+"2071"	"New Jersey"	"1948"	"R"
+"2072"	"New Mexico"	"1948"	"D"
+"2073"	"New York"	"1948"	"R"
+"2074"	"North Carolina"	"1948"	"D"
+"2075"	"North Dakota"	"1948"	"R"
+"2076"	"Ohio"	"1948"	"D"
+"2077"	"Oklahoma"	"1948"	"D"
+"2078"	"Oregon"	"1948"	"R"
+"2079"	"Pennsylvania"	"1948"	"R"
+"2080"	"Rhode Island"	"1948"	"D"
+"2081"	"South Carolina"	"1948"	"SR"
+"2082"	"South Dakota"	"1948"	"R"
+"2083"	"Tennessee"	"1948"	"D"
+"2084"	"Texas"	"1948"	"D"
+"2085"	"Utah"	"1948"	"D"
+"2086"	"Vermont"	"1948"	"R"
+"2087"	"Virginia"	"1948"	"D"
+"2088"	"Washington"	"1948"	"D"
+"2089"	"West Virginia"	"1948"	"D"
+"2090"	"Wisconsin"	"1948"	"D"
+"2091"	"Wyoming"	"1948"	"D"
+"2092"	"Alabama"	"1952"	"D"
+"2093"	"Alaska"	"1952"	NA
+"2094"	"Arizona"	"1952"	"R"
+"2095"	"Arkansas"	"1952"	"D"
+"2096"	"California"	"1952"	"R"
+"2097"	"Colorado"	"1952"	"R"
+"2098"	"Connecticut"	"1952"	"R"
+"2099"	"Delaware"	"1952"	"R"
+"2100"	"D.C."	"1952"	NA
+"2101"	"Florida"	"1952"	"R"
+"2102"	"Georgia"	"1952"	"D"
+"2103"	"Hawaii"	"1952"	NA
+"2104"	"Idaho"	"1952"	"R"
+"2105"	"Illinois"	"1952"	"R"
+"2106"	"Indiana"	"1952"	"R"
+"2107"	"Iowa"	"1952"	"R"
+"2108"	"Kansas"	"1952"	"R"
+"2109"	"Kentucky"	"1952"	"D"
+"2110"	"Louisiana"	"1952"	"D"
+"2111"	"Maine"	"1952"	"R"
+"2112"	"Maryland"	"1952"	"R"
+"2113"	"Massachusetts"	"1952"	"R"
+"2114"	"Michigan"	"1952"	"R"
+"2115"	"Minnesota"	"1952"	"R"
+"2116"	"Mississippi"	"1952"	"D"
+"2117"	"Missouri"	"1952"	"R"
+"2118"	"Montana"	"1952"	"R"
+"2119"	"Nebraska"	"1952"	"R"
+"2120"	"Nevada"	"1952"	"R"
+"2121"	"New Hampshire"	"1952"	"R"
+"2122"	"New Jersey"	"1952"	"R"
+"2123"	"New Mexico"	"1952"	"R"
+"2124"	"New York"	"1952"	"R"
+"2125"	"North Carolina"	"1952"	"D"
+"2126"	"North Dakota"	"1952"	"R"
+"2127"	"Ohio"	"1952"	"R"
+"2128"	"Oklahoma"	"1952"	"R"
+"2129"	"Oregon"	"1952"	"R"
+"2130"	"Pennsylvania"	"1952"	"R"
+"2131"	"Rhode Island"	"1952"	"R"
+"2132"	"South Carolina"	"1952"	"D"
+"2133"	"South Dakota"	"1952"	"R"
+"2134"	"Tennessee"	"1952"	"R"
+"2135"	"Texas"	"1952"	"R"
+"2136"	"Utah"	"1952"	"R"
+"2137"	"Vermont"	"1952"	"R"
+"2138"	"Virginia"	"1952"	"R"
+"2139"	"Washington"	"1952"	"R"
+"2140"	"West Virginia"	"1952"	"D"
+"2141"	"Wisconsin"	"1952"	"R"
+"2142"	"Wyoming"	"1952"	"R"
+"2143"	"Alabama"	"1956"	"D"
+"2144"	"Alaska"	"1956"	NA
+"2145"	"Arizona"	"1956"	"R"
+"2146"	"Arkansas"	"1956"	"D"
+"2147"	"California"	"1956"	"R"
+"2148"	"Colorado"	"1956"	"R"
+"2149"	"Connecticut"	"1956"	"R"
+"2150"	"Delaware"	"1956"	"R"
+"2151"	"D.C."	"1956"	NA
+"2152"	"Florida"	"1956"	"R"
+"2153"	"Georgia"	"1956"	"D"
+"2154"	"Hawaii"	"1956"	NA
+"2155"	"Idaho"	"1956"	"R"
+"2156"	"Illinois"	"1956"	"R"
+"2157"	"Indiana"	"1956"	"R"
+"2158"	"Iowa"	"1956"	"R"
+"2159"	"Kansas"	"1956"	"R"
+"2160"	"Kentucky"	"1956"	"R"
+"2161"	"Louisiana"	"1956"	"R"
+"2162"	"Maine"	"1956"	"R"
+"2163"	"Maryland"	"1956"	"R"
+"2164"	"Massachusetts"	"1956"	"R"
+"2165"	"Michigan"	"1956"	"R"
+"2166"	"Minnesota"	"1956"	"R"
+"2167"	"Mississippi"	"1956"	"D"
+"2168"	"Missouri"	"1956"	"D"
+"2169"	"Montana"	"1956"	"R"
+"2170"	"Nebraska"	"1956"	"R"
+"2171"	"Nevada"	"1956"	"R"
+"2172"	"New Hampshire"	"1956"	"R"
+"2173"	"New Jersey"	"1956"	"R"
+"2174"	"New Mexico"	"1956"	"R"
+"2175"	"New York"	"1956"	"R"
+"2176"	"North Carolina"	"1956"	"D"
+"2177"	"North Dakota"	"1956"	"R"
+"2178"	"Ohio"	"1956"	"R"
+"2179"	"Oklahoma"	"1956"	"R"
+"2180"	"Oregon"	"1956"	"R"
+"2181"	"Pennsylvania"	"1956"	"R"
+"2182"	"Rhode Island"	"1956"	"R"
+"2183"	"South Carolina"	"1956"	"D"
+"2184"	"South Dakota"	"1956"	"R"
+"2185"	"Tennessee"	"1956"	"R"
+"2186"	"Texas"	"1956"	"R"
+"2187"	"Utah"	"1956"	"R"
+"2188"	"Vermont"	"1956"	"R"
+"2189"	"Virginia"	"1956"	"R"
+"2190"	"Washington"	"1956"	"R"
+"2191"	"West Virginia"	"1956"	"R"
+"2192"	"Wisconsin"	"1956"	"R"
+"2193"	"Wyoming"	"1956"	"R"
+"2194"	"Alabama"	"1960"	"I"
+"2195"	"Alaska"	"1960"	"R"
+"2196"	"Arizona"	"1960"	"R"
+"2197"	"Arkansas"	"1960"	"D"
+"2198"	"California"	"1960"	"R"
+"2199"	"Colorado"	"1960"	"R"
+"2200"	"Connecticut"	"1960"	"D"
+"2201"	"Delaware"	"1960"	"D"
+"2202"	"D.C."	"1960"	NA
+"2203"	"Florida"	"1960"	"R"
+"2204"	"Georgia"	"1960"	"D"
+"2205"	"Hawaii"	"1960"	"D"
+"2206"	"Idaho"	"1960"	"R"
+"2207"	"Illinois"	"1960"	"D"
+"2208"	"Indiana"	"1960"	"R"
+"2209"	"Iowa"	"1960"	"R"
+"2210"	"Kansas"	"1960"	"R"
+"2211"	"Kentucky"	"1960"	"R"
+"2212"	"Louisiana"	"1960"	"D"
+"2213"	"Maine"	"1960"	"R"
+"2214"	"Maryland"	"1960"	"D"
+"2215"	"Massachusetts"	"1960"	"D"
+"2216"	"Michigan"	"1960"	"D"
+"2217"	"Minnesota"	"1960"	"D"
+"2218"	"Mississippi"	"1960"	"I"
+"2219"	"Missouri"	"1960"	"D"
+"2220"	"Montana"	"1960"	"R"
+"2221"	"Nebraska"	"1960"	"R"
+"2222"	"Nevada"	"1960"	"D"
+"2223"	"New Hampshire"	"1960"	"R"
+"2224"	"New Jersey"	"1960"	"D"
+"2225"	"New Mexico"	"1960"	"D"
+"2226"	"New York"	"1960"	"D"
+"2227"	"North Carolina"	"1960"	"D"
+"2228"	"North Dakota"	"1960"	"R"
+"2229"	"Ohio"	"1960"	"R"
+"2230"	"Oklahoma"	"1960"	"R"
+"2231"	"Oregon"	"1960"	"R"
+"2232"	"Pennsylvania"	"1960"	"D"
+"2233"	"Rhode Island"	"1960"	"D"
+"2234"	"South Carolina"	"1960"	"D"
+"2235"	"South Dakota"	"1960"	"R"
+"2236"	"Tennessee"	"1960"	"R"
+"2237"	"Texas"	"1960"	"D"
+"2238"	"Utah"	"1960"	"R"
+"2239"	"Vermont"	"1960"	"R"
+"2240"	"Virginia"	"1960"	"R"
+"2241"	"Washington"	"1960"	"R"
+"2242"	"West Virginia"	"1960"	"D"
+"2243"	"Wisconsin"	"1960"	"R"
+"2244"	"Wyoming"	"1960"	"R"
+"2245"	"Alabama"	"1964"	"R"
+"2246"	"Alaska"	"1964"	"D"
+"2247"	"Arizona"	"1964"	"R"
+"2248"	"Arkansas"	"1964"	"D"
+"2249"	"California"	"1964"	"D"
+"2250"	"Colorado"	"1964"	"D"
+"2251"	"Connecticut"	"1964"	"D"
+"2252"	"Delaware"	"1964"	"D"
+"2253"	"D.C."	"1964"	"D"
+"2254"	"Florida"	"1964"	"D"
+"2255"	"Georgia"	"1964"	"R"
+"2256"	"Hawaii"	"1964"	"D"
+"2257"	"Idaho"	"1964"	"D"
+"2258"	"Illinois"	"1964"	"D"
+"2259"	"Indiana"	"1964"	"D"
+"2260"	"Iowa"	"1964"	"D"
+"2261"	"Kansas"	"1964"	"D"
+"2262"	"Kentucky"	"1964"	"D"
+"2263"	"Louisiana"	"1964"	"R"
+"2264"	"Maine"	"1964"	"D"
+"2265"	"Maryland"	"1964"	"D"
+"2266"	"Massachusetts"	"1964"	"D"
+"2267"	"Michigan"	"1964"	"D"
+"2268"	"Minnesota"	"1964"	"D"
+"2269"	"Mississippi"	"1964"	"R"
+"2270"	"Missouri"	"1964"	"D"
+"2271"	"Montana"	"1964"	"D"
+"2272"	"Nebraska"	"1964"	"D"
+"2273"	"Nevada"	"1964"	"D"
+"2274"	"New Hampshire"	"1964"	"D"
+"2275"	"New Jersey"	"1964"	"D"
+"2276"	"New Mexico"	"1964"	"D"
+"2277"	"New York"	"1964"	"D"
+"2278"	"North Carolina"	"1964"	"D"
+"2279"	"North Dakota"	"1964"	"D"
+"2280"	"Ohio"	"1964"	"D"
+"2281"	"Oklahoma"	"1964"	"D"
+"2282"	"Oregon"	"1964"	"D"
+"2283"	"Pennsylvania"	"1964"	"D"
+"2284"	"Rhode Island"	"1964"	"D"
+"2285"	"South Carolina"	"1964"	"R"
+"2286"	"South Dakota"	"1964"	"D"
+"2287"	"Tennessee"	"1964"	"D"
+"2288"	"Texas"	"1964"	"D"
+"2289"	"Utah"	"1964"	"D"
+"2290"	"Vermont"	"1964"	"D"
+"2291"	"Virginia"	"1964"	"D"
+"2292"	"Washington"	"1964"	"D"
+"2293"	"West Virginia"	"1964"	"D"
+"2294"	"Wisconsin"	"1964"	"D"
+"2295"	"Wyoming"	"1964"	"D"
+"2296"	"Alabama"	"1968"	"AI"
+"2297"	"Alaska"	"1968"	"R"
+"2298"	"Arizona"	"1968"	"R"
+"2299"	"Arkansas"	"1968"	"AI"
+"2300"	"California"	"1968"	"R"
+"2301"	"Colorado"	"1968"	"R"
+"2302"	"Connecticut"	"1968"	"D"
+"2303"	"Delaware"	"1968"	"R"
+"2304"	"D.C."	"1968"	"D"
+"2305"	"Florida"	"1968"	"R"
+"2306"	"Georgia"	"1968"	"AI"
+"2307"	"Hawaii"	"1968"	"D"
+"2308"	"Idaho"	"1968"	"R"
+"2309"	"Illinois"	"1968"	"R"
+"2310"	"Indiana"	"1968"	"R"
+"2311"	"Iowa"	"1968"	"R"
+"2312"	"Kansas"	"1968"	"R"
+"2313"	"Kentucky"	"1968"	"R"
+"2314"	"Louisiana"	"1968"	"AI"
+"2315"	"Maine"	"1968"	"D"
+"2316"	"Maryland"	"1968"	"D"
+"2317"	"Massachusetts"	"1968"	"D"
+"2318"	"Michigan"	"1968"	"D"
+"2319"	"Minnesota"	"1968"	"D"
+"2320"	"Mississippi"	"1968"	"AI"
+"2321"	"Missouri"	"1968"	"R"
+"2322"	"Montana"	"1968"	"R"
+"2323"	"Nebraska"	"1968"	"R"
+"2324"	"Nevada"	"1968"	"R"
+"2325"	"New Hampshire"	"1968"	"R"
+"2326"	"New Jersey"	"1968"	"R"
+"2327"	"New Mexico"	"1968"	"R"
+"2328"	"New York"	"1968"	"D"
+"2329"	"North Carolina"	"1968"	"R"
+"2330"	"North Dakota"	"1968"	"R"
+"2331"	"Ohio"	"1968"	"R"
+"2332"	"Oklahoma"	"1968"	"R"
+"2333"	"Oregon"	"1968"	"R"
+"2334"	"Pennsylvania"	"1968"	"D"
+"2335"	"Rhode Island"	"1968"	"D"
+"2336"	"South Carolina"	"1968"	"R"
+"2337"	"South Dakota"	"1968"	"R"
+"2338"	"Tennessee"	"1968"	"R"
+"2339"	"Texas"	"1968"	"D"
+"2340"	"Utah"	"1968"	"R"
+"2341"	"Vermont"	"1968"	"R"
+"2342"	"Virginia"	"1968"	"R"
+"2343"	"Washington"	"1968"	"D"
+"2344"	"West Virginia"	"1968"	"D"
+"2345"	"Wisconsin"	"1968"	"R"
+"2346"	"Wyoming"	"1968"	"R"
+"2347"	"Alabama"	"1972"	"R"
+"2348"	"Alaska"	"1972"	"R"
+"2349"	"Arizona"	"1972"	"R"
+"2350"	"Arkansas"	"1972"	"R"
+"2351"	"California"	"1972"	"R"
+"2352"	"Colorado"	"1972"	"R"
+"2353"	"Connecticut"	"1972"	"R"
+"2354"	"Delaware"	"1972"	"R"
+"2355"	"D.C."	"1972"	"D"
+"2356"	"Florida"	"1972"	"R"
+"2357"	"Georgia"	"1972"	"R"
+"2358"	"Hawaii"	"1972"	"R"
+"2359"	"Idaho"	"1972"	"R"
+"2360"	"Illinois"	"1972"	"R"
+"2361"	"Indiana"	"1972"	"R"
+"2362"	"Iowa"	"1972"	"R"
+"2363"	"Kansas"	"1972"	"R"
+"2364"	"Kentucky"	"1972"	"R"
+"2365"	"Louisiana"	"1972"	"R"
+"2366"	"Maine"	"1972"	"R"
+"2367"	"Maryland"	"1972"	"R"
+"2368"	"Massachusetts"	"1972"	"D"
+"2369"	"Michigan"	"1972"	"R"
+"2370"	"Minnesota"	"1972"	"R"
+"2371"	"Mississippi"	"1972"	"R"
+"2372"	"Missouri"	"1972"	"R"
+"2373"	"Montana"	"1972"	"R"
+"2374"	"Nebraska"	"1972"	"R"
+"2375"	"Nevada"	"1972"	"R"
+"2376"	"New Hampshire"	"1972"	"R"
+"2377"	"New Jersey"	"1972"	"R"
+"2378"	"New Mexico"	"1972"	"R"
+"2379"	"New York"	"1972"	"R"
+"2380"	"North Carolina"	"1972"	"R"
+"2381"	"North Dakota"	"1972"	"R"
+"2382"	"Ohio"	"1972"	"R"
+"2383"	"Oklahoma"	"1972"	"R"
+"2384"	"Oregon"	"1972"	"R"
+"2385"	"Pennsylvania"	"1972"	"R"
+"2386"	"Rhode Island"	"1972"	"R"
+"2387"	"South Carolina"	"1972"	"R"
+"2388"	"South Dakota"	"1972"	"R"
+"2389"	"Tennessee"	"1972"	"R"
+"2390"	"Texas"	"1972"	"R"
+"2391"	"Utah"	"1972"	"R"
+"2392"	"Vermont"	"1972"	"R"
+"2393"	"Virginia"	"1972"	"R"
+"2394"	"Washington"	"1972"	"R"
+"2395"	"West Virginia"	"1972"	"R"
+"2396"	"Wisconsin"	"1972"	"R"
+"2397"	"Wyoming"	"1972"	"R"
+"2398"	"Alabama"	"1976"	"D"
+"2399"	"Alaska"	"1976"	"R"
+"2400"	"Arizona"	"1976"	"R"
+"2401"	"Arkansas"	"1976"	"D"
+"2402"	"California"	"1976"	"R"
+"2403"	"Colorado"	"1976"	"R"
+"2404"	"Connecticut"	"1976"	"R"
+"2405"	"Delaware"	"1976"	"D"
+"2406"	"D.C."	"1976"	"D"
+"2407"	"Florida"	"1976"	"D"
+"2408"	"Georgia"	"1976"	"D"
+"2409"	"Hawaii"	"1976"	"D"
+"2410"	"Idaho"	"1976"	"R"
+"2411"	"Illinois"	"1976"	"R"
+"2412"	"Indiana"	"1976"	"R"
+"2413"	"Iowa"	"1976"	"R"
+"2414"	"Kansas"	"1976"	"R"
+"2415"	"Kentucky"	"1976"	"D"
+"2416"	"Louisiana"	"1976"	"D"
+"2417"	"Maine"	"1976"	"R"
+"2418"	"Maryland"	"1976"	"D"
+"2419"	"Massachusetts"	"1976"	"D"
+"2420"	"Michigan"	"1976"	"R"
+"2421"	"Minnesota"	"1976"	"D"
+"2422"	"Mississippi"	"1976"	"D"
+"2423"	"Missouri"	"1976"	"D"
+"2424"	"Montana"	"1976"	"R"
+"2425"	"Nebraska"	"1976"	"R"
+"2426"	"Nevada"	"1976"	"R"
+"2427"	"New Hampshire"	"1976"	"R"
+"2428"	"New Jersey"	"1976"	"R"
+"2429"	"New Mexico"	"1976"	"R"
+"2430"	"New York"	"1976"	"D"
+"2431"	"North Carolina"	"1976"	"D"
+"2432"	"North Dakota"	"1976"	"R"
+"2433"	"Ohio"	"1976"	"D"
+"2434"	"Oklahoma"	"1976"	"R"
+"2435"	"Oregon"	"1976"	"R"
+"2436"	"Pennsylvania"	"1976"	"D"
+"2437"	"Rhode Island"	"1976"	"D"
+"2438"	"South Carolina"	"1976"	"D"
+"2439"	"South Dakota"	"1976"	"R"
+"2440"	"Tennessee"	"1976"	"D"
+"2441"	"Texas"	"1976"	"D"
+"2442"	"Utah"	"1976"	"R"
+"2443"	"Vermont"	"1976"	"R"
+"2444"	"Virginia"	"1976"	"R"
+"2445"	"Washington"	"1976"	"R"
+"2446"	"West Virginia"	"1976"	"D"
+"2447"	"Wisconsin"	"1976"	"D"
+"2448"	"Wyoming"	"1976"	"R"
+"2449"	"Alabama"	"1980"	"R"
+"2450"	"Alaska"	"1980"	"R"
+"2451"	"Arizona"	"1980"	"R"
+"2452"	"Arkansas"	"1980"	"R"
+"2453"	"California"	"1980"	"R"
+"2454"	"Colorado"	"1980"	"R"
+"2455"	"Connecticut"	"1980"	"R"
+"2456"	"Delaware"	"1980"	"R"
+"2457"	"D.C."	"1980"	"D"
+"2458"	"Florida"	"1980"	"R"
+"2459"	"Georgia"	"1980"	"D"
+"2460"	"Hawaii"	"1980"	"D"
+"2461"	"Idaho"	"1980"	"R"
+"2462"	"Illinois"	"1980"	"R"
+"2463"	"Indiana"	"1980"	"R"
+"2464"	"Iowa"	"1980"	"R"
+"2465"	"Kansas"	"1980"	"R"
+"2466"	"Kentucky"	"1980"	"R"
+"2467"	"Louisiana"	"1980"	"R"
+"2468"	"Maine"	"1980"	"R"
+"2469"	"Maryland"	"1980"	"D"
+"2470"	"Massachusetts"	"1980"	"R"
+"2471"	"Michigan"	"1980"	"R"
+"2472"	"Minnesota"	"1980"	"D"
+"2473"	"Mississippi"	"1980"	"R"
+"2474"	"Missouri"	"1980"	"R"
+"2475"	"Montana"	"1980"	"R"
+"2476"	"Nebraska"	"1980"	"R"
+"2477"	"Nevada"	"1980"	"R"
+"2478"	"New Hampshire"	"1980"	"R"
+"2479"	"New Jersey"	"1980"	"R"
+"2480"	"New Mexico"	"1980"	"R"
+"2481"	"New York"	"1980"	"R"
+"2482"	"North Carolina"	"1980"	"R"
+"2483"	"North Dakota"	"1980"	"R"
+"2484"	"Ohio"	"1980"	"R"
+"2485"	"Oklahoma"	"1980"	"R"
+"2486"	"Oregon"	"1980"	"R"
+"2487"	"Pennsylvania"	"1980"	"R"
+"2488"	"Rhode Island"	"1980"	"D"
+"2489"	"South Carolina"	"1980"	"R"
+"2490"	"South Dakota"	"1980"	"R"
+"2491"	"Tennessee"	"1980"	"R"
+"2492"	"Texas"	"1980"	"R"
+"2493"	"Utah"	"1980"	"R"
+"2494"	"Vermont"	"1980"	"R"
+"2495"	"Virginia"	"1980"	"R"
+"2496"	"Washington"	"1980"	"R"
+"2497"	"West Virginia"	"1980"	"D"
+"2498"	"Wisconsin"	"1980"	"R"
+"2499"	"Wyoming"	"1980"	"R"
+"2500"	"Alabama"	"1984"	"R"
+"2501"	"Alaska"	"1984"	"R"
+"2502"	"Arizona"	"1984"	"R"
+"2503"	"Arkansas"	"1984"	"R"
+"2504"	"California"	"1984"	"R"
+"2505"	"Colorado"	"1984"	"R"
+"2506"	"Connecticut"	"1984"	"R"
+"2507"	"Delaware"	"1984"	"R"
+"2508"	"D.C."	"1984"	"D"
+"2509"	"Florida"	"1984"	"R"
+"2510"	"Georgia"	"1984"	"R"
+"2511"	"Hawaii"	"1984"	"R"
+"2512"	"Idaho"	"1984"	"R"
+"2513"	"Illinois"	"1984"	"R"
+"2514"	"Indiana"	"1984"	"R"
+"2515"	"Iowa"	"1984"	"R"
+"2516"	"Kansas"	"1984"	"R"
+"2517"	"Kentucky"	"1984"	"R"
+"2518"	"Louisiana"	"1984"	"R"
+"2519"	"Maine"	"1984"	"R"
+"2520"	"Maryland"	"1984"	"R"
+"2521"	"Massachusetts"	"1984"	"R"
+"2522"	"Michigan"	"1984"	"R"
+"2523"	"Minnesota"	"1984"	"D"
+"2524"	"Mississippi"	"1984"	"R"
+"2525"	"Missouri"	"1984"	"R"
+"2526"	"Montana"	"1984"	"R"
+"2527"	"Nebraska"	"1984"	"R"
+"2528"	"Nevada"	"1984"	"R"
+"2529"	"New Hampshire"	"1984"	"R"
+"2530"	"New Jersey"	"1984"	"R"
+"2531"	"New Mexico"	"1984"	"R"
+"2532"	"New York"	"1984"	"R"
+"2533"	"North Carolina"	"1984"	"R"
+"2534"	"North Dakota"	"1984"	"R"
+"2535"	"Ohio"	"1984"	"R"
+"2536"	"Oklahoma"	"1984"	"R"
+"2537"	"Oregon"	"1984"	"R"
+"2538"	"Pennsylvania"	"1984"	"R"
+"2539"	"Rhode Island"	"1984"	"R"
+"2540"	"South Carolina"	"1984"	"R"
+"2541"	"South Dakota"	"1984"	"R"
+"2542"	"Tennessee"	"1984"	"R"
+"2543"	"Texas"	"1984"	"R"
+"2544"	"Utah"	"1984"	"R"
+"2545"	"Vermont"	"1984"	"R"
+"2546"	"Virginia"	"1984"	"R"
+"2547"	"Washington"	"1984"	"R"
+"2548"	"West Virginia"	"1984"	"R"
+"2549"	"Wisconsin"	"1984"	"R"
+"2550"	"Wyoming"	"1984"	"R"
+"2551"	"Alabama"	"1988"	"R"
+"2552"	"Alaska"	"1988"	"R"
+"2553"	"Arizona"	"1988"	"R"
+"2554"	"Arkansas"	"1988"	"R"
+"2555"	"California"	"1988"	"R"
+"2556"	"Colorado"	"1988"	"R"
+"2557"	"Connecticut"	"1988"	"R"
+"2558"	"Delaware"	"1988"	"R"
+"2559"	"D.C."	"1988"	"D"
+"2560"	"Florida"	"1988"	"R"
+"2561"	"Georgia"	"1988"	"R"
+"2562"	"Hawaii"	"1988"	"D"
+"2563"	"Idaho"	"1988"	"R"
+"2564"	"Illinois"	"1988"	"R"
+"2565"	"Indiana"	"1988"	"R"
+"2566"	"Iowa"	"1988"	"D"
+"2567"	"Kansas"	"1988"	"R"
+"2568"	"Kentucky"	"1988"	"R"
+"2569"	"Louisiana"	"1988"	"R"
+"2570"	"Maine"	"1988"	"R"
+"2571"	"Maryland"	"1988"	"R"
+"2572"	"Massachusetts"	"1988"	"D"
+"2573"	"Michigan"	"1988"	"R"
+"2574"	"Minnesota"	"1988"	"D"
+"2575"	"Mississippi"	"1988"	"R"
+"2576"	"Missouri"	"1988"	"R"
+"2577"	"Montana"	"1988"	"R"
+"2578"	"Nebraska"	"1988"	"R"
+"2579"	"Nevada"	"1988"	"R"
+"2580"	"New Hampshire"	"1988"	"R"
+"2581"	"New Jersey"	"1988"	"R"
+"2582"	"New Mexico"	"1988"	"R"
+"2583"	"New York"	"1988"	"D"
+"2584"	"North Carolina"	"1988"	"R"
+"2585"	"North Dakota"	"1988"	"R"
+"2586"	"Ohio"	"1988"	"R"
+"2587"	"Oklahoma"	"1988"	"R"
+"2588"	"Oregon"	"1988"	"D"
+"2589"	"Pennsylvania"	"1988"	"R"
+"2590"	"Rhode Island"	"1988"	"D"
+"2591"	"South Carolina"	"1988"	"R"
+"2592"	"South Dakota"	"1988"	"R"
+"2593"	"Tennessee"	"1988"	"R"
+"2594"	"Texas"	"1988"	"R"
+"2595"	"Utah"	"1988"	"R"
+"2596"	"Vermont"	"1988"	"R"
+"2597"	"Virginia"	"1988"	"R"
+"2598"	"Washington"	"1988"	"D"
+"2599"	"West Virginia"	"1988"	"D"
+"2600"	"Wisconsin"	"1988"	"D"
+"2601"	"Wyoming"	"1988"	NA
+"2602"	"Alabama"	"1992"	"R"
+"2603"	"Alaska"	"1992"	"R"
+"2604"	"Arizona"	"1992"	"R"
+"2605"	"Arkansas"	"1992"	"D"
+"2606"	"California"	"1992"	"D"
+"2607"	"Colorado"	"1992"	"D"
+"2608"	"Connecticut"	"1992"	"D"
+"2609"	"Delaware"	"1992"	"D"
+"2610"	"D.C."	"1992"	"D"
+"2611"	"Florida"	"1992"	"R"
+"2612"	"Georgia"	"1992"	"D"
+"2613"	"Hawaii"	"1992"	"D"
+"2614"	"Idaho"	"1992"	"R"
+"2615"	"Illinois"	"1992"	"D"
+"2616"	"Indiana"	"1992"	"R"
+"2617"	"Iowa"	"1992"	"D"
+"2618"	"Kansas"	"1992"	"R"
+"2619"	"Kentucky"	"1992"	"D"
+"2620"	"Louisiana"	"1992"	"D"
+"2621"	"Maine"	"1992"	"D"
+"2622"	"Maryland"	"1992"	"D"
+"2623"	"Massachusetts"	"1992"	"D"
+"2624"	"Michigan"	"1992"	"D"
+"2625"	"Minnesota"	"1992"	"D"
+"2626"	"Mississippi"	"1992"	"R"
+"2627"	"Missouri"	"1992"	"D"
+"2628"	"Montana"	"1992"	"D"
+"2629"	"Nebraska"	"1992"	"R"
+"2630"	"Nevada"	"1992"	"D"
+"2631"	"New Hampshire"	"1992"	"D"
+"2632"	"New Jersey"	"1992"	"D"
+"2633"	"New Mexico"	"1992"	"D"
+"2634"	"New York"	"1992"	"D"
+"2635"	"North Carolina"	"1992"	"R"
+"2636"	"North Dakota"	"1992"	"R"
+"2637"	"Ohio"	"1992"	"D"
+"2638"	"Oklahoma"	"1992"	"R"
+"2639"	"Oregon"	"1992"	"D"
+"2640"	"Pennsylvania"	"1992"	"D"
+"2641"	"Rhode Island"	"1992"	"D"
+"2642"	"South Carolina"	"1992"	"R"
+"2643"	"South Dakota"	"1992"	"R"
+"2644"	"Tennessee"	"1992"	"D"
+"2645"	"Texas"	"1992"	"R"
+"2646"	"Utah"	"1992"	"R"
+"2647"	"Vermont"	"1992"	"D"
+"2648"	"Virginia"	"1992"	"R"
+"2649"	"Washington"	"1992"	"D"
+"2650"	"West Virginia"	"1992"	"D"
+"2651"	"Wisconsin"	"1992"	"D"
+"2652"	"Wyoming"	"1992"	NA
+"2653"	"Alabama"	"1996"	"R"
+"2654"	"Alaska"	"1996"	"R"
+"2655"	"Arizona"	"1996"	"D"
+"2656"	"Arkansas"	"1996"	"D"
+"2657"	"California"	"1996"	"D"
+"2658"	"Colorado"	"1996"	"R"
+"2659"	"Connecticut"	"1996"	"D"
+"2660"	"Delaware"	"1996"	"D"
+"2661"	"D.C."	"1996"	"D"
+"2662"	"Florida"	"1996"	"D"
+"2663"	"Georgia"	"1996"	"R"
+"2664"	"Hawaii"	"1996"	"D"
+"2665"	"Idaho"	"1996"	"R"
+"2666"	"Illinois"	"1996"	"D"
+"2667"	"Indiana"	"1996"	"R"
+"2668"	"Iowa"	"1996"	"D"
+"2669"	"Kansas"	"1996"	"R"
+"2670"	"Kentucky"	"1996"	"D"
+"2671"	"Louisiana"	"1996"	"D"
+"2672"	"Maine"	"1996"	"D"
+"2673"	"Maryland"	"1996"	"D"
+"2674"	"Massachusetts"	"1996"	"D"
+"2675"	"Michigan"	"1996"	"D"
+"2676"	"Minnesota"	"1996"	"D"
+"2677"	"Mississippi"	"1996"	"R"
+"2678"	"Missouri"	"1996"	"D"
+"2679"	"Montana"	"1996"	"R"
+"2680"	"Nebraska"	"1996"	"R"
+"2681"	"Nevada"	"1996"	"D"
+"2682"	"New Hampshire"	"1996"	"D"
+"2683"	"New Jersey"	"1996"	"D"
+"2684"	"New Mexico"	"1996"	"D"
+"2685"	"New York"	"1996"	"D"
+"2686"	"North Carolina"	"1996"	"R"
+"2687"	"North Dakota"	"1996"	"R"
+"2688"	"Ohio"	"1996"	"D"
+"2689"	"Oklahoma"	"1996"	"R"
+"2690"	"Oregon"	"1996"	"D"
+"2691"	"Pennsylvania"	"1996"	"D"
+"2692"	"Rhode Island"	"1996"	"D"
+"2693"	"South Carolina"	"1996"	"R"
+"2694"	"South Dakota"	"1996"	"R"
+"2695"	"Tennessee"	"1996"	"D"
+"2696"	"Texas"	"1996"	"R"
+"2697"	"Utah"	"1996"	"R"
+"2698"	"Vermont"	"1996"	"D"
+"2699"	"Virginia"	"1996"	"R"
+"2700"	"Washington"	"1996"	"D"
+"2701"	"West Virginia"	"1996"	"D"
+"2702"	"Wisconsin"	"1996"	"D"
+"2703"	"Wyoming"	"1996"	NA
+"2704"	"Alabama"	"2000"	"R"
+"2705"	"Alaska"	"2000"	"R"
+"2706"	"Arizona"	"2000"	"R"
+"2707"	"Arkansas"	"2000"	"R"
+"2708"	"California"	"2000"	"D"
+"2709"	"Colorado"	"2000"	"R"
+"2710"	"Connecticut"	"2000"	"D"
+"2711"	"Delaware"	"2000"	"D"
+"2712"	"D.C."	"2000"	"D"
+"2713"	"Florida"	"2000"	"R"
+"2714"	"Georgia"	"2000"	"R"
+"2715"	"Hawaii"	"2000"	"D"
+"2716"	"Idaho"	"2000"	"R"
+"2717"	"Illinois"	"2000"	"D"
+"2718"	"Indiana"	"2000"	"R"
+"2719"	"Iowa"	"2000"	"D"
+"2720"	"Kansas"	"2000"	"R"
+"2721"	"Kentucky"	"2000"	"R"
+"2722"	"Louisiana"	"2000"	"R"
+"2723"	"Maine"	"2000"	"D"
+"2724"	"Maryland"	"2000"	"D"
+"2725"	"Massachusetts"	"2000"	"D"
+"2726"	"Michigan"	"2000"	"D"
+"2727"	"Minnesota"	"2000"	"D"
+"2728"	"Mississippi"	"2000"	"R"
+"2729"	"Missouri"	"2000"	"R"
+"2730"	"Montana"	"2000"	"R"
+"2731"	"Nebraska"	"2000"	"R"
+"2732"	"Nevada"	"2000"	"R"
+"2733"	"New Hampshire"	"2000"	"R"
+"2734"	"New Jersey"	"2000"	"D"
+"2735"	"New Mexico"	"2000"	"D"
+"2736"	"New York"	"2000"	"D"
+"2737"	"North Carolina"	"2000"	"R"
+"2738"	"North Dakota"	"2000"	"R"
+"2739"	"Ohio"	"2000"	"R"
+"2740"	"Oklahoma"	"2000"	"R"
+"2741"	"Oregon"	"2000"	"D"
+"2742"	"Pennsylvania"	"2000"	"D"
+"2743"	"Rhode Island"	"2000"	"D"
+"2744"	"South Carolina"	"2000"	"R"
+"2745"	"South Dakota"	"2000"	"R"
+"2746"	"Tennessee"	"2000"	"R"
+"2747"	"Texas"	"2000"	"R"
+"2748"	"Utah"	"2000"	"R"
+"2749"	"Vermont"	"2000"	"D"
+"2750"	"Virginia"	"2000"	"R"
+"2751"	"Washington"	"2000"	"D"
+"2752"	"West Virginia"	"2000"	"R"
+"2753"	"Wisconsin"	"2000"	"D"
+"2754"	"Wyoming"	"2000"	NA
+"2755"	"Alabama"	"2004"	"R"
+"2756"	"Alaska"	"2004"	"R"
+"2757"	"Arizona"	"2004"	"R"
+"2758"	"Arkansas"	"2004"	"R"
+"2759"	"California"	"2004"	"D"
+"2760"	"Colorado"	"2004"	"R"
+"2761"	"Connecticut"	"2004"	"D"
+"2762"	"Delaware"	"2004"	"D"
+"2763"	"D.C."	"2004"	"D"
+"2764"	"Florida"	"2004"	"R"
+"2765"	"Georgia"	"2004"	"R"
+"2766"	"Hawaii"	"2004"	"D"
+"2767"	"Idaho"	"2004"	"R"
+"2768"	"Illinois"	"2004"	"D"
+"2769"	"Indiana"	"2004"	"R"
+"2770"	"Iowa"	"2004"	"R"
+"2771"	"Kansas"	"2004"	"R"
+"2772"	"Kentucky"	"2004"	"R"
+"2773"	"Louisiana"	"2004"	"R"
+"2774"	"Maine"	"2004"	"D"
+"2775"	"Maryland"	"2004"	"D"
+"2776"	"Massachusetts"	"2004"	"D"
+"2777"	"Michigan"	"2004"	"D"
+"2778"	"Minnesota"	"2004"	"D"
+"2779"	"Mississippi"	"2004"	"R"
+"2780"	"Missouri"	"2004"	"R"
+"2781"	"Montana"	"2004"	"R"
+"2782"	"Nebraska"	"2004"	"R"
+"2783"	"Nevada"	"2004"	"R"
+"2784"	"New Hampshire"	"2004"	"D"
+"2785"	"New Jersey"	"2004"	"D"
+"2786"	"New Mexico"	"2004"	"R"
+"2787"	"New York"	"2004"	"D"
+"2788"	"North Carolina"	"2004"	"R"
+"2789"	"North Dakota"	"2004"	"R"
+"2790"	"Ohio"	"2004"	"R"
+"2791"	"Oklahoma"	"2004"	"R"
+"2792"	"Oregon"	"2004"	"D"
+"2793"	"Pennsylvania"	"2004"	"D"
+"2794"	"Rhode Island"	"2004"	"D"
+"2795"	"South Carolina"	"2004"	"R"
+"2796"	"South Dakota"	"2004"	"R"
+"2797"	"Tennessee"	"2004"	"R"
+"2798"	"Texas"	"2004"	"R"
+"2799"	"Utah"	"2004"	"R"
+"2800"	"Vermont"	"2004"	"D"
+"2801"	"Virginia"	"2004"	"R"
+"2802"	"Washington"	"2004"	"D"
+"2803"	"West Virginia"	"2004"	"R"
+"2804"	"Wisconsin"	"2004"	"D"
+"2805"	"Wyoming"	"2004"	NA
+"2806"	"Alabama"	"2008"	"R"
+"2807"	"Alaska"	"2008"	"R"
+"2808"	"Arizona"	"2008"	"R"
+"2809"	"Arkansas"	"2008"	"R"
+"2810"	"California"	"2008"	"D"
+"2811"	"Colorado"	"2008"	"D"
+"2812"	"Connecticut"	"2008"	"D"
+"2813"	"Delaware"	"2008"	"D"
+"2814"	"D.C."	"2008"	"D"
+"2815"	"Florida"	"2008"	"D"
+"2816"	"Georgia"	"2008"	"R"
+"2817"	"Hawaii"	"2008"	"D"
+"2818"	"Idaho"	"2008"	"R"
+"2819"	"Illinois"	"2008"	"D"
+"2820"	"Indiana"	"2008"	"D"
+"2821"	"Iowa"	"2008"	"D"
+"2822"	"Kansas"	"2008"	"R"
+"2823"	"Kentucky"	"2008"	"R"
+"2824"	"Louisiana"	"2008"	"R"
+"2825"	"Maine"	"2008"	"D"
+"2826"	"Maryland"	"2008"	"D"
+"2827"	"Massachusetts"	"2008"	"D"
+"2828"	"Michigan"	"2008"	"D"
+"2829"	"Minnesota"	"2008"	"D"
+"2830"	"Mississippi"	"2008"	"R"
+"2831"	"Missouri"	"2008"	"R"
+"2832"	"Montana"	"2008"	"R"
+"2833"	"Nebraska"	"2008"	"R"
+"2834"	"Nevada"	"2008"	"D"
+"2835"	"New Hampshire"	"2008"	"D"
+"2836"	"New Jersey"	"2008"	"D"
+"2837"	"New Mexico"	"2008"	"D"
+"2838"	"New York"	"2008"	"D"
+"2839"	"North Carolina"	"2008"	"D"
+"2840"	"North Dakota"	"2008"	"R"
+"2841"	"Ohio"	"2008"	"D"
+"2842"	"Oklahoma"	"2008"	"R"
+"2843"	"Oregon"	"2008"	"D"
+"2844"	"Pennsylvania"	"2008"	"D"
+"2845"	"Rhode Island"	"2008"	"D"
+"2846"	"South Carolina"	"2008"	"R"
+"2847"	"South Dakota"	"2008"	"R"
+"2848"	"Tennessee"	"2008"	"R"
+"2849"	"Texas"	"2008"	"R"
+"2850"	"Utah"	"2008"	"R"
+"2851"	"Vermont"	"2008"	"D"
+"2852"	"Virginia"	"2008"	"D"
+"2853"	"Washington"	"2008"	"D"
+"2854"	"West Virginia"	"2008"	"R"
+"2855"	"Wisconsin"	"2008"	"D"
+"2856"	"Wyoming"	"2008"	NA
+"2857"	"Alabama"	"2012"	"R"
+"2858"	"Alaska"	"2012"	"R"
+"2859"	"Arizona"	"2012"	"R"
+"2860"	"Arkansas"	"2012"	"R"
+"2861"	"California"	"2012"	"D"
+"2862"	"Colorado"	"2012"	"D"
+"2863"	"Connecticut"	"2012"	"D"
+"2864"	"Delaware"	"2012"	"D"
+"2865"	"D.C."	"2012"	"D"
+"2866"	"Florida"	"2012"	"D"
+"2867"	"Georgia"	"2012"	"R"
+"2868"	"Hawaii"	"2012"	"D"
+"2869"	"Idaho"	"2012"	"R"
+"2870"	"Illinois"	"2012"	"D"
+"2871"	"Indiana"	"2012"	"R"
+"2872"	"Iowa"	"2012"	"D"
+"2873"	"Kansas"	"2012"	"R"
+"2874"	"Kentucky"	"2012"	"R"
+"2875"	"Louisiana"	"2012"	"R"
+"2876"	"Maine"	"2012"	"D"
+"2877"	"Maryland"	"2012"	"D"
+"2878"	"Massachusetts"	"2012"	"D"
+"2879"	"Michigan"	"2012"	"D"
+"2880"	"Minnesota"	"2012"	"D"
+"2881"	"Mississippi"	"2012"	"R"
+"2882"	"Missouri"	"2012"	"R"
+"2883"	"Montana"	"2012"	"R"
+"2884"	"Nebraska"	"2012"	"R"
+"2885"	"Nevada"	"2012"	"D"
+"2886"	"New Hampshire"	"2012"	"D"
+"2887"	"New Jersey"	"2012"	"D"
+"2888"	"New Mexico"	"2012"	"D"
+"2889"	"New York"	"2012"	"D"
+"2890"	"North Carolina"	"2012"	"R"
+"2891"	"North Dakota"	"2012"	"R"
+"2892"	"Ohio"	"2012"	"D"
+"2893"	"Oklahoma"	"2012"	"R"
+"2894"	"Oregon"	"2012"	"D"
+"2895"	"Pennsylvania"	"2012"	"D"
+"2896"	"Rhode Island"	"2012"	"D"
+"2897"	"South Carolina"	"2012"	"R"
+"2898"	"South Dakota"	"2012"	"R"
+"2899"	"Tennessee"	"2012"	"R"
+"2900"	"Texas"	"2012"	"R"
+"2901"	"Utah"	"2012"	"R"
+"2902"	"Vermont"	"2012"	"D"
+"2903"	"Virginia"	"2012"	"D"
+"2904"	"Washington"	"2012"	"D"
+"2905"	"West Virginia"	"2012"	"R"
+"2906"	"Wisconsin"	"2012"	"D"
+"2907"	"Wyoming"	"2012"	NA
