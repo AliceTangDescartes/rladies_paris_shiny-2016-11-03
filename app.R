@@ -5,7 +5,7 @@ library(maps)
 library(mapproj)
 
 
-## READ IN DATA ####
+## READ IN DATA AND ORGANIZE ####
 data = read.table("data/data_us_presidential_elections.txt", header=T, sep="\t") %>%
   mutate(year = factor(year))
 
@@ -22,18 +22,33 @@ data_result = inner_join(data, data_electoral)
 
 ## MAKE UI INPUTS ####
 ui <- fluidPage(
+  # Add header information
+  tags$h1("Historical United States Presidential Election Results"),
+  tags$h4("Data from", tags$a(href = "https://en.wikipedia.org/wiki/List_of_United_States_presidential_election_results_by_state",
+         "Wikipedia: List of United States presidential election results by state"), "article."),
+  
+  fluidRow(
+    column(4, 
   # Add space for year selector
   selectInput(inputId = "year", label = "Election Year",
-              choices = c(levels(data$year))),
+              choices = c(levels(data$year)))
+    ),
   
+    column(8,
   # Add space for election summary sentence
   textOutput("result_sent"),
   
-  # Add space for election summary table
-  tableOutput("result_tab"),
+  # Add more space between results
+  tags$br(),
   
+  # Add space for election summary table
+  tableOutput("result_tab")
+  )),
+  
+  fluidRow(
   # Add space for map 
   plotOutput("map")
+    )
 )
 
 
@@ -65,11 +80,13 @@ server <- function(input, output) {
     paste("The winner of the election was the",
           filter(data_sum(), total_votes == max(total_votes))$party_winner,
           "party with", filter(data_sum(), total_votes == max(total_votes))$total_votes,
-          "votes.")
+          "electoral college votes.")
   })
   
   output$result_tab = renderTable({
-    data_sum()
+    data_sum() %>%
+      rename(Party = party_winner) %>%
+      rename("Electoral College Votes" = total_votes)
   })
 
 }
