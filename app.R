@@ -22,33 +22,39 @@ data_result = inner_join(data, data_electoral)
 
 ## MAKE UI INPUTS ####
 ui <- fluidPage(
-  # Add header information
+  # Add CSS template
+  theme = "bootswatch-cerulean.css",
+  
+  # Add webpage title
+  title = "R-Ladies Paris: Shiny Tutorial",
+  
+  # Add top descriptor inforamtion information
   tags$h1("Historical United States Presidential Election Results"),
   tags$h4("Data from", tags$a(href = "https://en.wikipedia.org/wiki/List_of_United_States_presidential_election_results_by_state",
          "Wikipedia: List of United States presidential election results by state"), "article."),
   
-  fluidRow(
-    column(4, 
-  # Add space for year selector
-  selectInput(inputId = "year", label = "Election Year",
-              choices = c(levels(data$year)))
+  # Set-up layout of main part of page
+  sidebarLayout(
+    # Add a sidebar panel
+    sidebarPanel(
+      
+      # Add space for election year input
+      selectInput(inputId = "year", label = "Election Year",
+                  choices = c(levels(data$year)))
     ),
-  
-    column(8,
-  # Add space for election summary sentence
-  textOutput("result_sent"),
-  
-  # Add more space between results
-  tags$br(),
-  
-  # Add space for election summary table
-  tableOutput("result_tab")
-  )),
-  
-  fluidRow(
-  # Add space for map 
-  plotOutput("map")
+    # Add main panel
+    mainPanel(
+      
+      # Add space for election summary table
+      tableOutput("result_tab"),
+      
+      # Add space for election summary sentence
+      textOutput("result_sent"),
+
+      # Add space for map 
+      plotOutput("map")
     )
+  )
 )
 
 
@@ -87,7 +93,9 @@ server <- function(input, output) {
     data_sum() %>%
       rename(Party = party_winner) %>%
       rename("Electoral College Votes" = total_votes)
-  })
+    },
+  include.rownames=FALSE
+  )
 
 }
 
