@@ -6,7 +6,7 @@ library(mapproj)
 
 
 ## READ IN DATA AND ORGANIZE ####
-data = read.table("data/data_us_presidential_elections.txt", header=T, sep="\t") %>%
+data_elections = read.table("data/data_us_presidential_elections.txt", header=T, sep="\t") %>%
   mutate(year = factor(year))
 
 data_electoral = read.table("data/data_electoral_votes.txt", header=T, sep="\t") %>%
@@ -15,9 +15,9 @@ data_electoral = read.table("data/data_electoral_votes.txt", header=T, sep="\t")
 states = map_data("state") %>%
   rename(state = region)
 
-data_plot = inner_join(data, states)
+data_plot = inner_join(data_elections, states)
 
-data_result = inner_join(data, data_electoral)
+data_result = inner_join(data_elections, data_electoral)
 
 
 ## MAKE UI INPUTS ####
