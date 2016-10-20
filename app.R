@@ -12,8 +12,16 @@ data_elections = read.table("data/data_us_presidential_elections.txt", header=T,
 data_electoral = read.table("data/data_electoral_votes.txt", header=T, sep="\t") %>%
   mutate(year = factor(year))
 
-states = map_data("state") %>%
-  rename(state = region)
+states_lower48 = map_data("state") %>%
+  rename(state = region) %>%
+  select(-subregion)
+  
+states_other2 = map_data("world", c("USA:Alaska", "USA:Hawaii")) %>%
+  rename(state = subregion) %>%
+  mutate(state = tolower(state)) %>%
+  select(-region)
+
+states = bind_rows(states_lower48, states_other2)
 
 data_plot = inner_join(data_elections, states)
 

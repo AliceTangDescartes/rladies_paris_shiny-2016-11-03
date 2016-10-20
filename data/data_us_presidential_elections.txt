@@ -7,7 +7,7 @@
 "6"	"colorado"	"1789"	NA
 "7"	"connecticut"	"1789"	"GW"
 "8"	"delaware"	"1789"	"GW"
-"9"	"d.c."	"1789"	NA
+"9"	"district of columbia"	"1789"	NA
 "10"	"florida"	"1789"	NA
 "11"	"georgia"	"1789"	"GW"
 "12"	"hawaii"	"1789"	NA
@@ -58,7 +58,7 @@
 "57"	"colorado"	"1792"	NA
 "58"	"connecticut"	"1792"	"GW"
 "59"	"delaware"	"1792"	"GW"
-"60"	"d.c."	"1792"	NA
+"60"	"district of columbia"	"1792"	NA
 "61"	"florida"	"1792"	NA
 "62"	"georgia"	"1792"	"GW"
 "63"	"hawaii"	"1792"	NA
@@ -109,7 +109,7 @@
 "108"	"colorado"	"1796"	NA
 "109"	"connecticut"	"1796"	"F"
 "110"	"delaware"	"1796"	"F"
-"111"	"d.c."	"1796"	NA
+"111"	"district of columbia"	"1796"	NA
 "112"	"florida"	"1796"	NA
 "113"	"georgia"	"1796"	"DR"
 "114"	"hawaii"	"1796"	NA
@@ -160,7 +160,7 @@
 "159"	"colorado"	"1800"	NA
 "160"	"connecticut"	"1800"	"F"
 "161"	"delaware"	"1800"	"F"
-"162"	"d.c."	"1800"	NA
+"162"	"district of columbia"	"1800"	NA
 "163"	"florida"	"1800"	NA
 "164"	"georgia"	"1800"	"DR"
 "165"	"hawaii"	"1800"	NA
@@ -211,7 +211,7 @@
 "210"	"colorado"	"1804"	NA
 "211"	"connecticut"	"1804"	"F"
 "212"	"delaware"	"1804"	"F"
-"213"	"d.c."	"1804"	NA
+"213"	"district of columbia"	"1804"	NA
 "214"	"florida"	"1804"	NA
 "215"	"georgia"	"1804"	"DR"
 "216"	"hawaii"	"1804"	NA
@@ -262,7 +262,7 @@
 "261"	"colorado"	"1808"	NA
 "262"	"connecticut"	"1808"	"F"
 "263"	"delaware"	"1808"	"F"
-"264"	"d.c."	"1808"	NA
+"264"	"district of columbia"	"1808"	NA
 "265"	"florida"	"1808"	NA
 "266"	"georgia"	"1808"	"DR"
 "267"	"hawaii"	"1808"	NA
@@ -313,7 +313,7 @@
 "312"	"colorado"	"1812"	NA
 "313"	"connecticut"	"1812"	"F"
 "314"	"delaware"	"1812"	"F"
-"315"	"d.c."	"1812"	NA
+"315"	"district of columbia"	"1812"	NA
 "316"	"florida"	"1812"	NA
 "317"	"georgia"	"1812"	"DR"
 "318"	"hawaii"	"1812"	NA
@@ -364,7 +364,7 @@
 "363"	"colorado"	"1816"	NA
 "364"	"connecticut"	"1816"	"F"
 "365"	"delaware"	"1816"	"F"
-"366"	"d.c."	"1816"	NA
+"366"	"district of columbia"	"1816"	NA
 "367"	"florida"	"1816"	NA
 "368"	"georgia"	"1816"	"DR"
 "369"	"hawaii"	"1816"	NA
@@ -415,7 +415,7 @@
 "414"	"colorado"	"1820"	NA
 "415"	"connecticut"	"1820"	"DR"
 "416"	"delaware"	"1820"	"DR"
-"417"	"d.c."	"1820"	NA
+"417"	"district of columbia"	"1820"	NA
 "418"	"florida"	"1820"	NA
 "419"	"georgia"	"1820"	"DR"
 "420"	"hawaii"	"1820"	NA
@@ -466,7 +466,7 @@
 "465"	"colorado"	"1824"	NA
 "466"	"connecticut"	"1824"	"Adams"
 "467"	"delaware"	"1824"	"Crawford"
-"468"	"d.c."	"1824"	NA
+"468"	"district of columbia"	"1824"	NA
 "469"	"florida"	"1824"	NA
 "470"	"georgia"	"1824"	"Crawford"
 "471"	"hawaii"	"1824"	NA
@@ -517,7 +517,7 @@
 "516"	"colorado"	"1828"	NA
 "517"	"connecticut"	"1828"	"NR"
 "518"	"delaware"	"1828"	"NR"
-"519"	"d.c."	"1828"	NA
+"519"	"district of columbia"	"1828"	NA
 "520"	"florida"	"1828"	NA
 "521"	"georgia"	"1828"	"D"
 "522"	"hawaii"	"1828"	NA
@@ -568,7 +568,7 @@
 "567"	"colorado"	"1832"	NA
 "568"	"connecticut"	"1832"	"NR"
 "569"	"delaware"	"1832"	"NR"
-"570"	"d.c."	"1832"	NA
+"570"	"district of columbia"	"1832"	NA
 "571"	"florida"	"1832"	NA
 "572"	"georgia"	"1832"	"D"
 "573"	"hawaii"	"1832"	NA
@@ -619,7 +619,7 @@
 "618"	"colorado"	"1836"	NA
 "619"	"connecticut"	"1836"	"D"
 "620"	"delaware"	"1836"	"W"
-"621"	"d.c."	"1836"	NA
+"621"	"district of columbia"	"1836"	NA
 "622"	"florida"	"1836"	NA
 "623"	"georgia"	"1836"	"W"
 "624"	"hawaii"	"1836"	NA
@@ -670,7 +670,7 @@
 "669"	"colorado"	"1840"	NA
 "670"	"connecticut"	"1840"	"W"
 "671"	"delaware"	"1840"	"W"
-"672"	"d.c."	"1840"	NA
+"672"	"district of columbia"	"1840"	NA
 "673"	"florida"	"1840"	NA
 "674"	"georgia"	"1840"	"W"
 "675"	"hawaii"	"1840"	NA
@@ -721,7 +721,7 @@
 "720"	"colorado"	"1844"	NA
 "721"	"connecticut"	"1844"	"W"
 "722"	"delaware"	"1844"	"W"
-"723"	"d.c."	"1844"	NA
+"723"	"district of columbia"	"1844"	NA
 "724"	"florida"	"1844"	NA
 "725"	"georgia"	"1844"	"D"
 "726"	"hawaii"	"1844"	NA
@@ -772,7 +772,7 @@
 "771"	"colorado"	"1848"	NA
 "772"	"connecticut"	"1848"	"W"
 "773"	"delaware"	"1848"	"W"
-"774"	"d.c."	"1848"	NA
+"774"	"district of columbia"	"1848"	NA
 "775"	"florida"	"1848"	"W"
 "776"	"georgia"	"1848"	"W"
 "777"	"hawaii"	"1848"	NA
@@ -823,7 +823,7 @@
 "822"	"colorado"	"1852"	NA
 "823"	"connecticut"	"1852"	"D"
 "824"	"delaware"	"1852"	"D"
-"825"	"d.c."	"1852"	NA
+"825"	"district of columbia"	"1852"	NA
 "826"	"florida"	"1852"	"D"
 "827"	"georgia"	"1852"	"D"
 "828"	"hawaii"	"1852"	NA
@@ -874,7 +874,7 @@
 "873"	"colorado"	"1856"	NA
 "874"	"connecticut"	"1856"	"R"
 "875"	"delaware"	"1856"	"D"
-"876"	"d.c."	"1856"	NA
+"876"	"district of columbia"	"1856"	NA
 "877"	"florida"	"1856"	"D"
 "878"	"georgia"	"1856"	"D"
 "879"	"hawaii"	"1856"	NA
@@ -925,7 +925,7 @@
 "924"	"colorado"	"1860"	NA
 "925"	"connecticut"	"1860"	"R"
 "926"	"delaware"	"1860"	"SD"
-"927"	"d.c."	"1860"	NA
+"927"	"district of columbia"	"1860"	NA
 "928"	"florida"	"1860"	"SD"
 "929"	"georgia"	"1860"	"SD"
 "930"	"hawaii"	"1860"	NA
@@ -976,7 +976,7 @@
 "975"	"colorado"	"1864"	NA
 "976"	"connecticut"	"1864"	"R"
 "977"	"delaware"	"1864"	"D"
-"978"	"d.c."	"1864"	NA
+"978"	"district of columbia"	"1864"	NA
 "979"	"florida"	"1864"	NA
 "980"	"georgia"	"1864"	NA
 "981"	"hawaii"	"1864"	NA
@@ -1027,7 +1027,7 @@
 "1026"	"colorado"	"1868"	NA
 "1027"	"connecticut"	"1868"	"R"
 "1028"	"delaware"	"1868"	"D"
-"1029"	"d.c."	"1868"	NA
+"1029"	"district of columbia"	"1868"	NA
 "1030"	"florida"	"1868"	"R"
 "1031"	"georgia"	"1868"	"D"
 "1032"	"hawaii"	"1868"	NA
@@ -1078,7 +1078,7 @@
 "1077"	"colorado"	"1872"	NA
 "1078"	"connecticut"	"1872"	"R"
 "1079"	"delaware"	"1872"	"R"
-"1080"	"d.c."	"1872"	NA
+"1080"	"district of columbia"	"1872"	NA
 "1081"	"florida"	"1872"	"R"
 "1082"	"georgia"	"1872"	"D"
 "1083"	"hawaii"	"1872"	NA
@@ -1129,7 +1129,7 @@
 "1128"	"colorado"	"1876"	"R"
 "1129"	"connecticut"	"1876"	"D"
 "1130"	"delaware"	"1876"	"D"
-"1131"	"d.c."	"1876"	NA
+"1131"	"district of columbia"	"1876"	NA
 "1132"	"florida"	"1876"	"R"
 "1133"	"georgia"	"1876"	"D"
 "1134"	"hawaii"	"1876"	NA
@@ -1180,7 +1180,7 @@
 "1179"	"colorado"	"1880"	"R"
 "1180"	"connecticut"	"1880"	"R"
 "1181"	"delaware"	"1880"	"D"
-"1182"	"d.c."	"1880"	NA
+"1182"	"district of columbia"	"1880"	NA
 "1183"	"florida"	"1880"	"D"
 "1184"	"georgia"	"1880"	"D"
 "1185"	"hawaii"	"1880"	NA
@@ -1231,7 +1231,7 @@
 "1230"	"colorado"	"1884"	"R"
 "1231"	"connecticut"	"1884"	"D"
 "1232"	"delaware"	"1884"	"D"
-"1233"	"d.c."	"1884"	NA
+"1233"	"district of columbia"	"1884"	NA
 "1234"	"florida"	"1884"	"D"
 "1235"	"georgia"	"1884"	"D"
 "1236"	"hawaii"	"1884"	NA
@@ -1282,7 +1282,7 @@
 "1281"	"colorado"	"1888"	"R"
 "1282"	"connecticut"	"1888"	"D"
 "1283"	"delaware"	"1888"	"D"
-"1284"	"d.c."	"1888"	NA
+"1284"	"district of columbia"	"1888"	NA
 "1285"	"florida"	"1888"	"D"
 "1286"	"georgia"	"1888"	"D"
 "1287"	"hawaii"	"1888"	NA
@@ -1333,7 +1333,7 @@
 "1332"	"colorado"	"1892"	"PO"
 "1333"	"connecticut"	"1892"	"D"
 "1334"	"delaware"	"1892"	"D"
-"1335"	"d.c."	"1892"	NA
+"1335"	"district of columbia"	"1892"	NA
 "1336"	"florida"	"1892"	"D"
 "1337"	"georgia"	"1892"	"D"
 "1338"	"hawaii"	"1892"	NA
@@ -1384,7 +1384,7 @@
 "1383"	"colorado"	"1896"	"D"
 "1384"	"connecticut"	"1896"	"R"
 "1385"	"delaware"	"1896"	"R"
-"1386"	"d.c."	"1896"	NA
+"1386"	"district of columbia"	"1896"	NA
 "1387"	"florida"	"1896"	"D"
 "1388"	"georgia"	"1896"	"D"
 "1389"	"hawaii"	"1896"	NA
@@ -1435,7 +1435,7 @@
 "1434"	"colorado"	"1900"	"D"
 "1435"	"connecticut"	"1900"	"R"
 "1436"	"delaware"	"1900"	"R"
-"1437"	"d.c."	"1900"	NA
+"1437"	"district of columbia"	"1900"	NA
 "1438"	"florida"	"1900"	"D"
 "1439"	"georgia"	"1900"	"D"
 "1440"	"hawaii"	"1900"	NA
@@ -1486,7 +1486,7 @@
 "1485"	"colorado"	"1904"	"R"
 "1486"	"connecticut"	"1904"	"R"
 "1487"	"delaware"	"1904"	"R"
-"1488"	"d.c."	"1904"	NA
+"1488"	"district of columbia"	"1904"	NA
 "1489"	"florida"	"1904"	"D"
 "1490"	"georgia"	"1904"	"D"
 "1491"	"hawaii"	"1904"	NA
@@ -1537,7 +1537,7 @@
 "1536"	"colorado"	"1908"	"D"
 "1537"	"connecticut"	"1908"	"R"
 "1538"	"delaware"	"1908"	"R"
-"1539"	"d.c."	"1908"	NA
+"1539"	"district of columbia"	"1908"	NA
 "1540"	"florida"	"1908"	"D"
 "1541"	"georgia"	"1908"	"D"
 "1542"	"hawaii"	"1908"	NA
@@ -1588,7 +1588,7 @@
 "1587"	"colorado"	"1912"	"D"
 "1588"	"connecticut"	"1912"	"D"
 "1589"	"delaware"	"1912"	"D"
-"1590"	"d.c."	"1912"	NA
+"1590"	"district of columbia"	"1912"	NA
 "1591"	"florida"	"1912"	"D"
 "1592"	"georgia"	"1912"	"D"
 "1593"	"hawaii"	"1912"	NA
@@ -1639,7 +1639,7 @@
 "1638"	"colorado"	"1916"	"D"
 "1639"	"connecticut"	"1916"	"R"
 "1640"	"delaware"	"1916"	"R"
-"1641"	"d.c."	"1916"	NA
+"1641"	"district of columbia"	"1916"	NA
 "1642"	"florida"	"1916"	"D"
 "1643"	"georgia"	"1916"	"D"
 "1644"	"hawaii"	"1916"	NA
@@ -1690,7 +1690,7 @@
 "1689"	"colorado"	"1920"	"R"
 "1690"	"connecticut"	"1920"	"R"
 "1691"	"delaware"	"1920"	"R"
-"1692"	"d.c."	"1920"	NA
+"1692"	"district of columbia"	"1920"	NA
 "1693"	"florida"	"1920"	"D"
 "1694"	"georgia"	"1920"	"D"
 "1695"	"hawaii"	"1920"	NA
@@ -1741,7 +1741,7 @@
 "1740"	"colorado"	"1924"	"R"
 "1741"	"connecticut"	"1924"	"R"
 "1742"	"delaware"	"1924"	"R"
-"1743"	"d.c."	"1924"	NA
+"1743"	"district of columbia"	"1924"	NA
 "1744"	"florida"	"1924"	"D"
 "1745"	"georgia"	"1924"	"D"
 "1746"	"hawaii"	"1924"	NA
@@ -1792,7 +1792,7 @@
 "1791"	"colorado"	"1928"	"R"
 "1792"	"connecticut"	"1928"	"R"
 "1793"	"delaware"	"1928"	"R"
-"1794"	"d.c."	"1928"	NA
+"1794"	"district of columbia"	"1928"	NA
 "1795"	"florida"	"1928"	"R"
 "1796"	"georgia"	"1928"	"D"
 "1797"	"hawaii"	"1928"	NA
@@ -1843,7 +1843,7 @@
 "1842"	"colorado"	"1932"	"D"
 "1843"	"connecticut"	"1932"	"R"
 "1844"	"delaware"	"1932"	"R"
-"1845"	"d.c."	"1932"	NA
+"1845"	"district of columbia"	"1932"	NA
 "1846"	"florida"	"1932"	"D"
 "1847"	"georgia"	"1932"	"D"
 "1848"	"hawaii"	"1932"	NA
@@ -1894,7 +1894,7 @@
 "1893"	"colorado"	"1936"	"D"
 "1894"	"connecticut"	"1936"	"D"
 "1895"	"delaware"	"1936"	"D"
-"1896"	"d.c."	"1936"	NA
+"1896"	"district of columbia"	"1936"	NA
 "1897"	"florida"	"1936"	"D"
 "1898"	"georgia"	"1936"	"D"
 "1899"	"hawaii"	"1936"	NA
@@ -1945,7 +1945,7 @@
 "1944"	"colorado"	"1940"	"R"
 "1945"	"connecticut"	"1940"	"D"
 "1946"	"delaware"	"1940"	"D"
-"1947"	"d.c."	"1940"	NA
+"1947"	"district of columbia"	"1940"	NA
 "1948"	"florida"	"1940"	"D"
 "1949"	"georgia"	"1940"	"D"
 "1950"	"hawaii"	"1940"	NA
@@ -1996,7 +1996,7 @@
 "1995"	"colorado"	"1944"	"R"
 "1996"	"connecticut"	"1944"	"D"
 "1997"	"delaware"	"1944"	"D"
-"1998"	"d.c."	"1944"	NA
+"1998"	"district of columbia"	"1944"	NA
 "1999"	"florida"	"1944"	"D"
 "2000"	"georgia"	"1944"	"D"
 "2001"	"hawaii"	"1944"	NA
@@ -2047,7 +2047,7 @@
 "2046"	"colorado"	"1948"	"D"
 "2047"	"connecticut"	"1948"	"R"
 "2048"	"delaware"	"1948"	"R"
-"2049"	"d.c."	"1948"	NA
+"2049"	"district of columbia"	"1948"	NA
 "2050"	"florida"	"1948"	"D"
 "2051"	"georgia"	"1948"	"D"
 "2052"	"hawaii"	"1948"	NA
@@ -2098,7 +2098,7 @@
 "2097"	"colorado"	"1952"	"R"
 "2098"	"connecticut"	"1952"	"R"
 "2099"	"delaware"	"1952"	"R"
-"2100"	"d.c."	"1952"	NA
+"2100"	"district of columbia"	"1952"	NA
 "2101"	"florida"	"1952"	"R"
 "2102"	"georgia"	"1952"	"D"
 "2103"	"hawaii"	"1952"	NA
@@ -2149,7 +2149,7 @@
 "2148"	"colorado"	"1956"	"R"
 "2149"	"connecticut"	"1956"	"R"
 "2150"	"delaware"	"1956"	"R"
-"2151"	"d.c."	"1956"	NA
+"2151"	"district of columbia"	"1956"	NA
 "2152"	"florida"	"1956"	"R"
 "2153"	"georgia"	"1956"	"D"
 "2154"	"hawaii"	"1956"	NA
@@ -2200,7 +2200,7 @@
 "2199"	"colorado"	"1960"	"R"
 "2200"	"connecticut"	"1960"	"D"
 "2201"	"delaware"	"1960"	"D"
-"2202"	"d.c."	"1960"	NA
+"2202"	"district of columbia"	"1960"	NA
 "2203"	"florida"	"1960"	"R"
 "2204"	"georgia"	"1960"	"D"
 "2205"	"hawaii"	"1960"	"D"
@@ -2251,7 +2251,7 @@
 "2250"	"colorado"	"1964"	"D"
 "2251"	"connecticut"	"1964"	"D"
 "2252"	"delaware"	"1964"	"D"
-"2253"	"d.c."	"1964"	"D"
+"2253"	"district of columbia"	"1964"	"D"
 "2254"	"florida"	"1964"	"D"
 "2255"	"georgia"	"1964"	"R"
 "2256"	"hawaii"	"1964"	"D"
@@ -2302,7 +2302,7 @@
 "2301"	"colorado"	"1968"	"R"
 "2302"	"connecticut"	"1968"	"D"
 "2303"	"delaware"	"1968"	"R"
-"2304"	"d.c."	"1968"	"D"
+"2304"	"district of columbia"	"1968"	"D"
 "2305"	"florida"	"1968"	"R"
 "2306"	"georgia"	"1968"	"AI"
 "2307"	"hawaii"	"1968"	"D"
@@ -2353,7 +2353,7 @@
 "2352"	"colorado"	"1972"	"R"
 "2353"	"connecticut"	"1972"	"R"
 "2354"	"delaware"	"1972"	"R"
-"2355"	"d.c."	"1972"	"D"
+"2355"	"district of columbia"	"1972"	"D"
 "2356"	"florida"	"1972"	"R"
 "2357"	"georgia"	"1972"	"R"
 "2358"	"hawaii"	"1972"	"R"
@@ -2404,7 +2404,7 @@
 "2403"	"colorado"	"1976"	"R"
 "2404"	"connecticut"	"1976"	"R"
 "2405"	"delaware"	"1976"	"D"
-"2406"	"d.c."	"1976"	"D"
+"2406"	"district of columbia"	"1976"	"D"
 "2407"	"florida"	"1976"	"D"
 "2408"	"georgia"	"1976"	"D"
 "2409"	"hawaii"	"1976"	"D"
@@ -2455,7 +2455,7 @@
 "2454"	"colorado"	"1980"	"R"
 "2455"	"connecticut"	"1980"	"R"
 "2456"	"delaware"	"1980"	"R"
-"2457"	"d.c."	"1980"	"D"
+"2457"	"district of columbia"	"1980"	"D"
 "2458"	"florida"	"1980"	"R"
 "2459"	"georgia"	"1980"	"D"
 "2460"	"hawaii"	"1980"	"D"
@@ -2506,7 +2506,7 @@
 "2505"	"colorado"	"1984"	"R"
 "2506"	"connecticut"	"1984"	"R"
 "2507"	"delaware"	"1984"	"R"
-"2508"	"d.c."	"1984"	"D"
+"2508"	"district of columbia"	"1984"	"D"
 "2509"	"florida"	"1984"	"R"
 "2510"	"georgia"	"1984"	"R"
 "2511"	"hawaii"	"1984"	"R"
@@ -2557,7 +2557,7 @@
 "2556"	"colorado"	"1988"	"R"
 "2557"	"connecticut"	"1988"	"R"
 "2558"	"delaware"	"1988"	"R"
-"2559"	"d.c."	"1988"	"D"
+"2559"	"district of columbia"	"1988"	"D"
 "2560"	"florida"	"1988"	"R"
 "2561"	"georgia"	"1988"	"R"
 "2562"	"hawaii"	"1988"	"D"
@@ -2608,7 +2608,7 @@
 "2607"	"colorado"	"1992"	"D"
 "2608"	"connecticut"	"1992"	"D"
 "2609"	"delaware"	"1992"	"D"
-"2610"	"d.c."	"1992"	"D"
+"2610"	"district of columbia"	"1992"	"D"
 "2611"	"florida"	"1992"	"R"
 "2612"	"georgia"	"1992"	"D"
 "2613"	"hawaii"	"1992"	"D"
@@ -2659,7 +2659,7 @@
 "2658"	"colorado"	"1996"	"R"
 "2659"	"connecticut"	"1996"	"D"
 "2660"	"delaware"	"1996"	"D"
-"2661"	"d.c."	"1996"	"D"
+"2661"	"district of columbia"	"1996"	"D"
 "2662"	"florida"	"1996"	"D"
 "2663"	"georgia"	"1996"	"R"
 "2664"	"hawaii"	"1996"	"D"
@@ -2710,7 +2710,7 @@
 "2709"	"colorado"	"2000"	"R"
 "2710"	"connecticut"	"2000"	"D"
 "2711"	"delaware"	"2000"	"D"
-"2712"	"d.c."	"2000"	"D"
+"2712"	"district of columbia"	"2000"	"D"
 "2713"	"florida"	"2000"	"R"
 "2714"	"georgia"	"2000"	"R"
 "2715"	"hawaii"	"2000"	"D"
@@ -2761,7 +2761,7 @@
 "2760"	"colorado"	"2004"	"R"
 "2761"	"connecticut"	"2004"	"D"
 "2762"	"delaware"	"2004"	"D"
-"2763"	"d.c."	"2004"	"D"
+"2763"	"district of columbia"	"2004"	"D"
 "2764"	"florida"	"2004"	"R"
 "2765"	"georgia"	"2004"	"R"
 "2766"	"hawaii"	"2004"	"D"
@@ -2812,7 +2812,7 @@
 "2811"	"colorado"	"2008"	"D"
 "2812"	"connecticut"	"2008"	"D"
 "2813"	"delaware"	"2008"	"D"
-"2814"	"d.c."	"2008"	"D"
+"2814"	"district of columbia"	"2008"	"D"
 "2815"	"florida"	"2008"	"D"
 "2816"	"georgia"	"2008"	"R"
 "2817"	"hawaii"	"2008"	"D"
@@ -2863,7 +2863,7 @@
 "2862"	"colorado"	"2012"	"D"
 "2863"	"connecticut"	"2012"	"D"
 "2864"	"delaware"	"2012"	"D"
-"2865"	"d.c."	"2012"	"D"
+"2865"	"district of columbia"	"2012"	"D"
 "2866"	"florida"	"2012"	"D"
 "2867"	"georgia"	"2012"	"R"
 "2868"	"hawaii"	"2012"	"D"

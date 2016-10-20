@@ -6,7 +6,7 @@
 "5"	"california"	"1789"	NA
 "6"	"colorado"	"1789"	NA
 "7"	"connecticut"	"1789"	7
-"8"	"d.c."	"1789"	NA
+"8"	"district of columbia"	"1789"	NA
 "9"	"delaware"	"1789"	3
 "10"	"florida"	"1789"	NA
 "11"	"georgia"	"1789"	5
@@ -57,7 +57,7 @@
 "56"	"california"	"1792"	NA
 "57"	"colorado"	"1792"	NA
 "58"	"connecticut"	"1792"	9
-"59"	"d.c."	"1792"	NA
+"59"	"district of columbia"	"1792"	NA
 "60"	"delaware"	"1792"	3
 "61"	"florida"	"1792"	NA
 "62"	"georgia"	"1792"	4
@@ -108,7 +108,7 @@
 "107"	"california"	"1796"	NA
 "108"	"colorado"	"1796"	NA
 "109"	"connecticut"	"1796"	9
-"110"	"d.c."	"1796"	NA
+"110"	"district of columbia"	"1796"	NA
 "111"	"delaware"	"1796"	3
 "112"	"florida"	"1796"	NA
 "113"	"georgia"	"1796"	4
@@ -159,7 +159,7 @@
 "158"	"california"	"1800"	NA
 "159"	"colorado"	"1800"	NA
 "160"	"connecticut"	"1800"	9
-"161"	"d.c."	"1800"	NA
+"161"	"district of columbia"	"1800"	NA
 "162"	"delaware"	"1800"	3
 "163"	"florida"	"1800"	NA
 "164"	"georgia"	"1800"	4
@@ -210,7 +210,7 @@
 "209"	"california"	"1804"	NA
 "210"	"colorado"	"1804"	NA
 "211"	"connecticut"	"1804"	9
-"212"	"d.c."	"1804"	NA
+"212"	"district of columbia"	"1804"	NA
 "213"	"delaware"	"1804"	3
 "214"	"florida"	"1804"	NA
 "215"	"georgia"	"1804"	6
@@ -261,7 +261,7 @@
 "260"	"california"	"1808"	NA
 "261"	"colorado"	"1808"	NA
 "262"	"connecticut"	"1808"	9
-"263"	"d.c."	"1808"	NA
+"263"	"district of columbia"	"1808"	NA
 "264"	"delaware"	"1808"	3
 "265"	"florida"	"1808"	NA
 "266"	"georgia"	"1808"	6
@@ -312,7 +312,7 @@
 "311"	"california"	"1812"	NA
 "312"	"colorado"	"1812"	NA
 "313"	"connecticut"	"1812"	9
-"314"	"d.c."	"1812"	NA
+"314"	"district of columbia"	"1812"	NA
 "315"	"delaware"	"1812"	4
 "316"	"florida"	"1812"	NA
 "317"	"georgia"	"1812"	8
@@ -363,7 +363,7 @@
 "362"	"california"	"1816"	NA
 "363"	"colorado"	"1816"	NA
 "364"	"connecticut"	"1816"	9
-"365"	"d.c."	"1816"	NA
+"365"	"district of columbia"	"1816"	NA
 "366"	"delaware"	"1816"	4
 "367"	"florida"	"1816"	NA
 "368"	"georgia"	"1816"	8
@@ -414,7 +414,7 @@
 "413"	"california"	"1820"	NA
 "414"	"colorado"	"1820"	NA
 "415"	"connecticut"	"1820"	9
-"416"	"d.c."	"1820"	NA
+"416"	"district of columbia"	"1820"	NA
 "417"	"delaware"	"1820"	4
 "418"	"florida"	"1820"	NA
 "419"	"georgia"	"1820"	8
@@ -465,7 +465,7 @@
 "464"	"california"	"1824"	NA
 "465"	"colorado"	"1824"	NA
 "466"	"connecticut"	"1824"	8
-"467"	"d.c."	"1824"	NA
+"467"	"district of columbia"	"1824"	NA
 "468"	"delaware"	"1824"	3
 "469"	"florida"	"1824"	NA
 "470"	"georgia"	"1824"	9
@@ -516,7 +516,7 @@
 "515"	"california"	"1828"	NA
 "516"	"colorado"	"1828"	NA
 "517"	"connecticut"	"1828"	8
-"518"	"d.c."	"1828"	NA
+"518"	"district of columbia"	"1828"	NA
 "519"	"delaware"	"1828"	3
 "520"	"florida"	"1828"	NA
 "521"	"georgia"	"1828"	9
@@ -567,7 +567,7 @@
 "566"	"california"	"1832"	NA
 "567"	"colorado"	"1832"	NA
 "568"	"connecticut"	"1832"	8
-"569"	"d.c."	"1832"	NA
+"569"	"district of columbia"	"1832"	NA
 "570"	"delaware"	"1832"	3
 "571"	"florida"	"1832"	NA
 "572"	"georgia"	"1832"	11
@@ -618,7 +618,7 @@
 "617"	"california"	"1836"	NA
 "618"	"colorado"	"1836"	NA
 "619"	"connecticut"	"1836"	8
-"620"	"d.c."	"1836"	NA
+"620"	"district of columbia"	"1836"	NA
 "621"	"delaware"	"1836"	3
 "622"	"florida"	"1836"	NA
 "623"	"georgia"	"1836"	11
@@ -669,7 +669,7 @@
 "668"	"california"	"1840"	NA
 "669"	"colorado"	"1840"	NA
 "670"	"connecticut"	"1840"	8
-"671"	"d.c."	"1840"	NA
+"671"	"district of columbia"	"1840"	NA
 "672"	"delaware"	"1840"	3
 "673"	"florida"	"1840"	NA
 "674"	"georgia"	"1840"	11
@@ -720,7 +720,7 @@
 "719"	"california"	"1844"	NA
 "720"	"colorado"	"1844"	NA
 "721"	"connecticut"	"1844"	6
-"722"	"d.c."	"1844"	NA
+"722"	"district of columbia"	"1844"	NA
 "723"	"delaware"	"1844"	3
 "724"	"florida"	"1844"	NA
 "725"	"georgia"	"1844"	10
@@ -771,7 +771,7 @@
 "770"	"california"	"1848"	NA
 "771"	"colorado"	"1848"	NA
 "772"	"connecticut"	"1848"	6
-"773"	"d.c."	"1848"	NA
+"773"	"district of columbia"	"1848"	NA
 "774"	"delaware"	"1848"	3
 "775"	"florida"	"1848"	3
 "776"	"georgia"	"1848"	10
@@ -822,7 +822,7 @@
 "821"	"california"	"1852"	4
 "822"	"colorado"	"1852"	NA
 "823"	"connecticut"	"1852"	6
-"824"	"d.c."	"1852"	NA
+"824"	"district of columbia"	"1852"	NA
 "825"	"delaware"	"1852"	3
 "826"	"florida"	"1852"	3
 "827"	"georgia"	"1852"	10
@@ -873,7 +873,7 @@
 "872"	"california"	"1856"	4
 "873"	"colorado"	"1856"	NA
 "874"	"connecticut"	"1856"	6
-"875"	"d.c."	"1856"	NA
+"875"	"district of columbia"	"1856"	NA
 "876"	"delaware"	"1856"	3
 "877"	"florida"	"1856"	3
 "878"	"georgia"	"1856"	10
@@ -924,7 +924,7 @@
 "923"	"california"	"1860"	4
 "924"	"colorado"	"1860"	NA
 "925"	"connecticut"	"1860"	6
-"926"	"d.c."	"1860"	NA
+"926"	"district of columbia"	"1860"	NA
 "927"	"delaware"	"1860"	3
 "928"	"florida"	"1860"	3
 "929"	"georgia"	"1860"	10
@@ -975,7 +975,7 @@
 "974"	"california"	"1864"	5
 "975"	"colorado"	"1864"	NA
 "976"	"connecticut"	"1864"	6
-"977"	"d.c."	"1864"	NA
+"977"	"district of columbia"	"1864"	NA
 "978"	"delaware"	"1864"	3
 "979"	"florida"	"1864"	0
 "980"	"georgia"	"1864"	0
@@ -1026,7 +1026,7 @@
 "1025"	"california"	"1868"	5
 "1026"	"colorado"	"1868"	NA
 "1027"	"connecticut"	"1868"	6
-"1028"	"d.c."	"1868"	NA
+"1028"	"district of columbia"	"1868"	NA
 "1029"	"delaware"	"1868"	3
 "1030"	"florida"	"1868"	3
 "1031"	"georgia"	"1868"	9
@@ -1077,7 +1077,7 @@
 "1076"	"california"	"1872"	6
 "1077"	"colorado"	"1872"	NA
 "1078"	"connecticut"	"1872"	6
-"1079"	"d.c."	"1872"	NA
+"1079"	"district of columbia"	"1872"	NA
 "1080"	"delaware"	"1872"	3
 "1081"	"florida"	"1872"	4
 "1082"	"georgia"	"1872"	11
@@ -1128,7 +1128,7 @@
 "1127"	"california"	"1876"	6
 "1128"	"colorado"	"1876"	3
 "1129"	"connecticut"	"1876"	6
-"1130"	"d.c."	"1876"	NA
+"1130"	"district of columbia"	"1876"	NA
 "1131"	"delaware"	"1876"	3
 "1132"	"florida"	"1876"	4
 "1133"	"georgia"	"1876"	11
@@ -1179,7 +1179,7 @@
 "1178"	"california"	"1880"	6
 "1179"	"colorado"	"1880"	3
 "1180"	"connecticut"	"1880"	6
-"1181"	"d.c."	"1880"	NA
+"1181"	"district of columbia"	"1880"	NA
 "1182"	"delaware"	"1880"	3
 "1183"	"florida"	"1880"	4
 "1184"	"georgia"	"1880"	11
@@ -1230,7 +1230,7 @@
 "1229"	"california"	"1884"	8
 "1230"	"colorado"	"1884"	3
 "1231"	"connecticut"	"1884"	6
-"1232"	"d.c."	"1884"	NA
+"1232"	"district of columbia"	"1884"	NA
 "1233"	"delaware"	"1884"	3
 "1234"	"florida"	"1884"	4
 "1235"	"georgia"	"1884"	12
@@ -1281,7 +1281,7 @@
 "1280"	"california"	"1888"	8
 "1281"	"colorado"	"1888"	3
 "1282"	"connecticut"	"1888"	6
-"1283"	"d.c."	"1888"	NA
+"1283"	"district of columbia"	"1888"	NA
 "1284"	"delaware"	"1888"	3
 "1285"	"florida"	"1888"	4
 "1286"	"georgia"	"1888"	12
@@ -1332,7 +1332,7 @@
 "1331"	"california"	"1892"	9
 "1332"	"colorado"	"1892"	4
 "1333"	"connecticut"	"1892"	6
-"1334"	"d.c."	"1892"	NA
+"1334"	"district of columbia"	"1892"	NA
 "1335"	"delaware"	"1892"	3
 "1336"	"florida"	"1892"	4
 "1337"	"georgia"	"1892"	13
@@ -1383,7 +1383,7 @@
 "1382"	"california"	"1896"	9
 "1383"	"colorado"	"1896"	4
 "1384"	"connecticut"	"1896"	6
-"1385"	"d.c."	"1896"	NA
+"1385"	"district of columbia"	"1896"	NA
 "1386"	"delaware"	"1896"	3
 "1387"	"florida"	"1896"	4
 "1388"	"georgia"	"1896"	13
@@ -1434,7 +1434,7 @@
 "1433"	"california"	"1900"	9
 "1434"	"colorado"	"1900"	4
 "1435"	"connecticut"	"1900"	6
-"1436"	"d.c."	"1900"	NA
+"1436"	"district of columbia"	"1900"	NA
 "1437"	"delaware"	"1900"	3
 "1438"	"florida"	"1900"	4
 "1439"	"georgia"	"1900"	13
@@ -1485,7 +1485,7 @@
 "1484"	"california"	"1904"	10
 "1485"	"colorado"	"1904"	5
 "1486"	"connecticut"	"1904"	7
-"1487"	"d.c."	"1904"	NA
+"1487"	"district of columbia"	"1904"	NA
 "1488"	"delaware"	"1904"	3
 "1489"	"florida"	"1904"	5
 "1490"	"georgia"	"1904"	13
@@ -1536,7 +1536,7 @@
 "1535"	"california"	"1908"	10
 "1536"	"colorado"	"1908"	5
 "1537"	"connecticut"	"1908"	7
-"1538"	"d.c."	"1908"	NA
+"1538"	"district of columbia"	"1908"	NA
 "1539"	"delaware"	"1908"	3
 "1540"	"florida"	"1908"	5
 "1541"	"georgia"	"1908"	13
@@ -1587,7 +1587,7 @@
 "1586"	"california"	"1912"	13
 "1587"	"colorado"	"1912"	6
 "1588"	"connecticut"	"1912"	7
-"1589"	"d.c."	"1912"	NA
+"1589"	"district of columbia"	"1912"	NA
 "1590"	"delaware"	"1912"	3
 "1591"	"florida"	"1912"	6
 "1592"	"georgia"	"1912"	14
@@ -1638,7 +1638,7 @@
 "1637"	"california"	"1916"	13
 "1638"	"colorado"	"1916"	6
 "1639"	"connecticut"	"1916"	7
-"1640"	"d.c."	"1916"	NA
+"1640"	"district of columbia"	"1916"	NA
 "1641"	"delaware"	"1916"	3
 "1642"	"florida"	"1916"	6
 "1643"	"georgia"	"1916"	14
@@ -1689,7 +1689,7 @@
 "1688"	"california"	"1920"	13
 "1689"	"colorado"	"1920"	6
 "1690"	"connecticut"	"1920"	7
-"1691"	"d.c."	"1920"	NA
+"1691"	"district of columbia"	"1920"	NA
 "1692"	"delaware"	"1920"	3
 "1693"	"florida"	"1920"	6
 "1694"	"georgia"	"1920"	14
@@ -1740,7 +1740,7 @@
 "1739"	"california"	"1924"	13
 "1740"	"colorado"	"1924"	6
 "1741"	"connecticut"	"1924"	7
-"1742"	"d.c."	"1924"	NA
+"1742"	"district of columbia"	"1924"	NA
 "1743"	"delaware"	"1924"	3
 "1744"	"florida"	"1924"	6
 "1745"	"georgia"	"1924"	14
@@ -1791,7 +1791,7 @@
 "1790"	"california"	"1928"	13
 "1791"	"colorado"	"1928"	6
 "1792"	"connecticut"	"1928"	7
-"1793"	"d.c."	"1928"	NA
+"1793"	"district of columbia"	"1928"	NA
 "1794"	"delaware"	"1928"	3
 "1795"	"florida"	"1928"	6
 "1796"	"georgia"	"1928"	14
@@ -1842,7 +1842,7 @@
 "1841"	"california"	"1932"	22
 "1842"	"colorado"	"1932"	6
 "1843"	"connecticut"	"1932"	8
-"1844"	"d.c."	"1932"	NA
+"1844"	"district of columbia"	"1932"	NA
 "1845"	"delaware"	"1932"	3
 "1846"	"florida"	"1932"	7
 "1847"	"georgia"	"1932"	12
@@ -1893,7 +1893,7 @@
 "1892"	"california"	"1936"	22
 "1893"	"colorado"	"1936"	6
 "1894"	"connecticut"	"1936"	8
-"1895"	"d.c."	"1936"	NA
+"1895"	"district of columbia"	"1936"	NA
 "1896"	"delaware"	"1936"	3
 "1897"	"florida"	"1936"	7
 "1898"	"georgia"	"1936"	12
@@ -1944,7 +1944,7 @@
 "1943"	"california"	"1940"	22
 "1944"	"colorado"	"1940"	6
 "1945"	"connecticut"	"1940"	8
-"1946"	"d.c."	"1940"	NA
+"1946"	"district of columbia"	"1940"	NA
 "1947"	"delaware"	"1940"	3
 "1948"	"florida"	"1940"	7
 "1949"	"georgia"	"1940"	12
@@ -1995,7 +1995,7 @@
 "1994"	"california"	"1944"	25
 "1995"	"colorado"	"1944"	6
 "1996"	"connecticut"	"1944"	8
-"1997"	"d.c."	"1944"	NA
+"1997"	"district of columbia"	"1944"	NA
 "1998"	"delaware"	"1944"	3
 "1999"	"florida"	"1944"	8
 "2000"	"georgia"	"1944"	12
@@ -2046,7 +2046,7 @@
 "2045"	"california"	"1948"	25
 "2046"	"colorado"	"1948"	6
 "2047"	"connecticut"	"1948"	8
-"2048"	"d.c."	"1948"	NA
+"2048"	"district of columbia"	"1948"	NA
 "2049"	"delaware"	"1948"	3
 "2050"	"florida"	"1948"	8
 "2051"	"georgia"	"1948"	12
@@ -2097,7 +2097,7 @@
 "2096"	"california"	"1952"	32
 "2097"	"colorado"	"1952"	6
 "2098"	"connecticut"	"1952"	8
-"2099"	"d.c."	"1952"	NA
+"2099"	"district of columbia"	"1952"	NA
 "2100"	"delaware"	"1952"	3
 "2101"	"florida"	"1952"	10
 "2102"	"georgia"	"1952"	12
@@ -2148,7 +2148,7 @@
 "2147"	"california"	"1956"	32
 "2148"	"colorado"	"1956"	6
 "2149"	"connecticut"	"1956"	8
-"2150"	"d.c."	"1956"	NA
+"2150"	"district of columbia"	"1956"	NA
 "2151"	"delaware"	"1956"	3
 "2152"	"florida"	"1956"	10
 "2153"	"georgia"	"1956"	12
@@ -2199,7 +2199,7 @@
 "2198"	"california"	"1960"	32
 "2199"	"colorado"	"1960"	6
 "2200"	"connecticut"	"1960"	8
-"2201"	"d.c."	"1960"	NA
+"2201"	"district of columbia"	"1960"	NA
 "2202"	"delaware"	"1960"	3
 "2203"	"florida"	"1960"	10
 "2204"	"georgia"	"1960"	12
@@ -2250,7 +2250,7 @@
 "2249"	"california"	"1964"	40
 "2250"	"colorado"	"1964"	6
 "2251"	"connecticut"	"1964"	8
-"2252"	"d.c."	"1964"	3
+"2252"	"district of columbia"	"1964"	3
 "2253"	"delaware"	"1964"	3
 "2254"	"florida"	"1964"	14
 "2255"	"georgia"	"1964"	12
@@ -2301,7 +2301,7 @@
 "2300"	"california"	"1968"	40
 "2301"	"colorado"	"1968"	6
 "2302"	"connecticut"	"1968"	8
-"2303"	"d.c."	"1968"	3
+"2303"	"district of columbia"	"1968"	3
 "2304"	"delaware"	"1968"	3
 "2305"	"florida"	"1968"	14
 "2306"	"georgia"	"1968"	12
@@ -2352,7 +2352,7 @@
 "2351"	"california"	"1972"	45
 "2352"	"colorado"	"1972"	7
 "2353"	"connecticut"	"1972"	8
-"2354"	"d.c."	"1972"	3
+"2354"	"district of columbia"	"1972"	3
 "2355"	"delaware"	"1972"	3
 "2356"	"florida"	"1972"	17
 "2357"	"georgia"	"1972"	12
@@ -2403,7 +2403,7 @@
 "2402"	"california"	"1976"	45
 "2403"	"colorado"	"1976"	7
 "2404"	"connecticut"	"1976"	8
-"2405"	"d.c."	"1976"	3
+"2405"	"district of columbia"	"1976"	3
 "2406"	"delaware"	"1976"	3
 "2407"	"florida"	"1976"	17
 "2408"	"georgia"	"1976"	12
@@ -2454,7 +2454,7 @@
 "2453"	"california"	"1980"	45
 "2454"	"colorado"	"1980"	7
 "2455"	"connecticut"	"1980"	8
-"2456"	"d.c."	"1980"	3
+"2456"	"district of columbia"	"1980"	3
 "2457"	"delaware"	"1980"	3
 "2458"	"florida"	"1980"	17
 "2459"	"georgia"	"1980"	12
@@ -2505,7 +2505,7 @@
 "2504"	"california"	"1984"	47
 "2505"	"colorado"	"1984"	8
 "2506"	"connecticut"	"1984"	8
-"2507"	"d.c."	"1984"	3
+"2507"	"district of columbia"	"1984"	3
 "2508"	"delaware"	"1984"	3
 "2509"	"florida"	"1984"	21
 "2510"	"georgia"	"1984"	12
@@ -2556,7 +2556,7 @@
 "2555"	"california"	"1988"	47
 "2556"	"colorado"	"1988"	8
 "2557"	"connecticut"	"1988"	8
-"2558"	"d.c."	"1988"	3
+"2558"	"district of columbia"	"1988"	3
 "2559"	"delaware"	"1988"	3
 "2560"	"florida"	"1988"	21
 "2561"	"georgia"	"1988"	12
@@ -2607,7 +2607,7 @@
 "2606"	"california"	"1992"	54
 "2607"	"colorado"	"1992"	8
 "2608"	"connecticut"	"1992"	8
-"2609"	"d.c."	"1992"	3
+"2609"	"district of columbia"	"1992"	3
 "2610"	"delaware"	"1992"	3
 "2611"	"florida"	"1992"	25
 "2612"	"georgia"	"1992"	13
@@ -2658,7 +2658,7 @@
 "2657"	"california"	"1996"	54
 "2658"	"colorado"	"1996"	8
 "2659"	"connecticut"	"1996"	8
-"2660"	"d.c."	"1996"	3
+"2660"	"district of columbia"	"1996"	3
 "2661"	"delaware"	"1996"	3
 "2662"	"florida"	"1996"	25
 "2663"	"georgia"	"1996"	13
@@ -2709,7 +2709,7 @@
 "2708"	"california"	"2000"	54
 "2709"	"colorado"	"2000"	8
 "2710"	"connecticut"	"2000"	8
-"2711"	"d.c."	"2000"	3
+"2711"	"district of columbia"	"2000"	3
 "2712"	"delaware"	"2000"	3
 "2713"	"florida"	"2000"	25
 "2714"	"georgia"	"2000"	13
@@ -2760,7 +2760,7 @@
 "2759"	"california"	"2004"	55
 "2760"	"colorado"	"2004"	9
 "2761"	"connecticut"	"2004"	7
-"2762"	"d.c."	"2004"	3
+"2762"	"district of columbia"	"2004"	3
 "2763"	"delaware"	"2004"	3
 "2764"	"florida"	"2004"	27
 "2765"	"georgia"	"2004"	15
@@ -2811,7 +2811,7 @@
 "2810"	"california"	"2008"	55
 "2811"	"colorado"	"2008"	9
 "2812"	"connecticut"	"2008"	7
-"2813"	"d.c."	"2008"	3
+"2813"	"district of columbia"	"2008"	3
 "2814"	"delaware"	"2008"	3
 "2815"	"florida"	"2008"	27
 "2816"	"georgia"	"2008"	15
@@ -2862,7 +2862,7 @@
 "2861"	"california"	"2012"	55
 "2862"	"colorado"	"2012"	9
 "2863"	"connecticut"	"2012"	7
-"2864"	"d.c."	"2012"	3
+"2864"	"district of columbia"	"2012"	3
 "2865"	"delaware"	"2012"	3
 "2866"	"florida"	"2012"	29
 "2867"	"georgia"	"2012"	16
