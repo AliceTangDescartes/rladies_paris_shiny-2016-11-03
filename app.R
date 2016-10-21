@@ -1,12 +1,9 @@
 ## LOAD PACKAGES ####
 library(shiny)
 library(tidyverse)
-#library(maps)
-#library(mapproj)
 library(maptools)
-library(albersusa)
-#library(sp)
-#library(rgeos)
+library(mapproj)
+library(albersusa) # devtools::install_github("hrbrmstr/albersusa")
 
 
 ## READ IN DATA AND ORGANIZE ####
