@@ -1,8 +1,12 @@
 ## LOAD PACKAGES ####
 library(shiny)
 library(tidyverse)
-library(maps)
-library(mapproj)
+#library(maps)
+#library(mapproj)
+library(maptools)
+library(albersusa)
+#library(sp)
+#library(rgeos)
 
 
 ## READ IN DATA AND ORGANIZE ####
@@ -12,18 +16,12 @@ data_elections = read.table("data/data_us_presidential_elections.txt", header=T,
 data_electoral = read.table("data/data_electoral_votes.txt", header=T, sep="\t") %>%
   mutate(year = factor(year))
 
-states_lower48 = map_data("state") %>%
-  rename(state = region) %>%
-  select(-subregion)
-  
-states_other2 = map_data("world", c("USA:Alaska", "USA:Hawaii")) %>%
-  rename(state = subregion) %>%
-  mutate(state = tolower(state)) %>%
-  select(-region)
+states = usa_composite()
+states_map = fortify(states, region="name") %>%
+  rename(state = id) %>%
+  mutate(state = tolower(state))
 
-states = bind_rows(states_lower48, states_other2)
-
-data_plot = inner_join(data_elections, states)
+data_plot = inner_join(data_elections, states_map)
 
 data_result = inner_join(data_elections, data_electoral)
 
@@ -48,7 +46,7 @@ ui <- fluidPage(
       
       # Add space for election year input
       selectInput(inputId = "year", label = "Election Year",
-                  choices = c(levels(data$year)))
+                  choices = c(levels(data_result$year)))
     ),
     # Add main panel
     mainPanel(
