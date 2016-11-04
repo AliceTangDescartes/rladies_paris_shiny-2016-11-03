@@ -1,24 +1,31 @@
 ## LOAD PACKAGES ####
 library(shiny)
 library(tidyverse)
-library(maptools)
+library(maps)
 library(mapproj)
-library(albersusa) # devtools::install_github("hrbrmstr/albersusa")
+library(albersusa)
+library(maptools)
 
 
 ## READ IN DATA AND ORGANIZE ####
-data_elections = read.table("data/data_us_presidential_elections.txt", header=T, sep="\t") %>%
-  mutate(year = factor(year))
+# Data for analysis
+data_elections = read.table("data/data_us_presidential_elections.txt", header=T, sep="\t")
 
-data_electoral = read.table("data/data_electoral_votes.txt", header=T, sep="\t") %>%
-  mutate(year = factor(year))
+data_electoral = read.table("data/data_electoral_votes.txt", header=T, sep="\t")
 
-states = usa_composite()
-states_map = fortify(states, region="name") %>%
+# Get map - continental 48 states version
+# states = map_data("state") %>%
+#   rename(state = region)
+
+# Get map - all 50 states version
+states_map = usa_composite()
+
+states = fortify(states_map, region="name") %>%
   rename(state = id) %>%
   mutate(state = tolower(state))
 
-data_plot = inner_join(data_elections, states_map)
+# Organize final data for plot, combine specific data frames
+data_plot = inner_join(data_elections, states)
 
 data_result = inner_join(data_elections, data_electoral)
 
@@ -38,13 +45,15 @@ ui <- fluidPage(
   
   # Set-up layout of main part of page
   sidebarLayout(
+    
     # Add a sidebar panel
     sidebarPanel(
       
       # Add space for election year input
       selectInput(inputId = "year", label = "Election Year",
-                  choices = c(levels(data_result$year)))
+                  choices = c(levels(factor(data_result$year))))
     ),
+    
     # Add main panel
     mainPanel(
       
@@ -55,7 +64,8 @@ ui <- fluidPage(
       textOutput("result_sent"),
 
       # Add space for map 
-      plotOutput("map")
+      plotOutput("result_map")
+      
     )
   )
 )
@@ -64,18 +74,18 @@ ui <- fluidPage(
 ## MAKE SERVER OUTPUTS
 server <- function(input, output) {
   
-  output$map = renderPlot({
-    data_plot %>%
-      filter(year == input$year) %>%
-      ggplot() +
-      geom_polygon(aes(x=long, y=lat, group = group, fill = party_winner),
-                    colour="white") +
-      scale_fill_manual(values = c("blue", "red", "yellow", "green", "purple")) +
+  # Make map
+  output$result_map = renderPlot({
+    ggplot(subset(data_plot, year == input$year),
+           aes(x = long, y = lat, group = group, fill = party_winner)) +
+      geom_polygon(color = "white") +
+      scale_fill_manual(values = c("blue", "red", "yellow", "green")) +
       coord_map(projection = "polyconic") +
       theme_void() +
-      theme(legend.position = "top", text = element_text(size = 40))
+      theme(legend.position = "top", text = element_text(size = 40))  
   })
   
+  # Save summary information as a reactive variable 
   data_sum = reactive({
     data_result %>%
       filter(year == input$year) %>%
@@ -85,20 +95,23 @@ server <- function(input, output) {
       filter(!is.na(party_winner))
   })
   
+  # Make table
+  output$result_tab = renderTable({
+    data_sum() %>%
+      # Clean up column header names to be prettier
+      rename(Party = party_winner) %>%
+      rename("Electoral College Votes" = total_votes)
+  },
+  #include.rownames=FALSE
+  )
+  
+  # Make sentence
   output$result_sent = renderText({
     paste("The winner of the election was the",
           filter(data_sum(), total_votes == max(total_votes))$party_winner,
           "party with", filter(data_sum(), total_votes == max(total_votes))$total_votes,
           "electoral college votes.")
   })
-  
-  output$result_tab = renderTable({
-    data_sum() %>%
-      rename(Party = party_winner) %>%
-      rename("Electoral College Votes" = total_votes)
-    },
-  include.rownames=FALSE
-  )
 
 }
 
