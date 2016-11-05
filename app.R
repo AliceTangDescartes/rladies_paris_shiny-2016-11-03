@@ -38,7 +38,7 @@ ui <- fluidPage(
   # Add webpage title
   title = "R-Ladies Paris: Shiny Tutorial",
   
-  # Add top descriptor inforamtion information
+  # Add top descriptor information
   tags$h1("Historical United States Presidential Election Results"),
   tags$h4("Data from", tags$a(href = "https://en.wikipedia.org/wiki/List_of_United_States_presidential_election_results_by_state",
          "Wikipedia: List of United States presidential election results by state"), "article."),
@@ -58,10 +58,10 @@ ui <- fluidPage(
     mainPanel(
       
       # Add space for election summary table
-      tableOutput("result_tab"),
+      tableOutput("result_table"),
       
       # Add space for election summary sentence
-      textOutput("result_sent"),
+      textOutput("result_text"),
 
       # Add space for map 
       plotOutput("result_map")
@@ -96,17 +96,18 @@ server <- function(input, output) {
   })
   
   # Make table
-  output$result_tab = renderTable({
+  output$result_table = renderTable({
     data_sum() %>%
       # Clean up column header names to be prettier
       rename(Party = party_winner) %>%
       rename("Electoral College Votes" = total_votes)
   },
-  #include.rownames=FALSE
+  # Needed to get rid of extra column with row numbers
+  include.rownames = FALSE
   )
   
   # Make sentence
-  output$result_sent = renderText({
+  output$result_text = renderText({
     paste("The winner of the election was the",
           filter(data_sum(), total_votes == max(total_votes))$party_winner,
           "party with", filter(data_sum(), total_votes == max(total_votes))$total_votes,
