@@ -32,6 +32,7 @@ data_result = inner_join(data_elections, data_electoral)
 
 ## MAKE UI INPUTS ####
 ui <- fluidPage(
+  
   # Add CSS template
   theme = "bootswatch-cerulean.css",
   
